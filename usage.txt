@@ -1,26 +1,26 @@
 [
         {
-		"label": "VERSALINK C405 DN",
+		"label": "SP 8400DN",
 		"values":
 			[
-				{ "x":"April", "y": 8400},
-				{ "x":"May", "y":8103},
-				{ "x":"June", "y":7511},
-				{ "x":"July", "y":8291},
-				{ "x":"August", "y":7844},
-        			{ "x":"September", "y":8099}
+				{ "x":"June", "y": 51000},
+				{ "x":"July", "y":49000},
+				{ "x":"August", "y":52100},
+				{ "x":"September", "y":47000},
+				{ "x":"October", "y":50500},
+        			{ "x":"November", "y":2971}
 			]
 	},
 	{
-		"label": "B215 MULTIFUNCTION",
+		"label": "SP 6430DN",
 		"values":
 			[
-				{ "x":"April", "y":2900},
-				{ "x":"May", "y":3001},
-				{ "x":"June", "y":3151},
-				{ "x":"July", "y":2877},
-				{ "x":"August", "y":2799},
-        			{ "x":"September", "y":3099}
+				{ "x":"June", "y":18500},
+				{ "x":"July", "y":19750},
+				{ "x":"August", "y":17100},
+				{ "x":"September", "y":18500},
+				{ "x":"October", "y":15800},
+        			{ "x":"November", "y":4113}
 			]
 	}
 ]
