@@ -1,24 +1,24 @@
 {
 	"data": [
 	[
+		"Online",
 		"408244",
 		"SP 8400DN - Black and White Laser Printer",
 		"02/02/2017",
 		"07/01/2019",
 		"2971 pages",
 		"up to 53000",
-		"Online",
 		"79%",
 		""
 	],
 	[
+		"Online",
 		"408301",
 		"SP 6430DN - Black and White Laser Printer",
 		"05/12/2018",
 		"12/21/2018",
 		"4113 pages",
 		"up to 20000",
-		"Online",
 		"21%",
 		""
 	]
