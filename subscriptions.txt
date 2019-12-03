@@ -3,14 +3,14 @@
 [
 		"YES",
 		"Yamaha Extended Services",
-		"$179.99",
+		"349.99",
 		"12/27/2019",
 		"Active"
 	],
 	[
 		"ADV",
 		"Yamalube Advantage",
-		"$369.00",
+		"$224.00",
 		"12/14/2019",
 		"Ends Soon"
 	],
