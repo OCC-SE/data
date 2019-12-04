@@ -5,26 +5,24 @@
 				 "Locked",
 				 "CPQ-403",
 				 "2",
-				 "MP C307 Color Laser Multifunction Printer",
+				 "2020 - GRIZZLY EPS XT-R",
 				 "Created",
-				 "$1,254.79",
+				 "$10,514",
 				 "Lisa Jones",
 				 "09/09/2019",
-				 "09/21/2019 15:51",
-				 "0.00"
+				 "09/21/2019 15:51"
 			],
 			[
 				 "1",
 				 "",
 				 "CPQ-741",
 				 "1",
-				 "MP C8003 Color Laser Multifunction Printer",
+				 "2020 - RAPTOR 90",
 				 "Quoted",
-				 "$1,399.12",
+				 "$2,899",
 				 "Lisa Jones",
-				 "08/30/2019",
-				 "09/07/2019 12:49",
-				 "0.00"
+				 "08/30/2018",
+				 "09/07/2019 12:49"
 			]
 		]
 }
