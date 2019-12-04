@@ -5,11 +5,11 @@
 		"2019",
 		"Goodyear",
 		"KODIAK 450 EPS SE",
+		"05/12/2019",
 		"",
-		"07/01/2019",
 		"Front Right",
 		"671 minutes",
-		"79%",
+		"95%",
 		""
 	],
 	[
@@ -21,7 +21,7 @@
 		"11/21/2019",
 		"Front Left",
 		"671 minutes",
-		"71%",
+		"97%",
 		""
 	]
 ,
@@ -34,12 +34,12 @@
 		"",
 		"Rear Right",
 		"671 minutes",
-		"71%",
+		"88%",
 		""
 	]
 ,
 	[
-		"Online",
+		"Offline",
 		"2020",
 		"Goodyear",
 		"KODIAK 450 EPS SE",
