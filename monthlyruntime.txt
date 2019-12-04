@@ -1,26 +1,26 @@
 [
         {
-		"label": 2018,
+		"label": "RAPTOR 700",
 		"values":
 			[
-				{ "x":"March", "y": 77},
-				{ "x":"April", "y": 88},
-				{ "x":"May", "y":99},
-				{ "x":"June", "y":66},
-				{ "x":"July", "y":55},
-				{ "x":"August", "y":38}
+				{ "x":"July", "y":121},
+				{ "x":"August", "y":220},
+				{ "x":"September", "y":143},
+				{ "x":"October", "y":110},
+				{ "x":"November", "y":95},
+				{ "x":"December", "y":21}
 			]
 	},
 	{
-		"label": 2019,
+		"label": "KODIAK 450 EPS SE",
 		"values":
 			[
-				{ "x":"March", "y":66},
-				{ "x":"April", "y":93},
-				{ "x":"May", "y":81},
-				{ "x":"June", "y":101},
-				{ "x":"July", "y":88},
-				{ "x":"August", "y":45}
+				{ "x":"July", "y":559},
+				{ "x":"August", "y":450},
+				{ "x":"September", "y":599},
+				{ "x":"October", "y":710},
+				{ "x":"November", "y":671},
+				{ "x":"December", "y":45}
 			]
 	}
 ]
