@@ -3,10 +3,11 @@
 	[
 		"Online",
 		"2019",
-		"Michelin",
+		"Goodyear",
 		"KODIAK 450 EPS SE",
-		"11/02/2017",
+		"",
 		"07/01/2019",
+		"Front Right",
 		"671 minutes",
 		"79%",
 		""
@@ -15,12 +16,39 @@
 		"Online",
 		"2020",
 		"Goodyear",
-		"RAPTOR 700",
+		"KODIAK 450 EPS SE",
 		"05/12/2019",
 		"11/21/2019",
+		"Front Left",
 		"671 minutes",
 		"71%",
 		""
 	]
+,
+	[
+		"Online",
+		"2020",
+		"Goodyear",
+		"KODIAK 450 EPS SE",
+		"05/12/2019",
+		"",
+		"Rear Right",
+		"671 minutes",
+		"71%",
+		""
+	]
+,
+	[
+		"Online",
+		"2020",
+		"Goodyear",
+		"KODIAK 450 EPS SE",
+		"05/12/2019",
+		"",
+		"Rear Left",
+		"671 minutes",
+		"71%",
+		""
+	]	
 	]
 }
