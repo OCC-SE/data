@@ -1,0 +1,5 @@
+[
+  {"label": "Turbo BIkes", "color":"rgb(144,103,167)", "value": 500},
+	{"label": "Road Bikes", "color":"rgb(132,186,91)", "value": 200},
+	{"label": "Mountain Bikes", "color":"rgb(211,94,96)", "value": 100}
+]
