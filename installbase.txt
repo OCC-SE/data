@@ -2,6 +2,7 @@
 	"data": [
 	[
 		"Online",
+		"2020kodiak450epsse.png",
 		"2019",
 		"KODIAK 450 EPS SE",
 		"11/02/2017",
@@ -14,6 +15,7 @@
 	[
 		"Online",
 		"2020",
+		"2020raptor90.png",
 		"RAPTOR 700",
 		"05/12/2019",
 		"11/21/2019",
