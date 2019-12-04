@@ -2,7 +2,7 @@
 	"data": [
 	[
 		"Online",
-		"2019",
+		"2018",
 		"Goodyear",
 		"KODIAK 450 EPS SE",
 		"05/12/2019",
@@ -14,7 +14,7 @@
 	],
 	[
 		"Online",
-		"2020",
+		"2018",
 		"Goodyear",
 		"KODIAK 450 EPS SE",
 		"05/12/2019",
@@ -27,7 +27,7 @@
 ,
 	[
 		"Online",
-		"2020",
+		"2018",
 		"Goodyear",
 		"KODIAK 450 EPS SE",
 		"05/12/2019",
@@ -40,7 +40,7 @@
 ,
 	[
 		"Offline",
-		"2020",
+		"2018",
 		"Goodyear",
 		"KODIAK 450 EPS SE",
 		"05/12/2019",
@@ -48,6 +48,56 @@
 		"Rear Left",
 		"671 minutes",
 		"71%",
+		""
+	],
+	[
+		"Online",
+		"2019",
+		"Yamaha",
+		"RAPTOR 700",
+		"05/12/2019",
+		"",
+		"Front Right",
+		"143 minutes",
+		"95%",
+		""
+	],
+	[
+		"Online",
+		"2020",
+		"Yamaha",
+		"RAPTOR 700",
+		"05/12/2019",
+		"",
+		"Front Left",
+		"143 minutes",
+		"97%",
+		""
+	]
+,
+	[
+		"Online",
+		"2020",
+		"Yamaha",
+		"RAPTOR 700",
+		"05/12/2019",
+		"",
+		"Rear Left",
+		"143 minutes",
+		"94%",
+		""
+	]
+,
+	[
+		"Online",
+		"2020",
+		"Yamaha",
+		"RAPTOR 700",
+		"05/12/2019",
+		"",
+		"Rear Right",
+		"143 minutes",
+		"93%",
 		""
 	]	
 	]
