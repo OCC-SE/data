@@ -1,5 +1,5 @@
 [
-  {"label": "Open", "color":"rgb(144,103,167)", "value": 5},
+  {"label": "Open - Warrany", "color":"rgb(144,103,167)", "value": 5},
 	{"label": "Closed", "color":"rgb(132,186,91)", "value": 2},
-	{"label": "Critical", "color":"rgb(211,94,96)", "value": 1}
+	{"label": "Open - Out of Warranty", "color":"rgb(211,94,96)", "value": 1}
 ]

@@ -1,25 +1,25 @@
 [
         {
-		"label": 2018,
+		"label": "Jane Smith",
 		"values":
 			[
-				{ "x":"March", "y": 77},
-				{ "x":"April", "y": 88},
-				{ "x":"May", "y":99},
-				{ "x":"June", "y":66},
-				{ "x":"July", "y":55},
-				{ "x":"August", "y":38}
+				{ "x":"March", "y": 0},
+				{ "x":"April", "y": 2},
+				{ "x":"May", "y":0},
+				{ "x":"June", "y":4},
+				{ "x":"July", "y":7},
+				{ "x":"August", "y":3}
 			]
 	},
 	{
-		"label": 2019,
+		"label": "Total Requests",
 		"values":
 			[
-				{ "x":"March", "y":66},
-				{ "x":"April", "y":93},
-				{ "x":"May", "y":81},
-				{ "x":"June", "y":101},
-				{ "x":"July", "y":88},
+				{ "x":"March", "y":3},
+				{ "x":"April", "y":10},
+				{ "x":"May", "y":5},
+				{ "x":"June", "y":7},
+				{ "x":"July", "y":23},
 				{ "x":"August", "y":45}
 			]
 	}
