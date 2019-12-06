@@ -3,10 +3,26 @@
 [
 		"MPS1101",
 		"Turbo EBike Replenishment",
-		"Quarterly"
+		"Quarterly",
 		"$50,000.00",
 		"12/27/2020",
 		"Active"
+	],
+	[
+		"MAS1101",
+			"Mountain Bike Replenishment",
+			"Monthly",
+			"15,000.00",
+			"12/29/2019",
+			"Ends Soon"
+	],
+	[
+		"TES1101",
+			"Specialized Apparel Replenishment",
+			"Bi-Weekly",
+			"$5,000.00",
+			"N/A",
+			"Suspended"
 	]
 	]
 }
