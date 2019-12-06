@@ -3,51 +3,27 @@
 	"data": [
 		[
 			 "3861728",
-			 "S-Works Venge Carbon Seatpost",
-			 "Upgrade for Shiv Elite",
+			 "Specialized Turbo Vado 3.0",
+			 "Top Seller",
 			 "Available Now",
-			"$300.00",
-			"3 Days"
+			"$2,000.00 per unit",
+			"2 Weeks"
 		],
 		[
 			 "64820-0900",
-			 "HyprViz Deflect™ UV Cycling Cap",
-			 "Similar Riders Bought",
+			 "Therminal Mountain Jersey",
+			 "Retailer Inventory Low",
 			 "Available Now",
-			"$35.00",
+			"$80.00 per unit",
 			"3 Days"
 		],
 				[
 			 "30020-4700",
-			 "Roval Terra CLX EVO",
-			 "Shiv Elite Riders Bought",
+			 "S-Works Evade with ANGi",
+			 "Best Cross Sell with Turbo Bikes",
 			 "Available Now",
-			"$2,500.00",
-			"3 Days"
-		],
-		[
-			 "3861729",
-			 "Shimano 105, 11 speed chain",
-			 "Replacement part for Shiv Elite",
-			 "Available Now",
-			"$19.99",
-			"3 Days"
-		],
-		[
-			 "3861741",
-			 "Axis 2.0 Wheels",
-			 "Replacement part for Shiv Elite",
-			 "Backordered - 7 Days Out",
-			"$300.00",
-			"3 Days"
-		],
-		[
-			 "3861873",
-			 "Shiv Alloy Aerobars",
-			 "Replacement part for Shiv Elite",
-			 "Available Now",
-			"$179.99",
-			"3 Days"
+			"$175 per unit.00",
+			"3/1/2020"
 		]
 	]
 }
