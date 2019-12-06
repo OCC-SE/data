@@ -1,0 +1,25 @@
+{
+"data": [
+[
+		"MPS1101",
+		"Managed Print Services",
+		"$179.99",
+		"12/27/2019",
+		"Active"
+	],
+	[
+		"MAS1101",
+		"Maintenance Services",
+		"$369.00",
+		"11/29/2019",
+		"Ends Soon"
+	],
+	[
+		"TES1101",
+		"Technology Services",
+		"$549.99",
+		"11/25/2018",
+		"Suspended"
+	]
+	]
+}
