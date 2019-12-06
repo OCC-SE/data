@@ -2,24 +2,27 @@
 "data": [
 [
 		"MPS1101",
-		"Managed Print Services",
-		"$179.99",
-		"12/27/2019",
+		"Turbo E-Bike Replenishment",
+		"Quarterly"
+		"$50,000.00",
+		"12/27/2020",
 		"Active"
 	],
 	[
 		"MAS1101",
-		"Maintenance Services",
-		"$369.00",
-		"11/29/2019",
-		"Ends Soon"
+			"Mountain Bike Replenishment",
+			"Monthly",
+			"15,000.00",
+			"12/29/2019",
+			"Ends Soon"
 	],
 	[
 		"TES1101",
-		"Technology Services",
-		"$549.99",
-		"11/25/2018",
-		"Suspended"
+			"Specialized Apparel Replenishment",
+			"Bi-Weekly",
+			"$5,000.00",
+			"N/A",
+			"Suspended"
 	]
 	]
 }
