@@ -3,27 +3,10 @@
 	"data": [
 		[
 			 "3861728",
-			 "Bike Manual",
-			 "08/2018",
-			 "06/2020"
-		],
-		[
-			 "3861729",
-			 "Purchase Receipt",
-			 "08/2018",
-			 "N/A"
-		],
-		[
-			 "3861730",
-			 "Warranty Details",
-			 "08/2018",
-			 "06/2020"
-		],
-		[
-			 "3861731",
-			 "Bike Details",
-			 "08/2018",
-			 "06/2020"
+			 "S-Works Venge Carbon Seatpost",
+			 "Upgrade for Shiv Elite bike",
+			 "Available Now",
+			"$300.00"
 		]
 	]
 }
