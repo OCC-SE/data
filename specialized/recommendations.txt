@@ -6,7 +6,8 @@
 			 "S-Works Venge Carbon Seatpost",
 			 "Upgrade for Shiv Elite bike",
 			 "Available Now",
-			"$300.00"
+			"$300.00",
+			"3 Days"
 		]
 	]
 }
