@@ -1,26 +1,46 @@
 {
 	"items": [
 			{
-				 "Lock": "Locked",
-				 "Transaction": "CPQ-403",
-				 "Version": "2",
-				 "Description": "Traditional Hydepark Bed",
-				 "Status": "Created",
-				 "TCV": "$2,599.00",
-				 "Prepared By": "Lisa Jones",
-				 "Created": "09/09/2019",
-				 "Updated": "09/21/2019 15:51"
+				 "transactionID_t": "CPQ-403",
+				 "version_number_versionTransaction_t": "2",
+				 "transactionName_t": "Traditional Hydepark Bed",
+		             	 "status_t": {
+                		  	"displayValue": "Created",
+                  		  	"value": "CREATED"
+            			 },
+			    	 "totalContractValue_t": {
+					"value": 2700.0,
+					"currency": "USD"
+			    	 },
+               			 "totalAnnualValue_t": {
+                		 	"value": 0.0,
+                		 	"currency": "USD"
+            			 },					 
+				 "owner_t": "Lisa Jones",
+				 "_customer_t_company_name": "Hudson",
+				 "createdDate_t": "09/09/2019",
+				 "lastUpdatedDate_t": "09/21/2019 15:51"
 			},
 			{
-				 "Lock": "",
-				 "Transaction": "CPQ-741",
-				 "Version": "1",
-				 "Description": "Entertainment room furniture",
-				 "Status": "Quoted",
-				 "TCV": "$4,399.50",
-				 "Prepared By": "Lisa Jones",
-				 "Created": "08/30/2019",
-				 "Updated": "09/07/2019 12:49"
-			}
+				 "transactionID_t": "CPQ-403",
+				 "version_number_versionTransaction_t": "1",
+				 "transactionName_t": "Entertainment room furniture",
+		             	 "status_t": {
+                		  	"displayValue": "Quoted",
+                  		  	"value": "QUOTED"
+            			 },
+			    	 "totalContractValue_t": {
+					"value": 4300.50,
+					"currency": "USD"
+			    	 },
+               			 "totalAnnualValue_t": {
+                		 	"value": 0.0,
+                		 	"currency": "USD"
+            			 },					 
+				 "owner_t": "Lisa Jones",
+				 "_customer_t_company_name": "Hudson",
+				 "createdDate_t": "08/30/2019",
+				 "lastUpdatedDate_t": "11/21/2019 15:51"
+			}			
 		]
 }
