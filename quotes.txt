@@ -6,7 +6,7 @@
 				 "Version": "2",
 				 "Description": "MP C307 Color Laser Multifunction Printer",
 				 "Status": "Created",
-				 "Amount": "$1,254.79",
+				 "TCV": "$1,254.79",
 				 "Prepared By": "Lisa Jones",
 				 "Created": "09/09/2019",
 				 "Updated": "09/21/2019 15:51"
@@ -17,7 +17,7 @@
 				 "Version": "1",
 				 "Description": "MP C8003 Color Laser Multifunction Printer",
 				 "Status": "Quoted",
-				 "Amount": "$1,399.12",
+				 "TCV": "$1,399.12",
 				 "Prepared By": "Lisa Jones",
 				 "Created": "08/30/2019",
 				 "Updated": "09/07/2019 12:49"
