@@ -1,6 +1,6 @@
 {
 	"items": [
-	[
+	{
 		"408244",
 		"SP 8400DN - Black and White Laser Printer",
 		"02/02/2017",
@@ -9,8 +9,8 @@
 		"up to 53000",
 		"79%",
 		""
-	],
-	[
+	},
+	{
 		"408301",
 		"SP 6430DN - Black and White Laser Printer",
 		"05/12/2018",
@@ -19,6 +19,6 @@
 		"up to 20000",
 		"21%",
 		""
-	]
+	}
 	]
 }
