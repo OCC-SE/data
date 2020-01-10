@@ -1,5 +1,5 @@
 {
-	"data": [
+	"items": [
 	[
 		"408244",
 		"SP 8400DN - Black and White Laser Printer",
