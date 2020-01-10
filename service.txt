@@ -30,13 +30,13 @@
       "Title": "Broken handle on toilet",
       "ChannelTypeCdMeaning": "Video",
       "LastUpdateDate": "2019-06-11T08:47:15.061+00:00",
-      "AccountPartyName": "New Start Gyms",
+      "AccountPartyName": "Hudson",
       "StatusCdMeaning": "In Progress"
     },
     {
       "CriticalFlag": true,
-      "SeverityCdMeaning": "Low",
-      "SeverityRank": 30,
+      "SeverityCdMeaning": "High",
+      "SeverityRank": 70,
       "SrNumber": "SR102155",
       "Title": "Loose leg on dining room chair",
       "ChannelTypeCdMeaning": "Chat",
