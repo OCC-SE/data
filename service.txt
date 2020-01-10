@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "CriticalFlag": false,
+      "SeverityCdMeaning": "Low",
+      "SeverityRank": 30,
+      "SrNumber": "SR122192",
+      "Title": "Treadmill monitor blurred",
+      "ChannelTypeCdMeaning": "Chat",
+      "LastUpdateDate": "2019-08-13T17:27:48.372+00:00",
+      "AccountPartyName": "New Start Gyms",
+      "StatusCdMeaning": "Waiting"
+    },
+    {
+      "CriticalFlag": false,
+      "SeverityCdMeaning": "Medium",
+      "SeverityRank": 20,
+      "SrNumber": "SR101153",
+      "Title": "Fitness device display not responding",
+      "ChannelTypeCdMeaning": "Phone",
+      "LastUpdateDate": "2019-08-07T16:37:31.059+00:00",
+      "AccountPartyName": "New Start Gyms",
+      "StatusCdMeaning": "In Progress"
+    },
+    {
+      "CriticalFlag": false,
+      "SeverityCdMeaning": "Low",
+      "SeverityRank": 30,
+      "SrNumber": "SR107168",
+      "Title": "Cardio equipment beep sound",
+      "ChannelTypeCdMeaning": "Video",
+      "LastUpdateDate": "2019-06-11T08:47:15.061+00:00",
+      "AccountPartyName": "New Start Gyms",
+      "StatusCdMeaning": "In Progress"
+    },
+    {
+      "CriticalFlag": false,
+      "SeverityCdMeaning": "Low",
+      "SeverityRank": 30,
+      "SrNumber": "SR102155",
+      "Title": "Treadmill power button stuck",
+      "ChannelTypeCdMeaning": "Chat",
+      "LastUpdateDate": "2019-05-15T13:49:54.470+00:00",
+      "AccountPartyName": "New Start Gyms",
+      "StatusCdMeaning": "New"
+    },
+    {
+      "CriticalFlag": false,
+      "SeverityCdMeaning": "Low",
+      "SeverityRank": 30,
+      "SrNumber": "SR101156",
+      "Title": "Smart band display problem",
+      "ChannelTypeCdMeaning": "Video",
+      "LastUpdateDate": "2019-05-15T07:21:02.202+00:00",
+      "AccountPartyName": "New Start Gyms",
+      "StatusCdMeaning": "New"
+    },
+    {
+      "CriticalFlag": false,
+      "SeverityCdMeaning": "Low",
+      "SeverityRank": 30,
+      "SrNumber": "SR070138",
+      "Title": "New Fitness equipment query.",
+      "ChannelTypeCdMeaning": "Chat",
+      "LastUpdateDate": "2019-05-15T06:01:01.178+00:00",
+      "AccountPartyName": "New Start Gyms",
+      "StatusCdMeaning": "Waiting"
+    }
+  ]
+}
