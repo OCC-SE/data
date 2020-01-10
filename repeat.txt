@@ -1,5 +1,5 @@
 {
-	"data": [
+	"items": [
 	[
 		"106R04346",
 		"Xerox B205/B210/B215 Toner Cartridge",
