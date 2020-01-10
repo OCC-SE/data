@@ -4,9 +4,9 @@
 				 "Lock": "Locked",
 				 "Transaction": "CPQ-403",
 				 "Version": "2",
-				 "Description": "MP C307 Color Laser Multifunction Printer",
+				 "Description": "Traditional Hydepark Bed",
 				 "Status": "Created",
-				 "TCV": "$1,254.79",
+				 "TCV": "$2,599.00",
 				 "Prepared By": "Lisa Jones",
 				 "Created": "09/09/2019",
 				 "Updated": "09/21/2019 15:51"
@@ -15,9 +15,9 @@
 				 "Lock": "",
 				 "Transaction": "CPQ-741",
 				 "Version": "1",
-				 "Description": "MP C8003 Color Laser Multifunction Printer",
+				 "Description": "Entertainment room furniture",
 				 "Status": "Quoted",
-				 "TCV": "$1,399.12",
+				 "TCV": "$4,399.50",
 				 "Prepared By": "Lisa Jones",
 				 "Created": "08/30/2019",
 				 "Updated": "09/07/2019 12:49"
