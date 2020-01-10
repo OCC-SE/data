@@ -12,9 +12,9 @@
 				 "Updated": "09/21/2019 15:51"
 			},
 			{
-				 "Status": "",
+				 "Lock": "",
 				 "Transaction": "CPQ-741",
-				 "Version":"1",
+				 "Version": "1",
 				 "Description": "MP C8003 Color Laser Multifunction Printer",
 				 "Status": "Quoted",
 				 "Amount": "$1,399.12",
