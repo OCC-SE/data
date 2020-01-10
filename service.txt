@@ -34,7 +34,7 @@
       "StatusCdMeaning": "In Progress"
     },
     {
-      "CriticalFlag": false,
+      "CriticalFlag": true,
       "SeverityCdMeaning": "Low",
       "SeverityRank": 30,
       "SrNumber": "SR102155",
