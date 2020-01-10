@@ -8,7 +8,7 @@
       "Title": "Treadmill monitor blurred",
       "ChannelTypeCdMeaning": "Chat",
       "LastUpdateDate": "2019-08-13T17:27:48.372+00:00",
-      "AccountPartyName": "New Start Gyms",
+      "AccountPartyName": "Hudson",
       "StatusCdMeaning": "Waiting"
     },
     {
@@ -19,7 +19,7 @@
       "Title": "Fitness device display not responding",
       "ChannelTypeCdMeaning": "Phone",
       "LastUpdateDate": "2019-08-07T16:37:31.059+00:00",
-      "AccountPartyName": "New Start Gyms",
+      "AccountPartyName": "Hudson",
       "StatusCdMeaning": "In Progress"
     },
     {
@@ -41,7 +41,7 @@
       "Title": "Treadmill power button stuck",
       "ChannelTypeCdMeaning": "Chat",
       "LastUpdateDate": "2019-05-15T13:49:54.470+00:00",
-      "AccountPartyName": "New Start Gyms",
+      "AccountPartyName": "Hudson",
       "StatusCdMeaning": "New"
     },
     {
@@ -52,7 +52,7 @@
       "Title": "Smart band display problem",
       "ChannelTypeCdMeaning": "Video",
       "LastUpdateDate": "2019-05-15T07:21:02.202+00:00",
-      "AccountPartyName": "New Start Gyms",
+      "AccountPartyName": "Hudson",
       "StatusCdMeaning": "New"
     },
     {
@@ -63,7 +63,7 @@
       "Title": "New Fitness equipment query.",
       "ChannelTypeCdMeaning": "Chat",
       "LastUpdateDate": "2019-05-15T06:01:01.178+00:00",
-      "AccountPartyName": "New Start Gyms",
+      "AccountPartyName": "Hudson",
       "StatusCdMeaning": "Waiting"
     }
   ]
