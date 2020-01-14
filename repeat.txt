@@ -2,9 +2,9 @@
 	"items": [
 	[
 		"106R04346",
-		"Wall Lamp replacement bulb",
+		"Wall Lamp bulbs (pack of 2)",
 		"2",
-		"$29.99",
+		"$39.99",
 		"12/03/2019",
 		"",
 		"",
@@ -12,9 +12,9 @@
 	],
 	[
 		"106R03524",
-		"VersaLink C405 Extra High Capacity Toner Cartridge",
-		"5",
-		"$194.99",
+		"Chandelier bulbs (pack of 4)",
+		"1",
+		"$124.99",
 		"01/22/2019",
 		"",
 		"",
