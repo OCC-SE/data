@@ -1,26 +1,28 @@
 [
         {
-		"label": "SP 8400DN",
+		"label": "Modern Salerno Sofa",
 		"values":
 			[
-				{ "x":"June", "y": 51000},
-				{ "x":"July", "y":49000},
-				{ "x":"August", "y":52100},
-				{ "x":"September", "y":47000},
-				{ "x":"October", "y":50500},
-        			{ "x":"November", "y":2971}
+				{ "x":"Sunday", "y":7},
+				{ "x":"Monday", "y": 1},
+				{ "x":"Tuesday", "y":2},
+				{ "x":"Wednesday", "y":1},
+				{ "x":"Thursday", "y":3},
+				{ "x":"Friday", "y":3},
+        			{ "x":"Saturday", "y":5}
 			]
 	},
 	{
-		"label": "SP 6430DN",
+		"label": "Rustic Ghent Chair",
 		"values":
 			[
-				{ "x":"June", "y":18500},
-				{ "x":"July", "y":19750},
-				{ "x":"August", "y":17100},
-				{ "x":"September", "y":18500},
-				{ "x":"October", "y":15800},
-        			{ "x":"November", "y":4113}
+				{ "x":"Sunday", "y":4},
+				{ "x":"Monday", "y":2},
+				{ "x":"Tuesday", "y":4},
+				{ "x":"Wednesday", "y":1},
+				{ "x":"Thursday", "y":4},
+				{ "x":"Friday", "y":1},
+        			{ "x":"Saturday", "y":7}
 			]
 	}
 ]
