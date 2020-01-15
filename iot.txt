@@ -2,25 +2,25 @@
   "items": [
     {
       "Status": "online",
-      "SeverityCdMeaning": "Low",
-      "SeverityRank": 30,
-      "SrNumber": "SR122192",
-      "Title": "Chandelier not dimming",
-      "ChannelTypeCdMeaning": "Chat",
-      "LastUpdateDate": "2019-08-13T17:27:48.372+00:00",
-      "AccountPartyName": "Hudson",
-      "StatusCdMeaning": "Waiting"
+      "Image": "salerno-sofa-blue.jpg",
+      "Name": "Modern Salerno Sofa",
+      "PurchaseDate", "10/12/2018",
+      "LastServiced", "n/a",
+      "UsageMonthAvg", 71,
+      "UsageTotal": 801,
+      "Temperature": "72 degrees",
+      "CushionPressure": "93%"
     },
     {
-      "Status": "offline",
-      "SeverityCdMeaning": "Medium",
-      "SeverityRank": 20,
-      "SrNumber": "SR101153",
-      "Title": "Sink faucet leak",
-      "ChannelTypeCdMeaning": "Phone",
-      "LastUpdateDate": "2019-08-07T16:37:31.059+00:00",
-      "AccountPartyName": "Hudson",
-      "StatusCdMeaning": "In Progress"
+      "Status": "online",
+      "Image": "shutterstock_122095657.jpg",
+      "Name": "Rustic Ghent Chair",
+      "PurchaseDate", "7/5/2019",
+      "LastServiced", "n/a",
+      "UsageMonthAvg", 33,
+      "UsageTotal": 271,
+      "Temperature": "69 degrees",
+      "CushionPressure": "97%"
     }
   ]
 }
