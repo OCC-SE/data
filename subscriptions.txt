@@ -6,7 +6,7 @@
     "TotalContractValue":"$179.99",
     "StartDate":"12/27/2017",
     "EndDate":"12/27/2019",
-    "Status":"Active",
+    "Status":"ORA_ACTIVE",
     "Duration":1,
     "Period":"YR"
   },
@@ -16,7 +16,7 @@
     "TotalContractValue":"$369.00",
     "StartDate":"11/28/2018",
     "EndDate":"11/29/2019",
-    "Status":"Ends Soon",
+    "Status":"ORA_ENDING",
     "Duration":1,
     "Period":"YR"
   },
@@ -26,7 +26,7 @@
     "TotalContractValue":"$549.99",
     "StartDate":"5/25/2018",
     "EndDate":"11/25/2018",
-    "Status":"Suspended",
+    "Status":"ORA_CLOSED",
     "Duration":1,
     "Period":"YR"
   }
