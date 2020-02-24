@@ -2,7 +2,7 @@
   "items": [
     {
       "Status": "online",
-      "Image": "https://westernstartrucks.com/_Assets/Models/Carousel/6900/6900Recovery.jpg",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/master/tables/6900Recovery.jpg",
       "Name": "6900SB Wrecker",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "n/a",
@@ -13,7 +13,7 @@
     },
     {
       "Status": "online",
-      "Image": "https://freightliner.blob.core.windows.net/media/truck/long-haul/122sd-black-1366x475.jpg",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/master/tables/122sd.jpg",
       "Name": "Severe-Duty 122SD",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
