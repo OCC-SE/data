@@ -8,7 +8,7 @@
       "LastServiced": "n/a",
       "UsageMonthAvg": 71,
       "UsageTotal": 801,
-      "Temperature": "72 degrees",
+      "Weight": "4500",
       "CushionPressure": "93%"
     },
     {
@@ -19,7 +19,7 @@
       "LastServiced": "n/a",
       "UsageMonthAvg": 33,
       "UsageTotal": 271,
-      "Temperature": "69 degrees",
+      "Weight": "5000",
       "CushionPressure": "97%"
     }
   ]
