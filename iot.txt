@@ -14,7 +14,7 @@
     {
       "Status": "online",
       "Image": "https://freightliner.blob.core.windows.net/media/truck/long-haul/122sd-black-1366x475.jpg",
-      "Name": "Severe-Dutty 122SD",
+      "Name": "Severe-Duty 122SD",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
       "UsageMonthAvg": 33,
