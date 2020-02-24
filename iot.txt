@@ -2,8 +2,8 @@
   "items": [
     {
       "Status": "online",
-      "Image": "salerno-sofa-blue.jpg",
-      "Name": "Modern Salerno Sofa",
+      "Image": "https://westernstartrucks.com/_Assets/Models/Carousel/6900/6900Recovery.jpg",
+      "Name": "6900SB Wrecker",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "n/a",
       "UsageMonthAvg": 71,
@@ -13,8 +13,8 @@
     },
     {
       "Status": "online",
-      "Image": "shutterstock_122095657.jpg",
-      "Name": "Rustic Ghent Chair",
+      "Image": "https://freightliner.blob.core.windows.net/media/truck/long-haul/122sd-black-1366x475.jpg",
+      "Name": "Severe-Dutty 122SD",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
       "UsageMonthAvg": 33,
