@@ -30,15 +30,15 @@
                   		  	"value": "QUOTED"
             			 },
 			    	 "totalContractValue_t": {
-					"value": $,4300.50,
+					"value": "$4,300.50",
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
                 		 	"value": 0.0,
                 		 	"currency": "USD"
             			 },					 
-				 "owner_t": "Lisa Jones",
-				 "_customer_t_company_name": "Hudson",
+				 "owner_t": "Andy Holdcroft",
+				 "_customer_t_company_name": "Grace Trailer West",
 				 "createdDate_t": "01/30/2020",
 				 "lastUpdatedDate_t": "01/30/2020 11:39"
 			}			
