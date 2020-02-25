@@ -12,7 +12,7 @@
       "Year": 2016,
       "Weight": "4500",
       "Mileage": "72,132",
-      "Spend": "$3,781",
+      "Spend": "$268",
       "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
       "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+1490320120&Nrpp=12&suppressResults=false&searchType=guided&type=search"
     },
@@ -27,7 +27,7 @@
       "Model": "Freightliner",
       "Year": 2017,
       "Weight": "5000",
-      "Spend": "$1,464",
+      "Spend": "$1,585",
       "Mileage": "51,421",
       "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
       "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+3475125136&Nrpp=12&suppressResults=false&searchType=guided&type=search"
