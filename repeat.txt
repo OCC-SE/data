@@ -19,12 +19,12 @@
 		"lastOrdered":"01/22/2020"
 	},	
 	{
-		"id":"se754",
-		"image":"bulb_led1.png",		
-		"displayName":"Led Bulb Natural Day",
-		"brand":"Supremo Elite",		
-		"quantity":2,
-		"total":4,
+		"id":"KSMA20014711QP",
+		"image":"KSMA20014711QPBrakeShoeKit.jpeg",		
+		"displayName":"Brake Shoe Kit",
+		"brand":"Meritor",		
+		"quantity":3,
+		"total":382.74,
 		"lastOrdered":"11/03/2019"
 	}
 	]
