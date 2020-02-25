@@ -30,7 +30,7 @@
                   		  	"value": "QUOTED"
             			 },
 			    	 "totalContractValue_t": {
-					"value": $,4300.50,
+					"value": "$4,300.50",
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
