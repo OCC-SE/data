@@ -10,13 +10,13 @@
 		"lastOrdered":"12/03/2019"
 	},
 	{
-		"id":"s540slb",
-		"image":"bulb_led1.png",		
-		"displayName":"Led Light Bulb",
-		"brand":"Supremo Interiors",
+		"id":"BK4720QPAR23P",
+		"image":"RemanBrakeShoeKit4720QP.jpeg",		
+		"displayName":"Reman Brake Shoe Kit",
+		"brand":"Armada",
 		"quantity":4,
-		"total":2,
-		"lastOrdered":"01/22/2019"
+		"total":253.68,
+		"lastOrdered":"01/22/2020"
 	},	
 	{
 		"id":"se754",
