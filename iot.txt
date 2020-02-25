@@ -6,21 +6,23 @@
       "Name": "6900SB Wrecker",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "n/a",
-      "UsageMonthAvg": 71,
-      "UsageTotal": 801,
+      "Make": "Daimler",
+      "Model": "Western Star 6900 Series",
+      "Year": 2016,
       "Weight": "4500",
-      "CushionPressure": "93%"
+      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+1490320120&Nrpp=12&suppressResults=false&searchType=guided&type=search"
     },
     {
       "Status": "online",
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/master/tables/122sd.jpg",
       "Name": "Severe-Duty 122SD",
-      "PurchaseDate": "7/5/2019",
+      "PurchaseDate": "7/5/2018",
       "LastServiced": "n/a",
-      "UsageMonthAvg": 33,
-      "UsageTotal": 271,
+      "Make": "Daimler",
+      "Model": "Freightliner",
+      "Year": 2017,
       "Weight": "5000",
-      "CushionPressure": "97%"
+      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+3475125136&Nrpp=12&suppressResults=false&searchType=guided&type=search"
     }
   ]
 }
