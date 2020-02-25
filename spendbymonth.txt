@@ -1,26 +1,26 @@
 [
         {
-		"label": 2018,
+		"label": "Severe-Duty 122SD",
 		"values":
 			[
-				{ "x":"June", "y": 77657},
-				{ "x":"July", "y": 88145},
-				{ "x":"August", "y":99714},
-				{ "x":"September", "y":66333},
-				{ "x":"October", "y":55100},
-				{ "x":"November", "y":38000}
+				{ "x":"September", "y":131},
+				{ "x":"October", "y":450},
+				{ "x":"November", "y":79},
+				{ "x":"December", "y":1100},
+				{ "x":"January", "y":211},
+				{ "x":"February", "y":57}
 			]
 	},
 	{
-		"label": 2019,
+		"label": "6900SB Wrecker",
 		"values":
 			[
-				{ "x":"June", "y":66321},
-				{ "x":"July", "y":93188},
-				{ "x":"August", "y":81177},
-				{ "x":"September", "y":101000},
-				{ "x":"October", "y":88557},
-				{ "x":"November", "y":45478}
+				{ "x":"September", "y":2133},
+				{ "x":"October", "y":470},
+				{ "x":"November", "y":155},
+				{ "x":"December", "y":277},
+				{ "x":"January", "y":1474},
+				{ "x":"February", "y":111}
 			]
 	}
 ]
