@@ -1,0 +1,19 @@
+{
+"items": [
+  {
+    "Store":"MPS1101",
+    "Location":"Platinum Warranty",
+    "OnHand":"$179.99"
+  },
+  {
+    "Store":"MPS1101",
+    "Location":"Platinum Warranty",
+    "OnHand":"$179.99"
+  },
+  {
+    "Store":"MPS1101",
+    "Location":"Platinum Warranty",
+    "OnHand":"$179.99"
+  }
+  ]
+}
