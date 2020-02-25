@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "CriticalFlag": false,
+      "Alert": false,
       "SeverityCdMeaning": "Low",
       "SeverityRank": 30,
       "SrNumber": "SR122192",
@@ -12,7 +12,7 @@
       "StatusCdMeaning": "Waiting"
     },
     {
-      "CriticalFlag": false,
+      "Alert": false,
       "SeverityCdMeaning": "Medium",
       "SeverityRank": 20,
       "SrNumber": "SR101153",
@@ -23,7 +23,7 @@
       "StatusCdMeaning": "In Progress"
     },
     {
-      "CriticalFlag": false,
+      "Alert": false,
       "SeverityCdMeaning": "Low",
       "SeverityRank": 30,
       "SrNumber": "SR107168",
@@ -34,7 +34,7 @@
       "StatusCdMeaning": "In Progress"
     },
     {
-      "CriticalFlag": true,
+      "Alert": true,
       "SeverityCdMeaning": "High",
       "SeverityRank": 70,
       "SrNumber": "SR102155",
@@ -45,7 +45,7 @@
       "StatusCdMeaning": "New"
     },
     {
-      "CriticalFlag": false,
+      "Alert": false,
       "SeverityCdMeaning": "Low",
       "SeverityRank": 30,
       "SrNumber": "SR101156",
