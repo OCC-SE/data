@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "Alert": false,
+      "Alert": "false",
       "Status": "online",
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/master/tables/6900Recovery.jpg",
       "Name": "6900SB Wrecker",
@@ -17,7 +17,7 @@
       "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+1490320120&Nrpp=12&suppressResults=false&searchType=guided&type=search"
     },
     {
-      "Alert": true,
+      "Alert": "true",
       "Status": "online",
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/master/tables/122sd.jpg",
       "Name": "Severe-Duty 122SD",
