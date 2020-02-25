@@ -1,10 +1,15 @@
 {
 	"items": [
 	{
-		"orderId":"o390011",
-		"creationDate":"2020-01-10T20:10:07.000Z",
-		"total":600,
-		"status":"Submitted to fulfillment"
+		"WebOrder":"o390011",
+		"Invoice":"",
+		"Customer":"",
+		"Master":"",
+		"PO":"",
+		"Date":"2020-01-10T20:10:07.000Z",
+		"Items":"",
+		"POTotal":"600",
+		"Status":"Submitted to fulfillment"
 	},
 	{
 		"orderId":"o390001",
