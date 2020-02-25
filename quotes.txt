@@ -3,13 +3,13 @@
 			{
 				 "transactionID_t": "CPQ-419",
 				 "version_number_versionTransaction_t": "2",
-				 "transactionName_t": "Traditional Hydepark Bed",
+				 "transactionName_t": "AC Compressor for 6900SB",
 		             	 "status_t": {
                 		  	"displayValue": "Created",
                   		  	"value": "CREATED"
             			 },
 			    	 "totalContractValue_t": {
-					"value": 2700.0,
+					"value": "$2,700",
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
@@ -17,20 +17,20 @@
                 		 	"currency": "USD"
             			 },					 
 				 "owner_t": "Lisa Jones",
-				 "_customer_t_company_name": "Hudson",
-				 "createdDate_t": "09/09/2019",
-				 "lastUpdatedDate_t": "09/21/2019 15:51"
+				 "_customer_t_company_name": "Grace Trailer",
+				 "createdDate_t": "12/19/2019",
+				 "lastUpdatedDate_t": "01/21/2020 15:51"
 			},
 			{
 				 "transactionID_t": "CPQ-503",
 				 "version_number_versionTransaction_t": "1",
-				 "transactionName_t": "Entertainment room furniture",
+				 "transactionName_t": "Replacement brake drums",
 		             	 "status_t": {
                 		  	"displayValue": "Quoted",
                   		  	"value": "QUOTED"
             			 },
 			    	 "totalContractValue_t": {
-					"value": 4300.50,
+					"value": $,4300.50,
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
@@ -39,8 +39,8 @@
             			 },					 
 				 "owner_t": "Lisa Jones",
 				 "_customer_t_company_name": "Hudson",
-				 "createdDate_t": "08/30/2019",
-				 "lastUpdatedDate_t": "11/21/2019 15:51"
+				 "createdDate_t": "01/30/2020",
+				 "lastUpdatedDate_t": "01/30/2020 11:39"
 			}			
 		]
 }
