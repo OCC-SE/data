@@ -9,7 +9,7 @@
                   		  	"value": "CREATED"
             			 },
 			    	 "totalContractValue_t": {
-					"value": "$2,700",
+					"value": 2700,
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
@@ -30,7 +30,7 @@
                   		  	"value": "QUOTED"
             			 },
 			    	 "totalContractValue_t": {
-					"value": "$4,300.50",
+					"value": 4300,
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
