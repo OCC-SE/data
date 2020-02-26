@@ -34,5 +34,17 @@
 				{ "x":"January", "y":474},
 				{ "x":"February", "y":711}
 			]
+	},
+	{
+		"label": "another truck",
+		"values":
+			[
+				{ "x":"September", "y":1133},
+				{ "x":"October", "y":370},
+				{ "x":"November", "y":255},
+				{ "x":"December", "y":577},
+				{ "x":"January", "y":474},
+				{ "x":"February", "y":711}
+			]
 	}
 ]
