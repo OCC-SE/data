@@ -47,6 +47,22 @@
       "Mileage": "26,147",
       "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
       "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=4228719131+3856431570+1596324822&Nrpp=12&suppressResults=false&searchType=guided&type=search"
-    }    
+    },
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/master/tables/6900XDLogger.jpg",
+      "Name": "6900SB Logger",
+      "PurchaseDate": "12/15/2014",
+      "LastServiced": "5/01/2019",
+      "Make": "Daimler",
+      "Model": "Western Star 6900 Series",
+      "Year": 2013,
+      "OilLife": "91%",
+      "Spend": "$5,211",
+      "Mileage": "96,815",
+      "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
+      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+1490320120&Nrpp=12&suppressResults=false&searchType=guided&type=search"
+    }        
   ]
 }
