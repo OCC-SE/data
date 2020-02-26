@@ -10,6 +10,7 @@
 		"Date":"2020-02-15T20:10:07.000Z",
 		"Items":"4",
 		"POTotal":"$743",
+		"DeliveryDate":"2020-03-04T20:10:07.000Z",
 		"Status":"Processing"
 	},
 	{
@@ -22,6 +23,7 @@
 		"Date":"2020-02-01T20:10:07.000Z",
 		"Items":"2",
 		"POTotal":"$312",
+		"DeliveryDate":"2020-02-27T20:10:07.000Z",
 		"Status":"In Transit"
 	},
 	{
@@ -34,6 +36,7 @@
 		"Date":"2020-01-22T20:10:07.000Z",
 		"Items":"1",
 		"POTotal":"$132",
+		"DeliveryDate":"2020-03-02T20:10:07.000Z",
 		"Status":"In Transit"
 	},
 	{
@@ -46,6 +49,7 @@
 		"Date":"2019-12-05T20:10:07.000Z",
 		"Items":"5",
 		"POTotal":"$981",
+		"DeliveryDate":"2020-04-01T20:10:07.000Z",
 		"Status":"Backordered"
 	},
 	{
@@ -58,6 +62,7 @@
 		"Date":"2019-11-22T20:10:07.000Z",
 		"Items":"2",
 		"POTotal":"$89",
+		"DeliveryDate":"",
 		"Status":"Cancelled"
 	},
 	{
@@ -70,6 +75,7 @@
 		"Date":"2019-11-11T20:10:07.000Z",
 		"Items":"11",
 		"POTotal":"$1,213",
+		"DeliveryDate":"2019-11-27T20:10:07.000Z",
 		"Status":"Delivered"
 	}							
 	]
