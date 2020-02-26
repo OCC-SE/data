@@ -44,7 +44,7 @@
 				{ "x":"November", "y":40},
 				{ "x":"December", "y":173},
 				{ "x":"January", "y":500},
-				{ "x":"February", "y":4711}
+				{ "x":"February", "y":711}
 			]
 	}
 ]
