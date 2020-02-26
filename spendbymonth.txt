@@ -22,5 +22,17 @@
 				{ "x":"January", "y":1474},
 				{ "x":"February", "y":111}
 			]
+	},
+	{
+		"label": "6900SB Wrecker",
+		"values":
+			[
+				{ "x":"September", "y":1133},
+				{ "x":"October", "y":370},
+				{ "x":"November", "y":255},
+				{ "x":"December", "y":577},
+				{ "x":"January", "y":474},
+				{ "x":"February", "y":711}
+			]
 	}
 ]
