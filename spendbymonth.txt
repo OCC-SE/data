@@ -24,7 +24,7 @@
 			]
 	},
 	{
-		"label": "6900SB Wrecker",
+		"label": "another truck",
 		"values":
 			[
 				{ "x":"September", "y":1133},
