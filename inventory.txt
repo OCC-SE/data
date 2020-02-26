@@ -7,7 +7,7 @@
   },
   {
     "Store":"MPS1101",
-    "Location":"US-22 Branch burg, New Jersey, NJ 08876",
+    "Location":"US-22 Branchburg, New Jersey, NJ 08876",
     "Phone":"(123) 123-1234"
   }
   ]
