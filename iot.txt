@@ -3,7 +3,7 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/master/tables/6900Recovery.jpg",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/6900Recovery.jpg",
       "Name": "6900SB Wrecker",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "n/a",
@@ -19,7 +19,7 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/master/tables/122sd.jpg",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/122sd.jpg",
       "Name": "Severe-Duty 122SD",
       "PurchaseDate": "7/5/2018",
       "LastServiced": "n/a",
@@ -51,7 +51,7 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/master/tables/6900XDLogger.jpg",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/6900XDLogger.jpg",
       "Name": "6900SB Logger",
       "PurchaseDate": "12/15/2014",
       "LastServiced": "5/01/2019",
