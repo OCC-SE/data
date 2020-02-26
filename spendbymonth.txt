@@ -24,27 +24,27 @@
 			]
 	},
 	{
-		"label": "another truck",
+		"label": "Quon CD 11L",
 		"values":
 			[
 				{ "x":"September", "y":1133},
 				{ "x":"October", "y":370},
 				{ "x":"November", "y":255},
 				{ "x":"December", "y":577},
-				{ "x":"January", "y":474},
-				{ "x":"February", "y":711}
+				{ "x":"January", "y":1400},
+				{ "x":"February", "y":789}
 			]
 	},
 	{
-		"label": "another truck",
+		"label": "6900SB Logger",
 		"values":
 			[
-				{ "x":"September", "y":1133},
-				{ "x":"October", "y":370},
-				{ "x":"November", "y":255},
-				{ "x":"December", "y":577},
-				{ "x":"January", "y":474},
-				{ "x":"February", "y":711}
+				{ "x":"September", "y":188},
+				{ "x":"October", "y":1201},
+				{ "x":"November", "y":40},
+				{ "x":"December", "y":173},
+				{ "x":"January", "y":500},
+				{ "x":"February", "y":4711}
 			]
 	}
 ]
