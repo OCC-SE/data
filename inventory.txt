@@ -2,13 +2,13 @@
 "items": [
   {
     "Store":"SI Store - Chicago #163",
-    "Location":"500 N Michigan Ave, Chicago, IL 60611",
+    "Address":"500 N Michigan Ave, Chicago, IL 60611",
     "Phone":"(312) 555-1212",
     "Location":"https://goo.gl/maps/6Je9z6LqXoU2Depj9"
   },
   {
     "Store":"MPS1101",
-    "Location":"US-22 Branchburg, New Jersey, NJ 08876",
+    "Address":"US-22 Branchburg, New Jersey, NJ 08876",
     "Phone":"(123) 123-1234",
     "Location":"https://goo.gl/maps/ZewLhrg6vjmMchsN9"
   }
