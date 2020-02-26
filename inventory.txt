@@ -7,7 +7,7 @@
     "Location":"https://goo.gl/maps/6Je9z6LqXoU2Depj9"
   },
   {
-    "Store":"MPS1101",
+    "Store":"NewJersey - 08876",
     "Address":"US-22 Branchburg, New Jersey, NJ 08876",
     "Phone":"(123) 123-1234",
     "Location":"https://goo.gl/maps/ZewLhrg6vjmMchsN9"
