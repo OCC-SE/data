@@ -59,7 +59,7 @@
       "Model": "Western Star 6900 Series",
       "Year": 2013,
       "OilLife": "91%",
-      "Spend": "$5,211",
+      "Spend": "$1,211",
       "Mileage": "96,815",
       "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
       "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+1490320120&Nrpp=12&suppressResults=false&searchType=guided&type=search"
