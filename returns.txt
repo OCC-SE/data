@@ -4,6 +4,7 @@
 		"id":"1105039",
 		"image":"1105039.png",
 		"displayName":"ARM,STD FGR,ASSY",
+		"customer":"540000",
 		"type":"Core",
 		"quantity":4,
 		"dateOrdered":"12/03/2019",
@@ -13,7 +14,8 @@
 		"id":"1105039",
 		"image":"1105039.png",
 		"displayName":"ARM,STD FGR,ASSY",
-		"type":"Core",
+		"customer":"540000",
+		"type":"Return",
 		"quantity":4,
 		"dateOrdered":"12/03/2019",
 		"dateReturned":"02/13/2020"
@@ -22,7 +24,8 @@
 		"id":"1105039",
 		"image":"1105039.png",
 		"displayName":"ARM,STD FGR,ASSY",
-		"type":"Core",
+		"customer":"540000",
+		"type":"Return",
 		"quantity":4,
 		"dateOrdered":"12/03/2019",
 		"dateReturned":"02/13/2020"
