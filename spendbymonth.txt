@@ -1,6 +1,6 @@
 [
         {
-		"label": "Severe-Duty 122SD",
+		"label": "Standard #12",
 		"values":
 			[
 				{ "x":"September", "y":131},
@@ -12,7 +12,7 @@
 			]
 	},
 	{
-		"label": "6900SB Wrecker",
+		"label": "Standard #5",
 		"values":
 			[
 				{ "x":"September", "y":2133},
@@ -24,7 +24,7 @@
 			]
 	},
 	{
-		"label": "Quon CD 11L",
+		"label": "Bridgemaster #7",
 		"values":
 			[
 				{ "x":"September", "y":1133},
@@ -36,7 +36,7 @@
 			]
 	},
 	{
-		"label": "6900SB Logger",
+		"label": "S-Series #1",
 		"values":
 			[
 				{ "x":"September", "y":188},
