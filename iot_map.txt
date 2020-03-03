@@ -8,7 +8,8 @@
       "OilLife": "49%",
       "Mileage": "12,132",
       "Lat": 43.068219,
-      "Lng": -87.942696
+      "Lng": -87.942696,
+      "Color": "rgb(114,147,203)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard05.JPG",
@@ -16,7 +17,8 @@
       "OilLife": "97%",
       "Mileage": "71,421",
       "Lat": 43.068971, 
-      "Lng": -87.880898      
+      "Lng": -87.880898,
+      "Color": "rgb(225,151,76)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/bridge07.JPG",
@@ -24,7 +26,8 @@
       "OilLife": "93%",
       "Mileage": "26,147",
       "Lat": 43.0274579,
-      "Lng": -87.9492994      
+      "Lng": -87.9492994,
+      "Color": "rgb(132,186,91)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/sseries01.JPG",
@@ -32,7 +35,8 @@
       "OilLife": "91%",
       "Mileage": "6,815",
       "Lat": 43.0453781,
-      "Lng": -87.9581448     
+      "Lng": -87.9581448,
+      "Color": "rgb(211,94,96)"
     }        
   ]
 }
