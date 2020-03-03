@@ -2,36 +2,36 @@
 	"items": [
 	{
 		"id":"1105039",
-		"image":"1105039.png",
+		"image":"1105039.JPG",
 		"displayName":"ARM,STD FGR,ASSY",
 		"orderId":"o389997",		
 		"customer":"540000",
 		"type":"Core",
 		"quantity":4,
-		"dateOrdered":"12/03/2019",
-		"dateReturned":"02/13/2020"
+		"dateOrdered":"01/06/2019",
+		"dateReturned":"02/23/2020"
 	},
 	{
-		"id":"1105039",
-		"image":"1105039.png",
+		"id":"0151690",
+		"image":"0151690.png",
 		"displayName":"ARM,STD FGR,ASSY",
 		"orderId":"o388919",
 		"customer":"540000",
 		"type":"Return",
-		"quantity":4,
+		"quantity":1,
 		"dateOrdered":"12/03/2019",
 		"dateReturned":"02/13/2020"
 	},	
 	{
-		"id":"1105039",
-		"image":"1105039.png",
+		"id":"1111759",
+		"image":"1111759.png",
 		"displayName":"ARM,STD FGR,ASSY",
 		"orderId":"o390002",		
 		"customer":"540000",
 		"type":"Return",
-		"quantity":4,
-		"dateOrdered":"12/03/2019",
-		"dateReturned":"02/13/2020"
+		"quantity":2,
+		"dateOrdered":"12/23/2019",
+		"dateReturned":"02/25/2020"
 	}
 	]
 }
