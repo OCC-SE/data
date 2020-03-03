@@ -3,7 +3,7 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.jpg",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.JPG",
       "Name": "Standard #12",
       "PurchaseDate": "10/12/2019",
       "LastServiced": "",
@@ -19,7 +19,7 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard05.jpg",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard05.JPG",
       "Name": "Standard #5",
       "PurchaseDate": "7/5/2018",
       "LastServiced": "",
