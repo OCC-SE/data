@@ -5,8 +5,8 @@
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.JPG",
       "Name": "Standard #12",
-      "Year": 2019,
       "OilLife": "49%",
+      "Mileage": "12,132",
       "Lat": 43.068219,
       "Lng": -87.942696
     },
