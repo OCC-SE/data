@@ -56,7 +56,7 @@
       "PurchaseDate": "1/15/2020",
       "LastServiced": "",
       "Make": "Pratt & Whitney",
-      "Model": Engine",
+      "Model": "Engine",
       "Year": 2019,
       "OilLife": "91%",
       "Spend": "$1,211",
