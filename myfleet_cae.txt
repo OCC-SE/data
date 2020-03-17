@@ -15,7 +15,7 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/cae-sim-2.jpg",
+      "Image": "cae-sim-2.jpg",
       "Name": "Bay #2",
       "PurchaseDate": "10/12/2019",
       "LastServiced": "",
@@ -27,7 +27,7 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/cae-sim-3.jpg",
+      "Image": "cae-sim-3.jpg",
       "Name": "Bay #3",
       "PurchaseDate": "10/12/2019",
       "LastServiced": "",
@@ -39,7 +39,7 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/cae-sim-4.jpg",
+      "Image": "cae-sim-4.jpg",
       "Name": "Bay #4",
       "PurchaseDate": "10/12/2019",
       "LastServiced": "",
