@@ -3,7 +3,7 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/cae-sim-1.jpg",
+      "Image": "cae-sim-1.jpg",
       "Name": "Bay #1",
       "PurchaseDate": "10/12/2019",
       "LastServiced": "06/01/2020",
