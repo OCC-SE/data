@@ -3,50 +3,50 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/engine-1.jpg",
-      "Name": "Aircraft #1",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/cae-sim-1.jpg",
+      "Name": "Bay #1",
       "PurchaseDate": "10/12/2019",
-      "LastServiced": "",
-      "UsageMonthAvg": "Arconic",
-      "UsageTotal": "Arconic Engine",
-      "Temperature": 2019,
-      "CushionPressure": "49%"
+      "LastServiced": "06/01/2020",
+      "UsageMonthAvg": "146",
+      "UsageTotal": "140,457",
+      "Temperature": 115,
+      "CushionPressure": "90%"
     },
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/engine-1.jpg",
-      "Name": "Aircraft #1",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/cae-sim-2.jpg",
+      "Name": "Bay #2",
       "PurchaseDate": "10/12/2019",
       "LastServiced": "",
-      "UsageMonthAvg": "Arconic",
-      "UsageTotal": "Arconic Engine",
+      "UsageMonthAvg": "128",
+      "UsageTotal": "139,783",
       "Temperature": 2019,
-      "CushionPressure": "49%"
+      "CushionPressure": "93%"
     },
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/engine-1.jpg",
-      "Name": "Aircraft #1",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/cae-sim-3.jpg",
+      "Name": "Bay #3",
       "PurchaseDate": "10/12/2019",
       "LastServiced": "",
-      "UsageMonthAvg": "Arconic",
-      "UsageTotal": "Arconic Engine",
-      "Temperature": 2019,
-      "CushionPressure": "49%"
+      "UsageMonthAvg": "144",
+      "UsageTotal": "156,333",
+      "Temperature": 117,
+      "CushionPressure": "95%"
     },
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/engine-1.jpg",
-      "Name": "Aircraft #1",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/cae-sim-4.jpg",
+      "Name": "Bay #4",
       "PurchaseDate": "10/12/2019",
       "LastServiced": "",
-      "UsageMonthAvg": "Arconic",
-      "UsageTotal": "Arconic Engine",
-      "Temperature": 2019,
-      "CushionPressure": "49%"
+      "UsageMonthAvg": "114",
+      "UsageTotal": "98,000",
+      "Temperature": 111,
+      "CushionPressure": "95%"
     }        
   ]
 }
