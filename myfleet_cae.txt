@@ -21,7 +21,7 @@
       "LastServiced": "",
       "UsageMonthAvg": "128",
       "UsageTotal": "139,783",
-      "Temperature": 2019,
+      "Temperature": 105,
       "CushionPressure": "93%"
     },
     {
