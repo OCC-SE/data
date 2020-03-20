@@ -3,26 +3,26 @@
 		"label": "H Series",
 		"values":
 			[
-				{ "x":"Sunday", "y":2},
-				{ "x":"Monday", "y": 8},
-				{ "x":"Tuesday", "y":8},
-				{ "x":"Wednesday", "y":7},
-				{ "x":"Thursday", "y":9},
-				{ "x":"Friday", "y":8},
-        			{ "x":"Saturday", "y":5}
+				{ "x":"Sunday", "y":100},
+				{ "x":"Monday", "y": 8000},
+				{ "x":"Tuesday", "y":8000},
+				{ "x":"Wednesday", "y":7000},
+				{ "x":"Thursday", "y":9000},
+				{ "x":"Friday", "y":8000},
+        			{ "x":"Saturday", "y":5000}
 			]
 	},
 	{
 		"label": "V Series",
 		"values":
 			[
-				{ "x":"Sunday", "y":2},
-				{ "x":"Monday", "y":8},
-				{ "x":"Tuesday", "y":6},
-				{ "x":"Wednesday", "y":7},
-				{ "x":"Thursday", "y":8},
-				{ "x":"Friday", "y":6},
-        			{ "x":"Saturday", "y":4}
+				{ "x":"Sunday", "y":200},
+				{ "x":"Monday", "y":8000},
+				{ "x":"Tuesday", "y":6000},
+				{ "x":"Wednesday", "y":7000},
+				{ "x":"Thursday", "y":8000},
+				{ "x":"Friday", "y":6000},
+        			{ "x":"Saturday", "y":4000}
 			]
 	}
 ]
