@@ -1,6 +1,6 @@
 [
         {
-		"label": "Bay 1 - 777",
+		"label": "H Series",
 		"values":
 			[
 				{ "x":"Sunday", "y":2},
@@ -13,7 +13,7 @@
 			]
 	},
 	{
-		"label": "Bay 2 - 747",
+		"label": "V Series",
 		"values":
 			[
 				{ "x":"Sunday", "y":2},
