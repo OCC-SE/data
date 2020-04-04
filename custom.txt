@@ -1,92 +1,9 @@
 {
 	"items": [
 	{
-		"WebOrder":"o390011",
-		"Invoice":"0722915",
-		"Customer":"540000",
-		"Master":"Grace Trailer",
-		"PO":"",
-		"Date":"2020-02-15T20:10:07.000Z",
-		"Items":"4",
-		"POTotal":"743",
-		"Status":"Submitted to fulfillment"
-	},
-	{
-		"WebOrder":"o390010",
-		"Invoice":"0722913",
-		"Customer":"540000",
-		"Master":"Grace Trailer",
-		"PO":"",
-		"Date":"2020-02-01T20:10:07.000Z",
-		"Items":"2",
-		"POTotal":"312",
-		"Status":"Pending payment"
-	},
-	{
-		"WebOrder":"o390009",
-		"Invoice":"0722912",
-		"Customer":"540000",
-		"Master":"Grace Trailer",
-		"PO":"",
-		"Date":"2020-01-22T20:10:07.000Z",
-		"Items":"1",
-		"POTotal":"132",
-		"Status":"Pending approval"
-	},
-	{
-		"WebOrder":"o390008",
-		"Invoice":"0722909",
-		"Customer":"540000",
-		"Master":"Grace Trailer",
-		"PO":"",
-		"Date":"2019-12-05T20:10:07.000Z",
-		"Items":"5",
-		"POTotal":"981",
-		"Status":"Cancelled"
-	},
-	{
-		"WebOrder":"o390007",
-		"Invoice":"0722904",
-		"Customer":"540000",
-		"Master":"Grace Trailer",
-		"PO":"",
-		"Date":"2019-11-22T20:10:07.000Z",
-		"Items":"2",
-		"POTotal":"89",
-		"Status":"Fulfilled"
-	},
-	{
-		"WebOrder":"o390006",
-		"Invoice":"0722903",
-		"Customer":"540000",
-		"Master":"Grace Trailer",
-		"PO":"",
-		"Date":"2019-11-11T20:10:07.000Z",
-		"Items":"11",
-		"POTotal":"1213",
-		"Status":"Fulfilled"
-	},
-	{
-		"WebOrder":"o390005",
-		"Invoice":"0722902",
-		"Customer":"540000",
-		"Master":"Grace Trailer",
-		"PO":"",
-		"Date":"2019-10-10T20:10:07.000Z",
-		"Items":"2",
-		"POTotal":"210",
-		"Status":"Fulfilled"
-	},	
-	{
-		"WebOrder":"o390004",
-		"Invoice":"0722901",
-		"Customer":"540000",
-		"Master":"Grace Trailer",
-		"PO":"",
-		"Date":"2019-10-01T20:10:07.000Z",
-		"Items":"1",
-		"POTotal":"499",
-		"Status":"Fulfilled"
-	}							
+		"key1":"Simple text column",
+		"key2":100,
+		"key3":"2020-02-15T20:10:07.000Z"
+	}
 	]
 }
