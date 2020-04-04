@@ -8,7 +8,7 @@
         [ "Start date" ],
         [ "Salary" ]
     ],
-  "data": [
+  "items": [
     [
       "Tiger Nixon",
       "System Architect",
