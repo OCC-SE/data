@@ -2,7 +2,7 @@
   "items": [
     {
       "Alert": "false",
-      "Status": "online",
+      "Status":"ACTIVE",
       "Image": "red.jpg",
       "Name": "Power Issues With Rack",
       "PurchaseDate": "10/12/2018",
@@ -14,7 +14,7 @@
     },
     {
       "Alert": "true",
-      "Status": "online",
+      "Status":"CLOSED",
       "Image": "green.jpg",
       "Name": "Upgrade Hardware",
       "PurchaseDate": "7/5/2019",
