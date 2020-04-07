@@ -3,26 +3,26 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "salerno-sofa-blue.jpg",
-      "Name": "Modern Salerno Sofa",
+      "Image": "red.jpg",
+      "Name": "Power Issues With Rack",
       "PurchaseDate": "10/12/2018",
-      "LastServiced": "n/a",
-      "UsageMonthAvg": 71,
-      "UsageTotal": 801,
-      "Temperature": "72 degrees",
-      "CushionPressure": "93%"
+      "LastServiced": "Having issues with the power",
+      "UsageMonthAvg": "Chris Janning",
+      "UsageTotal": "Critical",
+      "Temperature": "New",
+      "CushionPressure": "0%"
     },
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "shutterstock_122095657.jpg",
-      "Name": "Rustic Ghent Chair",
+      "Image": "green.jpg",
+      "Name": "Upgrade Hardware",
       "PurchaseDate": "7/5/2019",
-      "LastServiced": "n/a",
-      "UsageMonthAvg": 33,
-      "UsageTotal": 271,
-      "Temperature": "69 degrees",
-      "CushionPressure": "97%"
+      "LastServiced": "Need to upgrade the hardward",
+      "UsageMonthAvg": "Seth Altman",
+      "UsageTotal": "Normal",
+      "Temperature": "In Progress",
+      "CushionPressure": "50%"
     }
   ]
 }
