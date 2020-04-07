@@ -1,10 +1,32 @@
 {
   "items": [
+     {
+      "Alert": "false",
+      "Status":"CRITICAL",
+      "Name": "Power Issues With Rack",
+      "PurchaseDate": "10/12/2019",
+      "LastServiced": "Rack is Down",
+      "UsageMonthAvg": "Chris Janning",
+      "UsageTotal": "Critical",
+      "Temperature": "New",
+      "CushionPressure": "0%"
+    },
+     {
+      "Alert": "true",
+      "Status":"ACTIVE",
+      "Name": "Upgrade Hardware",
+      "PurchaseDate": "4/5/2020",
+      "LastServiced": "Need to upgrade the hardware",
+      "UsageMonthAvg": "Seth Altman",
+      "UsageTotal": "Normal",
+      "Temperature": "In Progress",
+      "CushionPressure": "50%"
+    },
     {
       "Alert": "false",
-      "Status":"ACTIVE",
+      "Status":"WARNING",
       "Name": "Power Issues With Rack",
-      "PurchaseDate": "10/12/2018",
+      "PurchaseDate": "4/4/2020",
       "LastServiced": "Having issues with the power",
       "UsageMonthAvg": "Chris Janning",
       "UsageTotal": "Critical",
@@ -13,10 +35,10 @@
     },
     {
       "Alert": "true",
-      "Status":"CLOSED",
-      "Name": "Upgrade Hardware",
-      "PurchaseDate": "7/5/2019",
-      "LastServiced": "Need to upgrade the hardward",
+      "Status":"ACTIVE",
+      "Name": "Questions IoT",
+      "PurchaseDate": "1/5/2020",
+      "LastServiced": "Questions about Edge IoT",
       "UsageMonthAvg": "Seth Altman",
       "UsageTotal": "Normal",
       "Temperature": "In Progress",
