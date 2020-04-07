@@ -3,21 +3,21 @@
     {
       "Alert": "false",
       "Status": "online",
+      "Image": "Critcal",
       "Name": "Power Issues with Rack",
       "PurchasedDate": "3/12/2020",
-      "LastService": "Details about the issues with the power going to the rack",
+      "LastServiced": "Details about the issues with the power going to the rack",
       "UsageMonthAvg": "Chris Janning",
-      "UsageTotal": "Critical",
       "Temperature": "New"
     },
     {
       "Alert": "true",
       "Status": "online",
+      "Image": "Normal",
       "Name": "Upgrade the Hardware",
       "PurchaseDate": "4/4/2020",
       "LastServiced": "Need to upgrade the hardware in the datacenter",
       "UsageMonthAvg": "Seth Altman",
-      "UsageTotal": "Normal",
       "Temperature": "In Progress"
     }
   ]
