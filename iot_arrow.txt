@@ -3,7 +3,6 @@
     {
       "Alert": "false",
       "Status":"ACTIVE",
-      "Image": "red.jpg",
       "Name": "Power Issues With Rack",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "Having issues with the power",
@@ -15,7 +14,6 @@
     {
       "Alert": "true",
       "Status":"CLOSED",
-      "Image": "green.jpg",
       "Name": "Upgrade Hardware",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "Need to upgrade the hardward",
