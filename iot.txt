@@ -1,6 +1,7 @@
 {
   "items": [
     {
+      "Alert": "false",
       "Status": "online",
       "Image": "salerno-sofa-blue.jpg",
       "Name": "Modern Salerno Sofa",
@@ -12,6 +13,7 @@
       "CushionPressure": "93%"
     },
     {
+      "Alert": "true",
       "Status": "online",
       "Image": "shutterstock_122095657.jpg",
       "Name": "Rustic Ghent Chair",
