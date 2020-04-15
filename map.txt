@@ -14,16 +14,16 @@
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard05.JPG",
       "Name": "FILTER STONE",
       "Arrival Time": "7:50 a.m.",
-      "Lat": 30.0810,
-      "Lng": -94.1280,
+      "Lat": 30.0910,
+      "Lng": -94.1480,
       "Color": "rgb(225,151,76)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/bridge07.JPG",
       "Name": "CRUSHER RUN/GRADE C BASE",
       "Arrival Time": "9:30 a.m.",
-      "Lat": 30.0815,
-      "Lng": -94.1300,
+      "Lat": 30.1015,
+      "Lng": -94.1700,
       "Color": "rgb(132,186,91)"
     }
   ]
