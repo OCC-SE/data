@@ -1,0 +1,69 @@
+{
+	"items": [
+	{
+		"Ticket #":"1158900470",
+		"Invoice #":"11507419",
+		"Date":"2020-02-15T20:10:07.000Z",
+		"Shipping Location":"NORCROSS",
+		"Product":"CRUSHED STONE BASE",
+		"Quantity":"21.52",
+		"UOM":"Ton",
+		"Vehicle ID":"T492",
+		"Order #":"1259105",
+		"Carrier":"PICK UP",
+		"Ticket Time":"9:23"
+	},
+	{
+		"Ticket #":"1158900471",
+		"Invoice #":"11507419",
+		"Date":"2020-02-15T20:10:07.000Z",
+		"Shipping Location":"NORCROSS",
+		"Product":"CRUSHED STONE BASE",
+		"Quantity":"24.30",
+		"UOM":"Ton",
+		"Vehicle ID":"T492",
+		"Order #":"1259105",
+		"Carrier":"PICK UP",
+		"Ticket Time":"9:26"
+	},
+	{
+		"Ticket #":"1158900472",
+		"Invoice #":"11507419",
+		"Date":"2020-02-15T20:10:07.000Z",
+		"Shipping Location":"NORCROSS",
+		"Product":"CRUSHED STONE BASE",
+		"Quantity":"25.30",
+		"UOM":"Ton",
+		"Vehicle ID":"T493",
+		"Order #":"1259105",
+		"Carrier":"PICK UP",
+		"Ticket Time":"9:27"
+	},
+	{
+		"Ticket #":"1158900473",
+		"Invoice #":"11507419",
+		"Date":"2020-02-15T20:10:07.000Z",
+		"Shipping Location":"NORCROSS",
+		"Product":"NO. 7 STONE WASHED",
+		"Quantity":"23.30",
+		"UOM":"Ton",
+		"Vehicle ID":"T496",
+		"Order #":"1259105",
+		"Carrier":"TAYLOR TRANSPORT",
+		"Ticket Time":"9:30"
+	},
+	{
+		"Ticket #":"1158900474",
+		"Invoice #":"11507419",
+		"Date":"2020-02-15T20:10:07.000Z",
+		"Shipping Location":"NORCROSS",
+		"Product":"NO. 7 STONE WASHED",
+		"Quantity":"22.05",
+		"UOM":"Ton",
+		"Vehicle ID":"T492",
+		"Order #":"1259105",
+		"Carrier":"TAYLOR TRANSPORT",
+		"Ticket Time":"9:31"
+	}						
+	]
+}
