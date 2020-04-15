@@ -1,42 +1,14 @@
 { 
-  "centerLat": 43.050476, 
-  "centerLng": -87.915573,
+  "centerLat": 30.0802, 
+  "centerLng": 94.1266,
   "items": [
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.JPG",
-      "Name": "Standard #12",
-      "OilLife": "49%",
-      "Mileage": "12,132",
-      "Lat": 43.068219,
-      "Lng": -87.942696,
+      "Name": "GRADE D BASE PUG",
+      "Arrival Time": "7 a.m.",
+      "Lat": 30.0804,
+      "Lng": 94.1245,
       "Color": "rgb(114,147,203)"
-    },
-    {
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard05.JPG",
-      "Name": "Standard #5",
-      "OilLife": "97%",
-      "Mileage": "71,421",
-      "Lat": 43.068971, 
-      "Lng": -87.880898,
-      "Color": "rgb(225,151,76)"
-    },
-    {
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/bridge07.JPG",
-      "Name": "Bridgemaster #7",
-      "OilLife": "93%",
-      "Mileage": "26,147",
-      "Lat": 43.0274579,
-      "Lng": -87.9492994,
-      "Color": "rgb(132,186,91)"
-    },
-    {
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/sseries01.JPG",
-      "Name": "S-Series #1",
-      "OilLife": "91%",
-      "Mileage": "6,815",
-      "Lat": 43.0453781,
-      "Lng": -87.9581448,
-      "Color": "rgb(211,94,96)"
-    }        
+    }
   ]
 }
