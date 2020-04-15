@@ -6,17 +6,25 @@
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.JPG",
       "Name": "GRADE D BASE PUG",
       "Arrival Time": "7 a.m.",
-      "Lat": 30.0860,
-      "Lng": -94.1245,
+      "Lat": 30.084199,
+      "Lng": -94.135915,
       "Color": "rgb(114,147,203)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard05.JPG",
       "Name": "FILTER STONE",
       "Arrival Time": "7:50 a.m.",
-      "Lat": 30.0860,
-      "Lng": -94.0945,
+      "Lat": 30.066231,
+      "Lng": -94.134259,
       "Color": "rgb(225,151,76)"
+    },
+     {
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/bridge07.JPG",
+      "Name": "CRUSHER RUN/GRADE C BASE",
+      "Arrival Time": "9:30 a.m.",
+      "Lat": 30.049881,
+      "Lng": -94.144670,
+      "Color": "rgb(132,186,91)"
     }
   ]
 }
