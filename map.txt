@@ -6,9 +6,25 @@
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.JPG",
       "Name": "GRADE D BASE PUG",
       "Arrival Time": "7 a.m.",
-      "Lat": 30.0804,
+      "Lat": 30.0810,
       "Lng": -94.1245,
       "Color": "rgb(114,147,203)"
+    },
+    {
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard05.JPG",
+      "Name": "FILTER STONE",
+      "Arrival Time": "7:50 a.m.",
+      "Lat": 30.0810,
+      "Lng": -94.1280,
+      "Color": "rgb(225,151,76)"
+    },
+    {
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/bridge07.JPG",
+      "Name": "Bridgemaster #7",
+      "Arrival Time": "9:30 a.m.",
+      "Lat": 30.0815,
+      "Lng": -94.1300,
+      "Color": "rgb(132,186,91)"
     }
   ]
 }
