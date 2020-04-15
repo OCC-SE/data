@@ -7,7 +7,7 @@
       "Name": "GRADE D BASE PUG",
       "Arrival Time": "7 a.m.",
       "Lat": 30.0804,
-      "Lng": 94.1245,
+      "Lng": -94.1245,
       "Color": "rgb(114,147,203)"
     }
   ]
