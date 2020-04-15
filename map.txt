@@ -20,7 +20,7 @@
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/bridge07.JPG",
-      "Name": "Bridgemaster #7",
+      "Name": "CRUSHER RUN/GRADE C BASE",
       "Arrival Time": "9:30 a.m.",
       "Lat": 30.0815,
       "Lng": -94.1300,
