@@ -3,7 +3,7 @@
 			{
 				 "transactionID_t": "CPQ-419",
 				 "version_number_versionTransaction_t": "2",
-				 "transactionName_t": "Traditional Hydepark Bed",
+				 "transactionName_t": "FILTER STONE",
 		             	 "status_t": {
                 		  	"displayValue": "Created",
                   		  	"value": "CREATED"
@@ -24,7 +24,7 @@
 			{
 				 "transactionID_t": "CPQ-503",
 				 "version_number_versionTransaction_t": "1",
-				 "transactionName_t": "Entertainment room furniture",
+				 "transactionName_t": "Crushed Stone Base room furniture",
 		             	 "status_t": {
                 		  	"displayValue": "Quoted",
                   		  	"value": "QUOTED"
