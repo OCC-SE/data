@@ -24,7 +24,7 @@
 			{
 				 "transactionID_t": "CPQ-503",
 				 "version_number_versionTransaction_t": "1",
-				 "transactionName_t": "Crushed Stone Base room furniture",
+				 "transactionName_t": "Crushed Stone Base",
 		             	 "status_t": {
                 		  	"displayValue": "Quoted",
                   		  	"value": "QUOTED"
