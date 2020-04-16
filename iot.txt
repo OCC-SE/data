@@ -3,26 +3,26 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "salerno-sofa-blue.jpg",
-      "Name": "Modern Salerno Sofa",
-      "PurchaseDate": "10/12/2018",
+      "Image": "pitt.jpg",
+      "Name": "Pitt AV & Data Centers",
+      "PurchaseDate": "10/12/2019",
       "LastServiced": "n/a",
       "UsageMonthAvg": 71,
       "UsageTotal": 801,
       "Temperature": "72 degrees",
-      "CushionPressure": "93%"
+      "CushionPressure": "84%"
     },
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "shutterstock_122095657.jpg",
-      "Name": "Rustic Ghent Chair",
+      "Image": "hospital2.jpg",
+      "Name": "Medical Center AV Equip",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
       "UsageMonthAvg": 33,
       "UsageTotal": 271,
       "Temperature": "69 degrees",
-      "CushionPressure": "97%"
+      "CushionPressure": "77%"
     }
   ]
 }
