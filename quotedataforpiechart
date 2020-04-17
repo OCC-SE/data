@@ -1,0 +1,5 @@
+[
+  {"label": "Closed", "color":"rgb(144,103,167)", "value": 5},
+	{"label": "Quoted", "color":"rgb(132,186,91)", "value": 2},
+	{"label": "Created", "color":"rgb(211,94,96)", "value": 1}
+]
