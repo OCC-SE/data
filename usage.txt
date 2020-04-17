@@ -1,6 +1,6 @@
 [
         {
-		"label": "Modern Salerno Sofa",
+		"label": "My Couch",
 		"values":
 			[
 				{ "x":"Sunday", "y":7},
