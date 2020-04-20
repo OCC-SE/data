@@ -14,7 +14,7 @@
       "Mileage": "72,132",
       "Spend": "$268",
       "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
-      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+1490320120&Nrpp=12&suppressResults=false&searchType=guided&type=search"
+      "Shop": "https://ccstore-z2ia.oracleoutsourcing.com/searchresults?&N=2707057041+850410081+2385574436&Nrpp=12&Ntl=en&suppressResults=false&searchType=guided&type=search"
     },
     {
       "Alert": "false",
