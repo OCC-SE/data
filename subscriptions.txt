@@ -1,7 +1,7 @@
 {
 "items": [
   {
-    "SubscriptionNumber":"MPS1101",
+    "SubscriptionNumber":"Plan2001",
     "PrimaryPartyName":"Core Plan",
     "Asset":"Truck 3",
     "TotalContractValue":"$179.99",
@@ -12,7 +12,7 @@
      "URL":"https://ccstore-z2ia.oracleoutsourcing.com/core-plan/product/Plan2001"
   },
   {
-    "SubscriptionNumber":"MAS1101",
+    "SubscriptionNumber":"Plan1001",
     "PrimaryPartyName":"EOBR Plan",
     "Asset":"Truck 2",    
     "TotalContractValue":"$369.00",
@@ -23,7 +23,7 @@
      "URL":"https://ccstore-z2ia.oracleoutsourcing.com/eobr-plan/product/Plan1001"
   },
   {
-    "SubscriptionNumber":"TES1101",
+    "SubscriptionNumber":"Plan4001",
     "PrimaryPartyName":"Performance Plan",
     "Asset":"Truck 1",
     "TotalContractValue":"$549.99",
