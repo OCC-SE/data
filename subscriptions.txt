@@ -19,7 +19,7 @@
     "StartDate":"11/28/2018",
     "EndDate":"1/29/2020",
     "Status":"ORA_ENDING",
-    "Period":"YR",
+    "Duration":2,
      "URL":"https://ccstore-z2ia.oracleoutsourcing.com/eobr-plan/product/Plan1001"
   },
   {
