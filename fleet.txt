@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "Alert": "true",
+      "Status": "online",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/6900Recovery.jpg",
+      "Name": "6900SB Wrecker",
+      "PurchaseDate": "10/12/2018",
+      "LastServiced": "n/a",
+      "Make": "Daimler",
+      "Model": "Western Star 6900 Series",
+      "Year": 2016,
+      "OilLife": "49%",
+      "Mileage": "72,132",
+      "Spend": "$268",
+      "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
+      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+1490320120&Nrpp=12&suppressResults=false&searchType=guided&type=search"
+    },
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/122sd.jpg",
+      "Name": "Severe-Duty 122SD",
+      "PurchaseDate": "7/5/2018",
+      "LastServiced": "n/a",
+      "Make": "Daimler",
+      "Model": "Freightliner",
+      "Year": 2017,
+      "OilLife": "97%",
+      "Spend": "$1,585",
+      "Mileage": "51,421",
+      "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
+      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+3475125136&Nrpp=12&suppressResults=false&searchType=guided&type=search"
+    },
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/2019-quon-front-bmp-splr_512x446.jpg",
+      "Name": "Quon CD 11L",
+      "PurchaseDate": "2/5/2019",
+      "LastServiced": "11/15/2019",
+      "Make": "Volvo",
+      "Model": "UD Truck",
+      "Year": 2018,
+      "OilLife": "93%",
+      "Spend": "$2,189",
+      "Mileage": "26,147",
+      "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
+      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=4228719131+3856431570+1596324822&Nrpp=12&suppressResults=false&searchType=guided&type=search"
+    },
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/6900XDLogger.jpg",
+      "Name": "6900SB Logger",
+      "PurchaseDate": "12/15/2014",
+      "LastServiced": "5/01/2019",
+      "Make": "Daimler",
+      "Model": "Western Star 6900 Series",
+      "Year": 2013,
+      "OilLife": "91%",
+      "Spend": "$1,211",
+      "Mileage": "96,815",
+      "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
+      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+1490320120&Nrpp=12&suppressResults=false&searchType=guided&type=search"
+    }        
+  ]
+}
