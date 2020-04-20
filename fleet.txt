@@ -19,7 +19,7 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/omnitracs/tables/4900heavyhaul.png",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/omnitracs/tables/4900exheavyhaul.jpg",
       "Make": "Western Star",
       "Model": "4900EX Heavy Haul",
       "Year": 2016,
