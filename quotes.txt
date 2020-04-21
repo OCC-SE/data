@@ -5,8 +5,8 @@
 				 "version_number_versionTransaction_t": "2",
 				 "transactionName_t": "Filter Stone",
 		             	 "status_t": {
-                		  	"displayValue": "Accepted",
-                  		  	"value": "ACCEPTED"
+                		  	"displayValue": "Created",
+                  		  	"value": "CREATED"
             			 },
 			    	 "totalContractValue_t": {
 					"value": 2700.0,
@@ -19,7 +19,7 @@
 				 "owner_t": "Lisa Jones",
 				 "_customer_t_company_name": "Hudson",
 				 "createdDate_t": "04/21/2020",
-				 "lastUpdatedDate_t": "09/21/2019 15:51"
+				 "lastUpdatedDate_t": "04/21/2020 15:51"
 			},
 {
 				 "transactionID_t": "CPQ-419",
@@ -89,8 +89,8 @@
 				 "version_number_versionTransaction_t": "2",
 				 "transactionName_t": "Bedding Stone",
 		             	 "status_t": {
-                		  	"displayValue": "Created",
-                  		  	"value": "CREATED"
+                		  	"displayValue": "Accepted",
+                  		  	"value": "ACCEPTED"
             			 },
 			    	 "totalContractValue_t": {
 					"value": 2700.0,
@@ -103,7 +103,7 @@
 				 "owner_t": "Lisa Jones",
 				 "_customer_t_company_name": "Hudson",
 				 "createdDate_t": "07/05/2019",
-				 "lastUpdatedDate_t": "09/21/2019 15:51"
+				 "lastUpdatedDate_t": "07/31/2019 15:51"
 			},
 {
 				 "transactionID_t": "CPQ-419",
@@ -152,8 +152,8 @@
 				 "version_number_versionTransaction_t": "2",
 				 "transactionName_t": "No. 67 Washed",
 		             	 "status_t": {
-                		  	"displayValue": "Created",
-                  		  	"value": "CREATED"
+                		  	"displayValue": "Accepted",
+                  		  	"value": "ACCEPTED"
             			 },
 			    	 "totalContractValue_t": {
 					"value": 2700.0,
