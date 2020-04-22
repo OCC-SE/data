@@ -1,50 +1,26 @@
 [
         {
-		"label": "Standard #12",
+		"label": 2019,
 		"values":
 			[
-				{ "x":"September", "y":131},
-				{ "x":"October", "y":450},
-				{ "x":"November", "y":79},
-				{ "x":"December", "y":1100},
-				{ "x":"January", "y":211},
-				{ "x":"February", "y":57}
+				{ "x":"November", "y":2133},
+				{ "x":"December", "y":1700},
+				{ "x":"January", "y":545},
+				{ "x":"February", "y":2411}
+				{ "x":"March", "y": 1588},
+				{ "x":"April", "y": 1200}
 			]
 	},
 	{
-		"label": "Standard #5",
+		"label": 2020,
 		"values":
 			[
-				{ "x":"September", "y":2133},
-				{ "x":"October", "y":470},
-				{ "x":"November", "y":155},
-				{ "x":"December", "y":277},
-				{ "x":"January", "y":1474},
-				{ "x":"February", "y":111}
-			]
-	},
-	{
-		"label": "Bridgemaster #7",
-		"values":
-			[
-				{ "x":"September", "y":1133},
-				{ "x":"October", "y":370},
-				{ "x":"November", "y":255},
-				{ "x":"December", "y":577},
-				{ "x":"January", "y":1400},
-				{ "x":"February", "y":789}
-			]
-	},
-	{
-		"label": "S-Series #1",
-		"values":
-			[
-				{ "x":"September", "y":188},
-				{ "x":"October", "y":1201},
-				{ "x":"November", "y":40},
-				{ "x":"December", "y":173},
-				{ "x":"January", "y":500},
-				{ "x":"February", "y":711}
+				{ "x":"November", "y":1900},
+				{ "x":"December", "y":1300},
+				{ "x":"January", "y":700},
+				{ "x":"February", "y":3100}
+				{ "x":"March", "y": 4577},
+				{ "x":"April", "y": 2300}
 			]
 	}
 ]
