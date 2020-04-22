@@ -6,7 +6,7 @@
 				{ "x":"November", "y":2133},
 				{ "x":"December", "y":1700},
 				{ "x":"January", "y":545},
-				{ "x":"February", "y":2411}
+				{ "x":"February", "y":2411},
 				{ "x":"March", "y": 1588},
 				{ "x":"April", "y": 1200}
 			]
