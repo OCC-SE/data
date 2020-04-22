@@ -20,7 +20,7 @@
     "SubscriptionNumber":"MK10-USPAC-2010",
     "PrimaryPartyName":"One year standard warranty",
     "Asset":"Kenworth - KW T680",    
-    "EndDate":"1/29/2021",
+    "EndDate":"01/29/2021",
     "Status":"ORA_ACTIVE",
      "URL":"https://traxxisgps.com/images/omnitracs/rts/IVG%20Technical%20Specs.pdf"
   },
