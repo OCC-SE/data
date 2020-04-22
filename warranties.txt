@@ -1,0 +1,34 @@
+{
+"items": [
+  {
+    "SubscriptionNumber":"MPS1101",
+    "PrimaryPartyName":"Platinum Warranty",
+    "TotalContractValue":"$179.99",
+    "StartDate":"12/27/2017",
+    "EndDate":"12/27/2020",
+    "Status":"ORA_ACTIVE",
+    "Duration":1,
+    "Period":"YR"
+  },
+  {
+    "SubscriptionNumber":"MAS1101",
+    "PrimaryPartyName":"Platinum Support",
+    "TotalContractValue":"$369.00",
+    "StartDate":"11/28/2018",
+    "EndDate":"1/29/2020",
+    "Status":"ORA_ENDING",
+    "Duration":1,
+    "Period":"YR"
+  },
+  {
+    "SubscriptionNumber":"TES1101",
+    "PrimaryPartyName":"Gold Warranty",
+    "TotalContractValue":"$549.99",
+    "StartDate":"5/25/2018",
+    "EndDate":"11/25/2018",
+    "Status":"ORA_CLOSED",
+    "Duration":1,
+    "Period":"YR"
+  }
+  ]
+}
