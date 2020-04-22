@@ -18,7 +18,7 @@
 				{ "x":"November", "y":1900},
 				{ "x":"December", "y":1300},
 				{ "x":"January", "y":700},
-				{ "x":"February", "y":3100}
+				{ "x":"February", "y":3100},
 				{ "x":"March", "y": 4577},
 				{ "x":"April", "y": 2300}
 			]
