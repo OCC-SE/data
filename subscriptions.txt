@@ -11,6 +11,7 @@
     "Duration":1,
      "URL":"https://ccstore-z2ia.oracleoutsourcing.com/core-plan/product/Plan2001"
   },
+  {
     "SubscriptionNumber":"Plan2001",
     "PrimaryPartyName":"Core Plan",
     "Asset":"Kenworth W900L",
