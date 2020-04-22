@@ -1,34 +1,48 @@
 {
 "items": [
   {
-    "SubscriptionNumber":"MPS1101",
-    "PrimaryPartyName":"Platinum Warranty",
+    "SubscriptionNumber":"Plan2001",
+    "PrimaryPartyName":"Core Plan",
+    "Asset":"Freightliner - New Cascadia",
     "TotalContractValue":"$179.99",
     "StartDate":"12/27/2017",
     "EndDate":"12/27/2020",
     "Status":"ORA_ACTIVE",
     "Duration":1,
-    "Period":"YR"
+     "URL":"https://ccstore-z2ia.oracleoutsourcing.com/core-plan/product/Plan2001"
   },
   {
-    "SubscriptionNumber":"MAS1101",
-    "PrimaryPartyName":"Platinum Support",
+    "SubscriptionNumber":"Plan2001",
+    "PrimaryPartyName":"Core Plan",
+    "Asset":"Kenworth W900L",
+    "TotalContractValue":"$179.99",
+    "StartDate":"12/27/2017",
+    "EndDate":"12/27/2020",
+    "Status":"ORA_ACTIVE",
+    "Duration":1,
+     "URL":"https://ccstore-z2ia.oracleoutsourcing.com/core-plan/product/Plan2001"
+  },  
+  {
+    "SubscriptionNumber":"Plan1001",
+    "PrimaryPartyName":"EOBR Plan",
+    "Asset":"Kenworth - KW T680",    
     "TotalContractValue":"$369.00",
     "StartDate":"11/28/2018",
     "EndDate":"1/29/2020",
     "Status":"ORA_ENDING",
-    "Duration":1,
-    "Period":"YR"
+    "Duration":2,
+     "URL":"https://ccstore-z2ia.oracleoutsourcing.com/eobr-plan/product/Plan1001"
   },
   {
-    "SubscriptionNumber":"TES1101",
-    "PrimaryPartyName":"Gold Warranty",
+    "SubscriptionNumber":"Plan4001",
+    "PrimaryPartyName":"Performance Plan",
+    "Asset":"Western Star - Heavy Haul",
     "TotalContractValue":"$549.99",
     "StartDate":"5/25/2018",
     "EndDate":"11/25/2018",
     "Status":"ORA_CLOSED",
-    "Duration":1,
-    "Period":"YR"
+    "Duration":3,
+    "URL":"https://ccstore-z2ia.oracleoutsourcing.com/performance-plan/product/Plan4001"
   }
   ]
 }
