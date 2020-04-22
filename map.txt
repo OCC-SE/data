@@ -1,41 +1,41 @@
-{ 
-  "centerLat": 43.050476, 
-  "centerLng": -87.915573,
+{  
+  "centerLat": 33.501028, 
+  "centerLng": -112.067298,
   "items": [
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.JPG",
-      "Name": "Standard #12",
+      "Name": "Western Star - Heavy Haul",
       "OilLife": "49%",
       "Mileage": "12,132",
-      "Lat": 43.068219,
-      "Lng": -87.942696,
+      "Lat": 33.487379, 
+      "Lng": -112.109426,
       "Color": "rgb(114,147,203)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard05.JPG",
-      "Name": "Standard #5",
+      "Name": "Kenworth - KW T680",
       "OilLife": "97%",
       "Mileage": "71,421",
-      "Lat": 43.068971, 
-      "Lng": -87.880898,
+      "Lat": 33.462707, 
+      "Lng": -112.037410, 
       "Color": "rgb(225,151,76)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/bridge07.JPG",
-      "Name": "Bridgemaster #7",
+      "Name": "Kenworth - W900L ",
       "OilLife": "93%",
       "Mileage": "26,147",
-      "Lat": 43.0274579,
-      "Lng": -87.9492994,
+      "Lat": 33.501106,
+      "Lng":  -112.073161,
       "Color": "rgb(132,186,91)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/sseries01.JPG",
-      "Name": "S-Series #1",
+      "Name": "Freightliner - New Cascadia",
       "OilLife": "91%",
       "Mileage": "6,815",
-      "Lat": 43.0453781,
-      "Lng": -87.9581448,
+      "Lat": 33.536273, 
+      "Lng": -112.041782,
       "Color": "rgb(211,94,96)"
     }        
   ]
