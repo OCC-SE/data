@@ -64,7 +64,7 @@
 		 "Total":"$2,434",
 		 "PO":"45254157-2",
 		 "DueDate":"09/24/2019",
-		 "Status":"Open",
+		 "Status":"Paid",
 		 "Link":"/invoice.pdf"
 	},
 	{
