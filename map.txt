@@ -1,6 +1,6 @@
 {  
-  "centerLat": 33.501028, 
-  "centerLng": -112.067298,
+  "centerLat": 33.477082, 
+  "centerLng": -112.043583,
   "items": [
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.JPG",
@@ -34,8 +34,8 @@
       "Name": "Freightliner - New Cascadia",
       "OilLife": "91%",
       "Mileage": "6,815",
-      "Lat": 33.536273, 
-      "Lng": -112.041782,
+      "Lat": 33.448759,  
+      "Lng": -112.099910,
       "Color": "rgb(211,94,96)"
     }        
   ]
