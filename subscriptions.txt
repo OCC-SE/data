@@ -3,7 +3,7 @@
   {
     "SubscriptionNumber":"Plan2001",
     "PrimaryPartyName":"Core Plan",
-    "Asset":"Truck 3",
+    "Asset":"Freightliner - New Cascadia",
     "TotalContractValue":"$179.99",
     "StartDate":"12/27/2017",
     "EndDate":"12/27/2020",
@@ -11,10 +11,20 @@
     "Duration":1,
      "URL":"https://ccstore-z2ia.oracleoutsourcing.com/core-plan/product/Plan2001"
   },
+    "SubscriptionNumber":"Plan2001",
+    "PrimaryPartyName":"Core Plan",
+    "Asset":"Kenworth W900L",
+    "TotalContractValue":"$179.99",
+    "StartDate":"12/27/2017",
+    "EndDate":"12/27/2020",
+    "Status":"ORA_ACTIVE",
+    "Duration":1,
+     "URL":"https://ccstore-z2ia.oracleoutsourcing.com/core-plan/product/Plan2001"
+  },  
   {
     "SubscriptionNumber":"Plan1001",
     "PrimaryPartyName":"EOBR Plan",
-    "Asset":"Truck 2",    
+    "Asset":"Kenworth - KW T680",    
     "TotalContractValue":"$369.00",
     "StartDate":"11/28/2018",
     "EndDate":"1/29/2020",
@@ -25,7 +35,7 @@
   {
     "SubscriptionNumber":"Plan4001",
     "PrimaryPartyName":"Performance Plan",
-    "Asset":"Truck 1",
+    "Asset":"Western Star - Heavy Haul",
     "TotalContractValue":"$549.99",
     "StartDate":"5/25/2018",
     "EndDate":"11/25/2018",
