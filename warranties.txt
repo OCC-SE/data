@@ -1,48 +1,45 @@
 {
 "items": [
   {
-    "SubscriptionNumber":"Plan2001",
-    "PrimaryPartyName":"Core Plan",
+    "SubscriptionNumber":"MK10-US9P4-2010",
+    "PrimaryPartyName":"One year standard warranty",
     "Asset":"Freightliner - New Cascadia",
-    "TotalContractValue":"$179.99",
-    "StartDate":"12/27/2017",
-    "EndDate":"12/27/2020",
-    "Status":"ORA_ACTIVE",
-    "Duration":1,
-     "URL":"https://ccstore-z2ia.oracleoutsourcing.com/core-plan/product/Plan2001"
+    "EndDate":"5/21/2020",
+    "Status":"ORA_ENDING",
+     "URL":"https://traxxisgps.com/images/omnitracs/rts/IVG%20Technical%20Specs.pdf"
   },
   {
-    "SubscriptionNumber":"Plan2001",
-    "PrimaryPartyName":"Core Plan",
+    "SubscriptionNumber":"MK10-USPGR-2010",
+    "PrimaryPartyName":"One year standard warranty",
     "Asset":"Kenworth W900L",
-    "TotalContractValue":"$179.99",
-    "StartDate":"12/27/2017",
     "EndDate":"12/27/2020",
     "Status":"ORA_ACTIVE",
-    "Duration":1,
-     "URL":"https://ccstore-z2ia.oracleoutsourcing.com/core-plan/product/Plan2001"
+     "URL":"https://traxxisgps.com/images/omnitracs/rts/IVG%20Technical%20Specs.pdf"
   },  
   {
-    "SubscriptionNumber":"Plan1001",
-    "PrimaryPartyName":"EOBR Plan",
+    "SubscriptionNumber":"MK10-USPAC-2010",
+    "PrimaryPartyName":"One year standard warranty",
     "Asset":"Kenworth - KW T680",    
-    "TotalContractValue":"$369.00",
-    "StartDate":"11/28/2018",
-    "EndDate":"1/29/2020",
-    "Status":"ORA_ENDING",
-    "Duration":2,
-     "URL":"https://ccstore-z2ia.oracleoutsourcing.com/eobr-plan/product/Plan1001"
+    "EndDate":"1/29/2021",
+    "Status":"ORA_ACTIVE",
+     "URL":"https://traxxisgps.com/images/omnitracs/rts/IVG%20Technical%20Specs.pdf"
   },
   {
-    "SubscriptionNumber":"Plan4001",
-    "PrimaryPartyName":"Performance Plan",
+    "SubscriptionNumber":"MK10-US9BK-2010",
+    "PrimaryPartyName":"One year standard warranty",
     "Asset":"Western Star - Heavy Haul",
-    "TotalContractValue":"$549.99",
-    "StartDate":"5/25/2018",
-    "EndDate":"11/25/2018",
-    "Status":"ORA_CLOSED",
-    "Duration":3,
-    "URL":"https://ccstore-z2ia.oracleoutsourcing.com/performance-plan/product/Plan4001"
+    "EndDate":"07/22/2020",
+    "Status":"ORA_ACTIVE",
+    "URL":"https://traxxisgps.com/images/omnitracs/rts/IVG%20Technical%20Specs.pdf"
+  }
+  ,
+  {
+    "SubscriptionNumber":"MK10-US9GR-2010",
+    "PrimaryPartyName":"One year standard warranty",
+    "Asset":"International - LT 625",
+    "EndDate":"11/25/2020",
+    "Status":"ORA_ACTIVE",
+    "URL":"https://traxxisgps.com/images/omnitracs/rts/IVG%20Technical%20Specs.pdf"
   }
   ]
 }
