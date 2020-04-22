@@ -17,7 +17,7 @@
                 		 	"currency": "USD"
             			 },					 
 				 "owner_t": "Lisa Jones",
-				 "_customer_t_company_name": "Hudson",
+				 "_customer_t_company_name": "Swift Transportation",
 				 "createdDate_t": "02/19/2020",
 				 "lastUpdatedDate_t": "02/23/2020 15:51"
 			},
@@ -38,7 +38,7 @@
                 		 	"currency": "USD"
             			 },					 
 				 "owner_t": "Lisa Jones",
-				 "_customer_t_company_name": "Hudson",
+				 "_customer_t_company_name": "Swift Transportation",
 				 "createdDate_t": "04/12/2020",
 				 "lastUpdatedDate_t": "04/12/2020 15:51"
 			}			
