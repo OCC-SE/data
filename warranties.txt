@@ -4,7 +4,7 @@
     "SubscriptionNumber":"MK10-US9P4-2010",
     "PrimaryPartyName":"One year standard warranty",
     "Asset":"Freightliner - New Cascadia",
-    "EndDate":"5/21/2020",
+    "EndDate":"05/21/2020",
     "Status":"ORA_ENDING",
      "URL":"https://traxxisgps.com/images/omnitracs/rts/IVG%20Technical%20Specs.pdf"
   },
