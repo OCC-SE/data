@@ -20,7 +20,7 @@
 			]
 	},
         {
-		"label": "Back Orders",
+		"label": "Backorders",
 		"values":
 			[
 				{ "x":"Less 30", "y":5},
