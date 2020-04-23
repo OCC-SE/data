@@ -14,7 +14,7 @@
       "Mileage": "72,132",
       "Spend": "$268",
       "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
-      "Shop": "https://ccstore-z2ia.oracleoutsourcing.com/searchresults?&&N=86747129+850410081+3471981052&Nrpp=12&Ntl=en&suppressResults=false&searchType=guided&type=search"
+      "Shop": "https://ccstore-z2ia.oracleoutsourcing.com/searchresults?&N=86747129+850410081+2193992559&Nrpp=12&Ntl=en&suppressResults=false&searchType=guided&type=search"
     },
     {
       "Alert": "false",
@@ -30,7 +30,7 @@
       "Spend": "$1,585",
       "Mileage": "51,421",
       "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
-      "Shop": "https://ccstore-z2ia.oracleoutsourcing.com/searchresults?&N=2707057041+2385574436+2843108444&Nrpp=12&Ntl=en&suppressResults=false&searchType=guided&type=search"
+      "Shop": "https://ccstore-z2ia.oracleoutsourcing.com/searchresults?&N=86747129+2193992559+2843108444&Nrpp=12&Ntl=en&suppressResults=false&searchType=guided&type=search"
     },
     {
       "Alert": "false",
@@ -62,7 +62,7 @@
       "Spend": "$1,211",
       "Mileage": "96,815",
       "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
-      "Shop": "https://ccstore-z2ia.oracleoutsourcing.com/searchresults?&N=2707057041+2193992559+2511132367&Nrpp=12&Ntl=en&suppressResults=false&searchType=guided&type=search"
+      "Shop": "https://ccstore-z2ia.oracleoutsourcing.com/searchresults?&N=86747129+2193992559+2511132367&Nrpp=12&Ntl=en&suppressResults=false&searchType=guided&type=search"
     },
     {
       "Alert": "false",
@@ -78,7 +78,7 @@
       "Spend": "$1,211",
       "Mileage": "96,815",
       "Locate": "https://goo.gl/maps/WbtxQfnhNSTcLJPR8",
-      "Shop": "https://ccstore-z2ia.oracleoutsourcing.com/searchresults?&N=2707057041+963353+2193992559&Nrpp=12&Ntl=en&suppressResults=false&searchType=guided&type=search"
+      "Shop": "https://ccstore-z2ia.oracleoutsourcing.com/searchresults?&N=86747129+2193992559+963353&Nrpp=12&Ntl=en&suppressResults=false&searchType=guided&type=search"
     }
   ]
 }
