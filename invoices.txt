@@ -10,7 +10,7 @@
 		 "PO":"22437798-K",
 		 "DueDate":"04/29/2020",
 		 "Status":"Open",
-		 "Link":"/invoice.pdf"
+		 "Link":"/file/products/INV2144.pdf"
 	},
 	{
 		 "Alert":"false",
