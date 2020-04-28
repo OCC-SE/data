@@ -2,8 +2,8 @@
 "items": [
   {
     "SubscriptionNumber":"MPS1101",
-    "PrimaryPartyName":"Platinum Warranty",
-    "TotalContractValue":"$179.99",
+    "PrimaryPartyName":"Monthly Condenser Order",
+    "TotalContractValue":"$17,979.99",
     "StartDate":"12/27/2017",
     "EndDate":"12/27/2020",
     "Status":"ORA_ACTIVE",
@@ -12,8 +12,8 @@
   },
   {
     "SubscriptionNumber":"MAS1101",
-    "PrimaryPartyName":"Platinum Support",
-    "TotalContractValue":"$369.00",
+    "PrimaryPartyName":"Quarterly HVAC Supplies",
+    "TotalContractValue":"$36,799.00",
     "StartDate":"11/28/2018",
     "EndDate":"1/29/2020",
     "Status":"ORA_ENDING",
@@ -22,7 +22,7 @@
   },
   {
     "SubscriptionNumber":"TES1101",
-    "PrimaryPartyName":"Gold Warranty",
+    "PrimaryPartyName":"Weekly Air Filter Orders",
     "TotalContractValue":"$549.99",
     "StartDate":"5/25/2018",
     "EndDate":"11/25/2018",
