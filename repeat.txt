@@ -4,7 +4,7 @@
 		"id":"cfl100se",
 		"image":"bulb_cfl3.png",
 		"displayName":"Cfl Natural Daylight Bulb",
-		"brand":"Supremo Interiors",
+		"brand":"Satco",
 		"quantity":1,
 		"total":10,
 		"lastOrdered":"12/03/2019"
@@ -13,7 +13,7 @@
 		"id":"s540slb",
 		"image":"bulb_led1.png",		
 		"displayName":"Led Light Bulb",
-		"brand":"Supremo Interiors",
+		"brand":"Satco",
 		"quantity":4,
 		"total":2,
 		"lastOrdered":"01/22/2019"
@@ -22,7 +22,7 @@
 		"id":"se754",
 		"image":"bulb_led1.png",		
 		"displayName":"Led Bulb Natural Day",
-		"brand":"Supremo Elite",		
+		"brand":"SSylvania",		
 		"quantity":2,
 		"total":4,
 		"lastOrdered":"11/03/2019"
