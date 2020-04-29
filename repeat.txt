@@ -22,7 +22,7 @@
 		"id":"se754",
 		"image":"bulb_led1.png",		
 		"displayName":"Led Bulb Natural Day",
-		"brand":"SSylvania",		
+		"brand":"Sylvania",		
 		"quantity":2,
 		"total":4,
 		"lastOrdered":"11/03/2019"
