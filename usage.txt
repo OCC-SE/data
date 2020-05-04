@@ -10,7 +10,7 @@
 			]
 	},
 	{
-		"label": "Rustic Ghent Chair",
+		"label": "Rustic Chair",
 		"values":
 			[
 				{ "x":"Performance", "y":70},
