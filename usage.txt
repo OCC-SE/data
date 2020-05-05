@@ -1,38 +1,81 @@
-[
-        {
+[{
 		"label": "Children Sofa",
-		"values":
-			[
-				{ "x":"Performance", "y":99},
-				{ "x":"Flammability", "y": 70},
-				{ "x":"Chemical", "y":90},
-				{ "x":"Electrical", "y":100}
-			]
+		"values": [{
+				"x": "Performance",
+				"y": 99
+			},
+			{
+				"x": "Flammability",
+				"y": 70
+			},
+			{
+				"x": "Chemical",
+				"y": 90
+			},
+			{
+				"x": "Electrical",
+				"y": 100
+			}
+		]
 	},
 	{
 		"label": "EV Rocket Chair",
-		"values":
-			[
-				{ "x":"Performance", "y":70},
-				{ "x":"Flammability", "y": 20},
-				{ "x":"Chemical", "y":99},
-				{ "x":"Electrical", "y":100}
-			],
+		"values": [{
+				"x": "Performance",
+				"y": 70
+			},
+			{
+				"x": "Flammability",
+				"y": 20
+			},
+			{
+				"x": "Chemical",
+				"y": 99
+			},
+			{
+				"x": "Electrical",
+				"y": 100
+			}
+		]
+	},
+	{
 		"label": "EV Bunk Beds",
-		"values":
-			[
-				{ "x":"Performance", "y":70},
-				{ "x":"Flammability", "y": 99},
-				{ "x":"Chemical", "y":99},
-				{ "x":"Electrical", "y":100}
-			],
+		"values": [{
+				"x": "Performance",
+				"y": 70
+			},
+			{
+				"x": "Flammability",
+				"y": 99
+			},
+			{
+				"x": "Chemical",
+				"y": 99
+			},
+			{
+				"x": "Electrical",
+				"y": 100
+			}
+		]
+	},
+	{
 		"label": "Kids Draw Table",
-		"values":
-			[
-				{ "x":"Performance", "y":100},
-				{ "x":"Flammability", "y": 90},
-				{ "x":"Chemical", "y":99},
-				{ "x":"Electrical", "y":100}
-			]
+		"values": [{
+				"x": "Performance",
+				"y": 100
+			},
+			{
+				"x": "Flammability",
+				"y": 90
+			},
+			{
+				"x": "Chemical",
+				"y": 99
+			},
+			{
+				"x": "Electrical",
+				"y": 100
+			}
+		]
 	}
 ]
