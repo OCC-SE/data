@@ -6,15 +6,15 @@
 			},
 			{
 				"x": "EV Rocket Chair",
-				"y": 70
-			},
-			{
-				"x": "EV Bunk Beds",
 				"y": 90
 			},
 			{
-				"x": "Kids Drawing Table",
-				"y": 100
+				"x": "EV Bunk Beds",
+				"y": 80
+			},
+			{
+				"x": "Table Proto",
+				"y": 50
 			}
 		]
 	},
@@ -26,15 +26,15 @@
 			},
 			{
 				"x": "EV Rocket Chair",
-				"y": 70
+				"y": 20
 			},
 			{
 				"x": "EV Bunk Beds",
 				"y": 90
 			},
 			{
-				"x": "Kids Drawing Table",
-				"y": 100
+				"x": "Table Proto",
+				"y": 30
 			}
 		]
 	},
@@ -46,15 +46,15 @@
 			},
 			{
 				"x": "EV Rocket Chair",
-				"y": 70
+				"y": 80
 			},
 			{
 				"x": "EV Bunk Beds",
-				"y": 90
+				"y": 99
 			},
 			{
-				"x": "Kids Drawing Table",
-				"y": 100
+				"x": "Table Proto",
+				"y": 20
 			}
 		]
 	},
@@ -66,15 +66,15 @@
 			},
 			{
 				"x": "EV Rocket Chair",
-				"y": 70
+				"y": 20
 			},
 			{
 				"x": "EV Bunk Beds",
 				"y": 90
 			},
 			{
-				"x": "Kids Drawing Table",
-				"y": 100
+				"x": "Table Proto",
+				"y": 0
 			}
 		]
 	}
