@@ -42,28 +42,6 @@
 			"Status": "ORA_ENDING",
 			"Duration": 2,
 			"URL": "https://ccstore-z2ia.oracleoutsourcing.com/eobr-plan/product/Plan1001"
-		},
-		{
-			"SubscriptionNumber": "Plan1001",
-			"PrimaryPartyName": "EOBR Plan",
-			"Asset": "International - LT 625",
-			"TotalContractValue": "$369.00",
-			"StartDate": "11/28/2018",
-			"EndDate": "5/15/2020",
-			"Status": "ORA_ENDING",
-			"Duration": 2,
-			"URL": "https://ccstore-z2ia.oracleoutsourcing.com/eobr-plan/product/Plan1001"
-		},
-		{
-			"SubscriptionNumber": "Plan4001",
-			"PrimaryPartyName": "Performance Plan",
-			"Asset": "Western Star - Heavy Haul",
-			"TotalContractValue": "$549.99",
-			"StartDate": "5/25/2018",
-			"EndDate": "11/25/2018",
-			"Status": "ORA_CLOSED",
-			"Duration": 3,
-			"URL": "https://ccstore-z2ia.oracleoutsourcing.com/performance-plan/product/Plan4001"
 		}
 	]
 }
