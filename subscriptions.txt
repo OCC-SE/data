@@ -22,7 +22,7 @@
 			"URL": "https://www.blackboard.com/teaching-learning/data-and-analytics/blackboard-assessment-accreditation"
 		},
 		{
-		"Alert":"trie",
+		"Alert":"true",
 			"SubscriptionNumber": "Sub1901",
 			"PrimaryPartyName": "Blackboard Ally for Websites",
 			"TotalContractValue": "$369.00",
