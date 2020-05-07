@@ -24,13 +24,13 @@
 			{
 				 "transactionID_t": "CPQ-503",
 				 "version_number_versionTransaction_t": "1",
-				 "transactionName_t": "Blackboard Instructor",
+				 "transactionName_t": "Blackboard Instructor (12 months)",
 		             	 "status_t": {
                 		  	"displayValue": "Quoted",
                   		  	"value": "QUOTED"
             			 },
 			    	 "totalContractValue_t": {
-					"value": "4,300.50",
+					"value": "$4,300.50",
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
