@@ -7,7 +7,7 @@
 			"StartDate": "3/27/2019",
 			"EndDate": "3/21/2021",
 			"Status": "ORA_ACTIVE",
-			"Duration": 1,
+			"Duration": 10,
 			"URL": "https://www.blackboard.com/teaching-learning/data-and-analytics/analytics-for-learn"
 		},
 		{
@@ -18,7 +18,7 @@
 			"StartDate": "12/22/2017",
 			"EndDate": "12/27/2021",
 			"Status": "ORA_ACTIVE",
-			"Duration": 1,
+			"Duration": 17,
 			"URL": "https://www.blackboard.com/teaching-learning/data-and-analytics/blackboard-assessment-accreditation"
 		},
 		{
@@ -29,7 +29,7 @@
 			"StartDate": "11/28/2018",
 			"EndDate": "5/14/2020",
 			"Status": "ORA_ENDING",
-			"Duration": 2,
+			"Duration": 1,
 			"URL": "https://www.blackboard.com/engage-your-community/websites-branding/ally-for-websites"
 		},
 		{
@@ -40,7 +40,7 @@
 			"StartDate": "11/28/2018",
 			"EndDate": "5/29/2020",
 			"Status": "ORA_ENDING",
-			"Duration": 2,
+			"Duration": 1,
 			"URL": "https://www.blackboard.com/teaching-learning/accessibility-universal-design/blackboard-ally-lms"
 		}
 	]
