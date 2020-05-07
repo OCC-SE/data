@@ -2,7 +2,7 @@
 	"items": [{
 			"Alert":"false",
 			"SubscriptionNumber": "Sub2003",
-			"PrimaryPartyName": "Analytics for Learn",
+			"PrimaryPartyName": "Blackboard Analytics for Learn",
 			"TotalContractValue": "$179.99",
 			"StartDate": "3/27/2019",
 			"EndDate": "3/21/2021",
@@ -13,7 +13,7 @@
 		{
 		"Alert":"false",
 			"SubscriptionNumber": "Sub3011",
-			"PrimaryPartyName": "Assessment & Accreditation",
+			"PrimaryPartyName": "Blackboard Assessment & Accreditation",
 			"TotalContractValue": "$179.99",
 			"StartDate": "12/22/2017",
 			"EndDate": "12/27/2021",
@@ -24,7 +24,7 @@
 		{
 		"Alert":"trie",
 			"SubscriptionNumber": "Sub1901",
-			"PrimaryPartyName": "Ally for Websites",
+			"PrimaryPartyName": "Blackboard Ally for Websites",
 			"TotalContractValue": "$369.00",
 			"StartDate": "11/28/2018",
 			"EndDate": "5/14/2020",
@@ -35,7 +35,7 @@
 		{
 		"Alert":"false",
 			"SubscriptionNumber": "Sub4125",
-			"PrimaryPartyName": "Ally",
+			"PrimaryPartyName": "Blackboard Ally",
 			"TotalContractValue": "$369.00",
 			"StartDate": "11/28/2018",
 			"EndDate": "5/29/2020",
