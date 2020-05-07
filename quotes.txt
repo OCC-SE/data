@@ -3,13 +3,13 @@
 			{
 				 "transactionID_t": "CPQ-419",
 				 "version_number_versionTransaction_t": "2",
-				 "transactionName_t": "MasterPack - MK10-US9GR-2010 (Freightliner)",
+				 "transactionName_t": "Blackboard Collaborate (12 months)",
 		             	 "status_t": {
                 		  	"displayValue": "Created",
                   		  	"value": "CREATED"
             			 },
 			    	 "totalContractValue_t": {
-					"value": "$2,700.00",
+					"value": "$14,700.00",
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
@@ -17,14 +17,14 @@
                 		 	"currency": "USD"
             			 },					 
 				 "owner_t": "Lisa Jones",
-				 "_customer_t_company_name": "Swift Transportation",
+				 "_customer_t_company_name": "Hudson Global",
 				 "createdDate_t": "02/19/2020",
 				 "lastUpdatedDate_t": "02/23/2020 15:51"
 			},
 			{
 				 "transactionID_t": "CPQ-503",
 				 "version_number_versionTransaction_t": "1",
-				 "transactionName_t": "MasterPack - MK10-USPAC-2010 (Kenworth)",
+				 "transactionName_t": "Blackboard Instructor",
 		             	 "status_t": {
                 		  	"displayValue": "Quoted",
                   		  	"value": "QUOTED"
