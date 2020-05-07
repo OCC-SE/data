@@ -1,47 +1,47 @@
 {
 	"items": [{
-			"SubscriptionNumber": "Plan2001",
-			"PrimaryPartyName": "Core Plan",
-			"Asset": "Freightliner - New Cascadia",
+			"Alert":"false",
+			"SubscriptionNumber": "Sub2003",
+			"PrimaryPartyName": "Analytics for Learn",
 			"TotalContractValue": "$179.99",
 			"StartDate": "3/27/2019",
 			"EndDate": "3/21/2021",
 			"Status": "ORA_ACTIVE",
 			"Duration": 1,
-			"URL": "https://ccstore-z2ia.oracleoutsourcing.com/core-plan/product/Plan2001"
+			"URL": "https://www.blackboard.com/teaching-learning/data-and-analytics/analytics-for-learn"
 		},
 		{
-			"SubscriptionNumber": "Plan2001",
-			"PrimaryPartyName": "Core Plan",
-			"Asset": "Kenworth W900L",
+		"Alert":"false",
+			"SubscriptionNumber": "Sub3011",
+			"PrimaryPartyName": "Assessment & Accreditation",
 			"TotalContractValue": "$179.99",
 			"StartDate": "12/22/2017",
 			"EndDate": "12/27/2021",
 			"Status": "ORA_ACTIVE",
 			"Duration": 1,
-			"URL": "https://ccstore-z2ia.oracleoutsourcing.com/core-plan/product/Plan2001"
+			"URL": "https://www.blackboard.com/teaching-learning/data-and-analytics/blackboard-assessment-accreditation"
 		},
 		{
-			"SubscriptionNumber": "Plan1001",
-			"PrimaryPartyName": "EOBR Plan",
-			"Asset": "Kenworth - KW T680",
+		"Alert":"trie",
+			"SubscriptionNumber": "Sub1901",
+			"PrimaryPartyName": "Ally for Websites",
 			"TotalContractValue": "$369.00",
 			"StartDate": "11/28/2018",
-			"EndDate": "5/04/2020",
+			"EndDate": "5/14/2020",
 			"Status": "ORA_ENDING",
 			"Duration": 2,
-			"URL": "https://ccstore-z2ia.oracleoutsourcing.com/eobr-plan/product/Plan1001"
+			"URL": "https://www.blackboard.com/engage-your-community/websites-branding/ally-for-websites"
 		},
 		{
-			"SubscriptionNumber": "Plan1001",
-			"PrimaryPartyName": "EOBR Plan",
-			"Asset": "Freightliner - New Cascadia",
+		"Alert":"false",
+			"SubscriptionNumber": "Sub4125",
+			"PrimaryPartyName": "Ally",
 			"TotalContractValue": "$369.00",
 			"StartDate": "11/28/2018",
-			"EndDate": "4/29/2020",
+			"EndDate": "5/29/2020",
 			"Status": "ORA_ENDING",
 			"Duration": 2,
-			"URL": "https://ccstore-z2ia.oracleoutsourcing.com/eobr-plan/product/Plan1001"
+			"URL": "https://www.blackboard.com/teaching-learning/accessibility-universal-design/blackboard-ally-lms"
 		}
 	]
 }
