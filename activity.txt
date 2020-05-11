@@ -1,10 +1,12 @@
 {
 	"items": [
 	{
+		"Alert":"true",
 		"Date":"2020-05-15T20:10:07.000Z",
 		"Message":"Your equipment will be picked up May 25th, 2020 and returned on May 27th, 2020"
 	},
 	{
+		"Alert":"false",
 		"Date":"2020-05-01T20:10:07.000Z",
 		"Message":"Your invoice has been completed for the month of April and is due May 15th, 2020"
 	}							
