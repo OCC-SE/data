@@ -1,14 +1,24 @@
 {
 	"items": [
 	{
+		"Alert":"false",
+		"Date":"2020-05-11T20:10:07.000Z",
+		"Message":"Your equipment will be picked up May 25th, 2020 and returned on May 27th, 2020."
+	},
+	{
 		"Alert":"true",
-		"Date":"2020-05-15T20:10:07.000Z",
-		"Message":"Your equipment will be picked up May 25th, 2020 and returned on May 27th, 2020"
+		"Date":"2020-05-04T04:31:07.000Z",
+		"Message":"Your order 97404 is now Submitted."
 	},
 	{
 		"Alert":"false",
+		"Date":"2020-05-03T22:10:07.000Z",
+		"Message":"The line on your order 97404 is currently on hold for Credit Check Hold."
+	},	
+	{
+		"Alert":"false",
 		"Date":"2020-05-01T20:10:07.000Z",
-		"Message":"Your invoice has been completed for the month of April and is due May 15th, 2020"
+		"Message":"Your invoice has been completed for the month of April and is due May 15th, 2020."
 	}							
 	]
 }
