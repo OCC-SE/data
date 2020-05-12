@@ -1,7 +1,10 @@
 {
 	"items": [
 	{
-		"Product":"Large Container Rental"
-	}							
+		"Product":"Large Container Service - Haul/Empty & Return"
+	},
+	{
+		"Product":"Small Container Service - Haul/Empty & Return"
+	}								
 	]
 }
