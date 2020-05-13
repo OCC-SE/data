@@ -2,15 +2,15 @@
 	
 	"items": [
 	{
-		 "Alert":"true",
-		 "Date":"04/15/2020",
-		 "Invoice":"INV2144",
-		 "Order":"1659092837599",
-		 "Total":"$2,998",
-		 "PO":"22437798-K",
-		 "DueDate":"05/29/2020",
-		 "Status":"Open",
-		 "Link":"/file/products/INV2144.pdf"
+		 "SequenceNumber":"1",
+		 "ReceiptNumber":"RSI-REC-7022",
+		 "ReceiptAmount":"$974.03",
+		 "ReceiptDate":"2/13/2020",
+		 "AccountingDate":"2/13/2020",
+		 "CustomerAccountNumber":"10080",
+		 "ReferenceValue":"7022",
+		 "ReferenceType":"Transaction Number",
+		 "Link":"/file/products/7022.pdf"
 	}
 	]
 }
