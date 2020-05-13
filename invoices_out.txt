@@ -2,15 +2,24 @@
 	
 	"items": [
 	{
-		 "SequenceNumber":"1",
-		 "ReceiptNumber":"RSI-REC-7022",
-		 "ReceiptAmount":"$974.03",
-		 "ReceiptDate":"2/13/2020",
-		 "AccountingDate":"2/13/2020",
+		 "SalesOrder":"20034",
+		 "InvoiceDate":"3/31/2020",
+		 "InvoiceAmount":"$438.03",
+		 "InvoiceDue":"4/30/2020",
+		 "PaymentTerms":"Net 30",
 		 "CustomerAccountNumber":"10080",
-		 "ReferenceValue":"7022",
-		 "ReferenceType":"Transaction Number",
-		 "Link":"/file/products/7022.pdf"
-	}
+		 "ReferenceValue":"7006",
+		 "Link":"/file/products/7006.pdf"
+	},
+	{
+		 "SalesOrder":"20034",
+		 "InvoiceDate":"3/31/2020",
+		 "InvoiceAmount":"2,287.46",
+		 "InvoiceDue":"4/30/2020",		 
+		 "PaymentTerms":"Net 30",
+		 "CustomerAccountNumber":"10080",
+		 "ReferenceValue":"7011",
+		 "Link":"/file/products/7011.pdf"
+	}	
 	]
 }
