@@ -9,6 +9,7 @@
 		 "PaymentTerms":"Net 30",
 		 "CustomerAccountNumber":"10080",
 		 "ReferenceValue":"7006",
+		 "ReferenceType":"Transaction Number",
 		 "Link":"/file/products/7006.pdf"
 	},
 	{
@@ -19,6 +20,7 @@
 		 "PaymentTerms":"Net 30",
 		 "CustomerAccountNumber":"10080",
 		 "ReferenceValue":"7011",
+		 "ReferenceType":"Transaction Number",
 		 "Link":"/file/products/7011.pdf"
 	}	
 	]
