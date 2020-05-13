@@ -3,13 +3,31 @@
   "centerLng": -73.985675,
   "items": [
     {
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.JPG",
+      "Image": "",
       "Name": "Peloton",
       "OilLife": "140 W 23rd St",
       "Mileage": "New York, NY 10011",    
       "Lat": 40.743340,
       "Lng": -73.994275,
       "Color": "rgb(114,147,203)"
-    }
+    },
+    {
+      "Image": "",
+      "Name": "Peloton",
+      "OilLife": "140 W 23rd St",
+      "Mileage": "New York, NY 10011",    
+      "Lat": 40.714246,
+      "Lng": -74.016531,
+      "Color": "rgb(114,147,203)"
+    },
+    {
+      "Image": "",
+      "Name": "Peloton",
+      "OilLife": "140 W 23rd St",
+      "Mileage": "New York, NY 10011",    
+      "Lat": 40.753110, 
+      "Lng": -74.000226,
+      "Color": "rgb(114,147,203)"
+    }    
   ]
 }
