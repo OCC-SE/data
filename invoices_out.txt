@@ -17,7 +17,7 @@
 		"Alert":"true",
 		 "SalesOrder":"20034",
 		 "InvoiceDate":"3/31/2020",
-		 "InvoiceAmount":"2,287.46",
+		 "InvoiceAmount":"$2,287.46",
 		 "InvoiceDue":"4/30/2020",		 
 		 "PaymentTerms":"Net 30",
 		 "CustomerAccountNumber":"10080",
