@@ -22,7 +22,7 @@
 	},
 	{
 		"Alert":"true",
-		"Date":"2020-04-24T08:00:00.000Z",
+		"Date":"2020-04-24T08:01:00.000Z",
 		"Message":"Credit card ending in 0447 is set to expire July 2020."
 	}	
 	]
