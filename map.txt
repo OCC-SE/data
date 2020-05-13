@@ -8,7 +8,7 @@
       "OilLife": "140 W 23rd St",
       "Mileage": "New York, NY 10011",    
       "Lat": 40.743340,
-      "Lng": -73.994275
+      "Lng": -73.994275,
       "Color": "rgb(114,147,203)"
     }
   ]
