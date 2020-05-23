@@ -1,0 +1,54 @@
+[
+        {
+		"label": "Freightliner",
+		"values":
+			[
+				{ "x":"Sunday", "y":0},
+				{ "x":"Monday", "y": 12},
+				{ "x":"Tuesday", "y":11},
+				{ "x":"Wednesday", "y":18},
+				{ "x":"Thursday", "y":14},
+				{ "x":"Friday", "y":16},
+        		{ "x":"Saturday", "y":5}
+			]
+	},
+	{
+		"label": "Western",
+		"values":
+			[
+				{ "x":"Sunday", "y":0},
+				{ "x":"Monday", "y": 28},
+				{ "x":"Tuesday", "y":27},
+				{ "x":"Wednesday", "y":29},
+				{ "x":"Thursday", "y":33},
+				{ "x":"Friday", "y":28},
+        		{ "x":"Saturday", "y":10}
+			]
+	},
+	{
+		"label": "Volvo AB",
+		"values":
+			[
+				{ "x":"Sunday", "y":0},
+				{ "x":"Monday", "y": 9},
+				{ "x":"Tuesday", "y":11},
+				{ "x":"Wednesday", "y":10},
+				{ "x":"Thursday", "y":7},
+				{ "x":"Friday", "y":9},
+        		{ "x":"Saturday", "y":1}
+			]
+	},
+	{
+		"label": "Mack Vision",
+		"values":
+			[
+				{ "x":"Sunday", "y":0},
+				{ "x":"Monday", "y": 14},
+				{ "x":"Tuesday", "y":9},
+				{ "x":"Wednesday", "y":22},
+				{ "x":"Thursday", "y":9},
+				{ "x":"Friday", "y":9},
+        		{ "x":"Saturday", "y":3}
+			]
+	}
+]
