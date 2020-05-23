@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "Alert": "true",
+      "Status": "online",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/engine-1.jpg",
+      "Name": "Standard #12",
+      "PurchaseDate": "10/12/2019",
+      "LastServiced": "",
+      "Make": "StoneRidge",
+      "Model": "Standard Mixer",
+      "Year": 2019,
+      "OilLife": "49%",
+      "Mileage": "12,132",
+      "Spend": "$268",
+      "Locate": "https://goo.gl/maps/yciqPkDCXPAa2UTW9",
+      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+1490320120&Nrpp=12&suppressResults=false&searchType=guided&type=search"
+    },
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/engine-2.jpg",
+      "Name": "Standard #5",
+      "PurchaseDate": "7/5/2018",
+      "LastServiced": "",
+      "Make": "StoneRidge",
+      "Model": "Standard Mixer",
+      "Year": 2017,
+      "OilLife": "97%",
+      "Spend": "$1,585",
+      "Mileage": "71,421",
+      "Locate": "https://goo.gl/maps/H13XbG43UqgB4CwF8",
+      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+3475125136&Nrpp=12&suppressResults=false&searchType=guided&type=search"
+    },
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/engine-1.jpg",
+      "Name": "Bridgemaster #7",
+      "PurchaseDate": "2/5/2019",
+      "LastServiced": "11/15/2019",
+      "Make": "StoneRidge",
+      "Model": "Bridgemaster Mixer",
+      "Year": 2018,
+      "OilLife": "93%",
+      "Spend": "$2,189",
+      "Mileage": "26,147",
+      "Locate": "https://goo.gl/maps/3YnW46Ptn8bV5CSF9",
+      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=4228719131+3856431570+1596324822&Nrpp=12&suppressResults=false&searchType=guided&type=search"
+    },
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/engine-pratt.jpg",
+      "Name": "S-Series #1",
+      "PurchaseDate": "1/15/2020",
+      "LastServiced": "",
+      "Make": "Oshkosh",
+      "Model": "S-Series Front Discharge",
+      "Year": 2019,
+      "OilLife": "91%",
+      "Spend": "$1,211",
+      "Mileage": "6,815",
+      "Locate": "https://goo.gl/maps/vFVoygHrmmPHQHFm9",
+      "Shop": "https://ccstore-z8ba.oracleoutsourcing.com/truckpro/searchresults?&N=569575954+1544306198+1490320120&Nrpp=12&suppressResults=false&searchType=guided&type=search"
+    }        
+  ]
+}
