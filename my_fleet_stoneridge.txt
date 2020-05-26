@@ -3,7 +3,7 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/engine-1.jpg",
+      "Image": "https://raw.githubusercontent.com/OCC-SE/images/stoneridge/tables/truck.jpg",
       "Name": "Standard #12",
       "Fuel Compl": "10/12/2019",
       "GPH": "StoneRidge",
