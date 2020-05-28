@@ -8,7 +8,7 @@
 		 "InvoiceAmount":"$438.03",
 		 "InvoiceDue":"6/15/2020",
 		 "PaymentTerms":"Net 30",
-		 "CustomerAccountNumber":"10080",
+		 "CustomerAccountNumber":"250001",
 		 "ReferenceValue":"7006",
 		 "ReferenceType":"Transaction Number",
 		 "Link":"/file/products/7006.pdf"
@@ -20,7 +20,7 @@
 		 "InvoiceAmount":"$2,287.46",
 		 "InvoiceDue":"5/30/2020",		 
 		 "PaymentTerms":"Net 30",
-		 "CustomerAccountNumber":"10080",
+		 "CustomerAccountNumber":"250001",
 		 "ReferenceValue":"7011",
 		 "ReferenceType":"Transaction Number",
 		 "Link":"/file/products/7011.pdf"
