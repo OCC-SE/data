@@ -3,36 +3,36 @@
 		"label": "Baking & Pastry",
 		"values":
 			[
-				{ "x":"June", "y": 7657},
-				{ "x":"July", "y": 8145},
-				{ "x":"August", "y":9714},
-				{ "x":"September", "y":6333},
-				{ "x":"October", "y":5100},
-				{ "x":"November", "y":8000}
+				{ "x":"December", "y": 657},
+				{ "x":"January", "y": 145},
+				{ "x":"February", "y":714},
+				{ "x":"March", "y":333},
+				{ "x":"April", "y":100},
+				{ "x":"May", "y":800}
 			]
 	},
 	{
 		"label": "Dairy & Eggs",
 		"values":
 			[
-				{ "x":"June", "y":6632},
-				{ "x":"July", "y":9318},
-				{ "x":"August", "y":8117},
-				{ "x":"September", "y":10100},
-				{ "x":"October", "y":8855},
-				{ "x":"November", "y":4547}
+				{ "x":"December", "y":632},
+				{ "x":"January", "y":318},
+				{ "x":"February", "y":117},
+				{ "x":"March", "y":101},
+				{ "x":"April", "y":855},
+				{ "x":"May", "y":547}
 			]
 	},
 	{
 		"label": "Specialty",
 		"values":
 			[
-				{ "x":"June", "y":1432},
-				{ "x":"July", "y":2318},
-				{ "x":"August", "y":4117},
-				{ "x":"September", "y":10100},
-				{ "x":"October", "y":2857},
-				{ "x":"November", "y":3478}
+				{ "x":"December", "y":143},
+				{ "x":"January", "y":231},
+				{ "x":"February", "y":457},
+				{ "x":"March", "y":901},
+				{ "x":"April", "y":257},
+				{ "x":"May", "y":498}
 			]
 	}  
 ]
