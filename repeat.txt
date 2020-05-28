@@ -1,13 +1,13 @@
 {
 	"items": [
 	{
-		"id":"cfl100se",
-		"image":"bulb_cfl3.png",
-		"displayName":"Cfl Natural Daylight Bulb",
-		"brand":"Supremo Interiors",
+		"id":"MTF12",
+		"image":"MTF12.PNG",
+		"displayName":"Whole Milk",
+		"brand":"Prairie Farms",
 		"quantity":1,
-		"total":10,
-		"lastOrdered":"12/03/2019"
+		"total":"$4.06",
+		"lastOrdered":"05/05/2020"
 	},
 	{
 		"id":"s540slb",
