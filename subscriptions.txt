@@ -5,7 +5,6 @@
       "Start Date":"3/11/2020",
       "Monthly Price":"$9.99",
       "StartDate":"12/27/2017",
-      "EndDate":"12/27/2020",
       "Status":"Active"
     }
   ]
