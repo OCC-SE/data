@@ -5,8 +5,8 @@
 			"Invoice":"iPhone Xs",
 			"Customer":"Active",
 			"Master":"2020-02-15T20:10:07.000Z",
-			"PO":"",
-			"Date":"2020-02-15T20:10:07.000Z",
+			"PO":"Latest",
+			"Date":"Latest",
 			"Items":"4",
 			"POTotal":"743",
 			"Status":"Submitted to fulfillment"
@@ -16,8 +16,8 @@
 			"Invoice":"Amazon Fire TV",
 			"Customer":"Active",
 			"Master":"2020-02-01T20:10:07.000Z",
-			"PO":"",
-			"Date":"2020-02-01T20:10:07.000Z",
+			"PO":"Latest",
+			"Date":"Needs Update",
 			"Items":"2",
 			"POTotal":"312",
 			"Status":"Pending payment"
@@ -27,8 +27,8 @@
 			"Invoice":"Playstation 4",
 			"Customer":"Disabled",
 			"Master":"2020-01-22T20:10:07.000Z",
-			"PO":"",
-			"Date":"2020-01-22T20:10:07.000Z",
+			"PO":"Needs Update",
+			"Date":"Latest",
 			"Items":"1",
 			"POTotal":"132",
 			"Status":"Pending approval"
