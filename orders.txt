@@ -9,7 +9,8 @@
 			"Date":"Latest",
 			"Items":"4",
 			"POTotal":"743",
-			"Status":"Submitted to fulfillment"
+			"Status":"Submitted to fulfillment",
+			"Status2":"Active"
 		},
 		{
 			"WebOrder":"tv",
@@ -20,7 +21,8 @@
 			"Date":"Needs Update",
 			"Items":"2",
 			"POTotal":"312",
-			"Status":"Pending payment"
+			"Status":"Pending payment",
+			"Status2":"Active"
 		},
 		{
 			"WebOrder":"ps4",
@@ -31,7 +33,8 @@
 			"Date":"Latest",
 			"Items":"1",
 			"POTotal":"132",
-			"Status":"Pending approval"
+			"Status":"Pending approval",
+			"Status2":"Disabled"
 		}						
 	]
 }
