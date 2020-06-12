@@ -5,10 +5,10 @@
       "SeverityCdMeaning": "Low",
       "SeverityRank": 30,
       "SrNumber": "SR122192",
-      "Title": "Chandelier not dimming",
+      "Title": "Jack lock not locking",
       "ChannelTypeCdMeaning": "Chat",
       "LastUpdateDate": "2019-08-13T17:27:48.372+00:00",
-      "AccountPartyName": "Hudson",
+      "AccountPartyName": "Pinnacle",
       "StatusCdMeaning": "Waiting"
     },
     {
@@ -16,21 +16,10 @@
       "SeverityCdMeaning": "Medium",
       "SeverityRank": 20,
       "SrNumber": "SR101153",
-      "Title": "Sink faucet leak",
+      "Title": "Hitch coupler issue",
       "ChannelTypeCdMeaning": "Phone",
       "LastUpdateDate": "2019-08-07T16:37:31.059+00:00",
-      "AccountPartyName": "Hudson",
-      "StatusCdMeaning": "In Progress"
-    },
-    {
-      "CriticalFlag": false,
-      "SeverityCdMeaning": "Low",
-      "SeverityRank": 30,
-      "SrNumber": "SR107168",
-      "Title": "Broken handle on toilet",
-      "ChannelTypeCdMeaning": "Video",
-      "LastUpdateDate": "2019-06-11T08:47:15.061+00:00",
-      "AccountPartyName": "Hudson",
+      "AccountPartyName": "Pinnacle",
       "StatusCdMeaning": "In Progress"
     },
     {
@@ -38,21 +27,10 @@
       "SeverityCdMeaning": "High",
       "SeverityRank": 70,
       "SrNumber": "SR102155",
-      "Title": "Loose leg on dining room chair",
+      "Title": "Replacement part shipment late",
       "ChannelTypeCdMeaning": "Chat",
       "LastUpdateDate": "2019-05-15T13:49:54.470+00:00",
-      "AccountPartyName": "Hudson",
-      "StatusCdMeaning": "New"
-    },
-    {
-      "CriticalFlag": false,
-      "SeverityCdMeaning": "Low",
-      "SeverityRank": 30,
-      "SrNumber": "SR101156",
-      "Title": "Cracked console glass",
-      "ChannelTypeCdMeaning": "Video",
-      "LastUpdateDate": "2019-05-15T07:21:02.202+00:00",
-      "AccountPartyName": "Hudson",
+      "AccountPartyName": "Pinnacle",
       "StatusCdMeaning": "New"
     }
   ]
