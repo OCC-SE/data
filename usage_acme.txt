@@ -1,0 +1,42 @@
+[
+        {
+		"label": "River Run Estate",
+		"values":
+			[
+				{ "x":"Bricks", "y":90000},
+				{ "x":"Stone", "y": 65000},
+				{ "x":"Glass", "y":20000},
+				{ "x":"Fireplaces", "y":4000}
+			]
+	},
+	{
+		"label": "Quail Run Crossing",
+		"values":
+			[
+				{ "x":"Bricks", "y":70000},
+				{ "x":"Stone", "y": 45000},
+				{ "x":"Glass", "y":12000},
+				{ "x":"Fireplaces", "y":1000}
+			]
+	},	
+	{
+		"label": "Masion Pointe",
+		"values":
+			[
+				{ "x":"Bricks", "y":110000},
+				{ "x":"Stone", "y": 88000},
+				{ "x":"Glass", "y":77000},
+				{ "x":"Fireplaces", "y":11000}
+			]
+	},
+	{
+		"label": "Backcountry",
+		"values":
+			[
+				{ "x":"Bricks", "y":1000},
+				{ "x":"Stone", "y": 0},
+				{ "x":"Glass", "y":0},
+				{ "x":"Fireplaces", "y":0}
+			]
+	}
+]
