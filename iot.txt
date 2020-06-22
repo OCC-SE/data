@@ -3,7 +3,7 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "housing1.jpg.jpg",
+      "Image": "housing1.jpg",
       "Name": "Quail Run",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "n/a",
@@ -15,7 +15,7 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "housing2.jpg.jpg",
+      "Image": "housing2.jpg",
       "Name": "River Crossing Manor",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
