@@ -5,24 +5,24 @@
       "Status": "online",
       "Image": "housing1.jpg",
       "Name": "Quail Run",
-      "PurchaseDate": "10/12/2018",
-      "LastServiced": "n/a",
-      "UsageMonthAvg": 71,
-      "UsageTotal": 801,
-      "Temperature": "72 degrees",
-      "CushionPressure": "93%"
+      "StartedDate": "10/12/2018",
+      "FinishDate": "11/01/2022",
+      "TotalHomes": 900,
+      "BuiltHomes": 450,
+      "PercentComplete": "50%",
+      "LastOrderDate": "6/1/20"
     },
     {
       "Alert": "true",
       "Status": "online",
       "Image": "housing2.jpg",
       "Name": "River Crossing Manor",
-      "PurchaseDate": "7/5/2019",
-      "LastServiced": "n/a",
-      "UsageMonthAvg": 33,
-      "UsageTotal": 271,
-      "Temperature": "69 degrees",
-      "CushionPressure": "97%"
+      "StartedDate": "01/01/20",
+      "FinishDate": "12/31/2025",
+      "TotalHomes": 500,
+      "BuiltHomes": 100,
+      "PercentComplete": "20%",
+      "LastOrderDate": "6/1/20"
     }
   ]
 }
