@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "housing1.jpg",
+      "Name": "Quail Run",
+      "PurchaseDate": "10/12/2018",
+      "LastServiced": "n/a",
+      "UsageMonthAvg": 71,
+      "UsageTotal": 801,
+      "Temperature": "72 degrees",
+      "CushionPressure": "93%"
+    },
+    {
+      "Alert": "true",
+      "Status": "online",
+      "Image": "housing2.jpg",
+      "Name": "River Crossing Manor",
+      "PurchaseDate": "7/5/2019",
+      "LastServiced": "n/a",
+      "UsageMonthAvg": 33,
+      "UsageTotal": 271,
+      "Temperature": "69 degrees",
+      "CushionPressure": "97%"
+    }
+  ]
+}
