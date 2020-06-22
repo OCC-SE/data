@@ -13,29 +13,29 @@
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard05.JPG",
-      "Name": "Standard #5",
+      "Name": "Plant #2",
       "OilLife": "97%",
       "Mileage": "71,421",
-      "Lat": 32.768100, 
-      "Lng": -97.309100,
+      "Lat": 32.817864, 
+      "Lng": -97.34333,
       "Color": "rgb(225,151,76)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/bridge07.JPG",
-      "Name": "Bridgemaster #7",
+      "Name": "Plant #3",
       "OilLife": "93%",
       "Mileage": "26,147",
-      "Lat": 32.768900,
-      "Lng": -97.309100,
+      "Lat": 32.706422,
+      "Lng": -97.403755,
       "Color": "rgb(132,186,91)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/sseries01.JPG",
-      "Name": "S-Series #1",
+      "Name": "Plant #4",
       "OilLife": "91%",
       "Mileage": "6,815",
-      "Lat": 32.768750,
-      "Lng": -97.9581448,
+      "Lat": 32.701222,
+      "Lng": -97.26162,
       "Color": "rgb(211,94,96)"
     }        
   ]
