@@ -1,14 +1,14 @@
 { 
   "centerLat": 40.730610, 
-  "centerLng": -73.935242,
+  "centerLng": -73.988457,
   "items": [
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.JPG",
       "Name": "Plant #1",
       "OilLife": "49%",
       "Mileage": "12,132",
-      "Lat": 32.768219,
-      "Lng": -97.309696,
+      "Lat": 40.740364,
+      "Lng": -73.947601,
       "Color": "rgb(114,147,203)"
     },
     {
@@ -16,8 +16,8 @@
       "Name": "Plant #2",
       "OilLife": "97%",
       "Mileage": "71,421",
-      "Lat": 32.789151, 
-      "Lng": -97.282047,
+      "Lat": 40.715908,
+      "Lng": -73.986397,
       "Color": "rgb(225,151,76)"
     },
     {
@@ -25,8 +25,8 @@
       "Name": "Plant #3",
       "OilLife": "93%",
       "Mileage": "26,147",
-      "Lat": 32.765192,
-      "Lng": -97.254581,
+      "Lat": 40.753889,
+      "Lng": -73.98262,
       "Color": "rgb(132,186,91)"
     },
     {
@@ -34,8 +34,8 @@
       "Name": "Plant #4",
       "OilLife": "91%",
       "Mileage": "6,815",
-      "Lat": 32.753643,
-      "Lng": -97.368565,
+      "Lat": 40.728657,
+      "Lng": -74.033432,
       "Color": "rgb(211,94,96)"
     }        
   ]
