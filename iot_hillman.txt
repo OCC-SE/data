@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "ace-max.png",
+      "Name": "Ace Maxbauer",
+      "StartedDate": "10/12/2018",
+      "FinishDate": "11/01/2022",
+      "TotalHomes": 900,
+      "BuiltHomes": 450,
+      "PercentComplete": "50%",
+      "LastOrderDate": "6/1/20"
+    },
+    {
+      "Alert": "true",
+      "Status": "online",
+      "Image": "ace-miner.png",
+      "Name": "Ace Miner's",
+      "StartedDate": "01/01/20",
+      "FinishDate": "12/31/2025",
+      "TotalHomes": 500,
+      "BuiltHomes": 100,
+      "PercentComplete": "20%",
+      "LastOrderDate": "6/1/20"
+    }
+  ]
+}
