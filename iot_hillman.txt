@@ -15,7 +15,7 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "ace-miner.png",
+      "Image": "ace-miners.png",
       "Name": "Ace Miner's",
       "StartedDate": "01/01/20",
       "FinishDate": "12/31/2025",
