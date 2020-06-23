@@ -1,6 +1,6 @@
 { 
-  "centerLat": 42.7128, 
-  "centerLng": 74.0060,
+  "centerLat": 40.730610, 
+  "centerLng": -73.935242,
   "items": [
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.JPG",
