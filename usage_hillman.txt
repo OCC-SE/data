@@ -1,0 +1,42 @@
+[
+        {
+		"label": "Ace Maxbauer",
+		"values":
+			[
+				{ "x":"Fasteners", "y":90000},
+				{ "x":"Keys", "y": 65000},
+				{ "x":"Grease Monkey", "y":20000},
+				{ "x":"High & Mighty", "y":4000}
+			]
+	},
+	{
+		"label": "Ace Miner's",
+		"values":
+			[
+				{ "x":"Fasteners", "y":70000},
+				{ "x":"Keys", "y": 45000},
+				{ "x":"Grease Monkey",  "y":12000},
+				{ "x":"High & Mighty", "y":1000}
+			]
+	},	
+	{
+		"label": "Ace Pottesville",
+		"values":
+			[
+				{ "x":"Fasteners", "y":110000},
+				{ "x":"Keys", "y": 88000},
+				{ "x":"Grease Monkey",  "y":77000},
+				{ "x":"High & Mighty", "y":11000}
+			]
+	},
+	{
+		"label": "Ace Westhaven",
+		"values":
+			[
+				{ "x":"Fasteners", "y":1000},
+				{ "x":"Keys", "y": 0},
+				{ "x":"Grease Monkey",  "y":0},
+				{ "x":"High & Mighty", "y":0}
+			]
+	}
+]
