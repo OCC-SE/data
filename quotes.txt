@@ -17,9 +17,9 @@
                 		 	"currency": "USD"
             			 },					 
 				 "owner_t": "Natalie Thompson",
-				 "_customer_t_company_name": "Hudson",
+				 "_customer_t_company_name": "New Start Gyms",
 				 "createdDate_t": "05/19/2020",
-				 "lastUpdatedDate_t": "05/19/2020 15:51"
+				 "lastUpdatedDate_t": "05/19/2020"
 			}		
 		]
 }
