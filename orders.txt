@@ -6,9 +6,9 @@
 		"Customer":"540000",
 		"Master":"Grace Trailer",
 		"PO":"",
-		"Date":"2020-02-15T20:10:07.000Z",
+		"Date":"2020-06-26T20:10:07.000Z",
 		"Items":"4",
-		"POTotal":"743",
+		"POTotal":"$743",
 		"Status":"Submitted to fulfillment"
 	},
 	{
