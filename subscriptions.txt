@@ -6,7 +6,7 @@
     "TotalContractValue":"$720.00",
     "StartDate":"05/19/2020",
     "EndDate":"05/18/2021",
-    "Status":"ORA_ACTIVE",
+    "Status":"Active",
     "Duration":12,
     "Period":"Month"
   }
