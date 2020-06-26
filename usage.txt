@@ -3,26 +3,26 @@
 		"label": "Supremo 5200",
 		"values":
 			[
-				{ "x":"Sunday", "y":7},
-				{ "x":"Monday", "y": 2},
-				{ "x":"Tuesday", "y":2},
-				{ "x":"Wednesday", "y":2},
-				{ "x":"Thursday", "y":3},
-				{ "x":"Friday", "y":3},
-        			{ "x":"Saturday", "y":5}
+				{ "x":"Sunday", "y":54},
+				{ "x":"Monday", "y":66},
+				{ "x":"Tuesday", "y":23},
+				{ "x":"Wednesday", "y":53},
+				{ "x":"Thursday", "y":30},
+				{ "x":"Friday", "y":31},
+        			{ "x":"Saturday", "y":75}
 			]
 	},
 	{
 		"label": "Supremo Elliptical 2000",
 		"values":
 			[
-				{ "x":"Sunday", "y":2},
-				{ "x":"Monday", "y":1},
-				{ "x":"Tuesday", "y":3},
-				{ "x":"Wednesday", "y":1},
+				{ "x":"Sunday", "y":30},
+				{ "x":"Monday", "y":41},
+				{ "x":"Tuesday", "y":33},
+				{ "x":"Wednesday", "y":45},
 				{ "x":"Thursday", "y":0},
-				{ "x":"Friday", "y":2},
-        			{ "x":"Saturday", "y":5}
+				{ "x":"Friday", "y":25},
+        			{ "x":"Saturday", "y":50}
 			]
 	}
 ]
