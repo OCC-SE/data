@@ -13,7 +13,7 @@
       "CushionPressure": "93%"
     },
     {
-      "Alert": "true",
+      "Alert": "false",
       "Status": "online",
       "Image": "shutterstock_122095657.jpg",
       "Name": "Rustic Ghent Chair",
