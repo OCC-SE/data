@@ -5,10 +5,10 @@
       "SeverityCdMeaning": "Low",
       "SeverityRank": 30,
       "SrNumber": "SR122192",
-      "Title": "Chandelier not dimming",
+      "Title": "Phone Dropping Signal",
       "ChannelTypeCdMeaning": "Chat",
       "LastUpdateDate": "2019-08-13T17:27:48.372+00:00",
-      "AccountPartyName": "Hudson",
+      "AccountPartyName": "Tusc Fire",
       "StatusCdMeaning": "Waiting"
     },
     {
@@ -16,10 +16,10 @@
       "SeverityCdMeaning": "Medium",
       "SeverityRank": 20,
       "SrNumber": "SR101153",
-      "Title": "Sink faucet leak",
+      "Title": "Cracked Case",
       "ChannelTypeCdMeaning": "Phone",
       "LastUpdateDate": "2019-08-07T16:37:31.059+00:00",
-      "AccountPartyName": "Hudson",
+      "AccountPartyName": "Tusc Fire",
       "StatusCdMeaning": "In Progress"
     },
     {
@@ -27,10 +27,10 @@
       "SeverityCdMeaning": "Low",
       "SeverityRank": 30,
       "SrNumber": "SR107168",
-      "Title": "Broken handle on toilet",
+      "Title": "Broken Phone Glass",
       "ChannelTypeCdMeaning": "Video",
       "LastUpdateDate": "2019-06-11T08:47:15.061+00:00",
-      "AccountPartyName": "Hudson",
+      "AccountPartyName": "Tusc Police",
       "StatusCdMeaning": "In Progress"
     },
     {
@@ -38,10 +38,10 @@
       "SeverityCdMeaning": "High",
       "SeverityRank": 70,
       "SrNumber": "SR102155",
-      "Title": "Loose leg on dining room chair",
+      "Title": "Phone Wont Charge",
       "ChannelTypeCdMeaning": "Chat",
       "LastUpdateDate": "2019-05-15T13:49:54.470+00:00",
-      "AccountPartyName": "Hudson",
+      "AccountPartyName": "Tusc Police",
       "StatusCdMeaning": "New"
     },
     {
@@ -49,10 +49,10 @@
       "SeverityCdMeaning": "Low",
       "SeverityRank": 30,
       "SrNumber": "SR101156",
-      "Title": "Cracked console glass",
+      "Title": "Volume Not Working",
       "ChannelTypeCdMeaning": "Video",
       "LastUpdateDate": "2019-05-15T07:21:02.202+00:00",
-      "AccountPartyName": "Hudson",
+      "AccountPartyName": "Tusc Fire",
       "StatusCdMeaning": "New"
     }
   ]
