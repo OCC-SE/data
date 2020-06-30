@@ -3,7 +3,7 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "salerno-sofa-blue.jpg",
+      "Image": "tusc-fire.jpg",
       "Name": "Tusc Fire Dept",
       "PurchaseDate": "10/12/2018",
       "TotalPhones": "100",
@@ -15,7 +15,7 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "salerno-sofa-blue.jpg",
+      "Image": "police.jpg",
       "Name": "Tusc Police Dept",
       "PurchaseDate": "10/12/2018",
       "TotalPhones": "150",
