@@ -7,7 +7,7 @@
       "Name": "Tusc Fire Dept",
       "PurchaseDate": "10/12/2018",
       "TotalPhones": "100",
-      "InUsePhone": 71,
+      "InUsePhones": 71,
       "UsageTotal": "10000",
       "UsageAvail": "5443",
       "UsagePerc": "48%"
@@ -19,7 +19,7 @@
       "Name": "Tusc Police Dept",
       "PurchaseDate": "10/12/2018",
       "TotalPhones": "150",
-      "InUsePhone": 110,
+      "InUsePhones": 110,
       "UsageTotal": "20000",
       "UsageAvail": "2000",
       "UsagePerc": "92%"
