@@ -8,8 +8,8 @@
       "PurchaseDate": "10/12/2018",
       "TotalPhones": "100",
       "InUsePhone": 71,
-      "UsageTotal": "10,000",
-      "UsageAvail": "5,443",
+      "UsageTotal": "10000",
+      "UsageAvail": "5443",
       "UsagePerc": "48%"
     },
     {
@@ -20,8 +20,8 @@
       "PurchaseDate": "10/12/2018",
       "TotalPhones": "150",
       "InUsePhone": 110,
-      "UsageTotal": "20,000",
-      "UsageAvail": "2,000",
+      "UsageTotal": "20000",
+      "UsageAvail": "2000",
       "UsagePerc": "92%"
     }
   ]
