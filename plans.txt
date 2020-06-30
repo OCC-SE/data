@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "salerno-sofa-blue.jpg",
+      "Name": "Tusc Fire Dept",
+      "PurchaseDate": "10/12/2018",
+      "TotalPhones": "100",
+      "InUsePhone": 71,
+      "UsageTotal": "10,000",
+      "UsageAvail": "5,443",
+      "UsagePerc": "48%"
+    },
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "salerno-sofa-blue.jpg",
+      "Name": "Tusc Police Dept",
+      "PurchaseDate": "10/12/2018",
+      "TotalPhones": "150",
+      "InUsePhone": 110,
+      "UsageTotal": "20,000",
+      "UsageAvail": "2,000",
+      "UsagePerc": "92%"
+    }
+  ]
+}
