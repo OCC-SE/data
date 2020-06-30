@@ -1,0 +1,54 @@
+[
+        {
+		"label": "Sonim XP8 #1",
+		"values":
+			[
+				{ "x":"Sunday", "y":50},
+				{ "x":"Monday", "y": 90},
+				{ "x":"Tuesday", "y":77},
+				{ "x":"Wednesday", "y":84},
+				{ "x":"Thursday", "y":66},
+				{ "x":"Friday", "y":80},
+        			{ "x":"Saturday", "y":70}
+			]
+	},
+	{
+		"label": "Sonim XP8 #2",
+		"values":
+			[
+				{ "x":"Sunday", "y":88},
+				{ "x":"Monday", "y":80},
+				{ "x":"Tuesday", "y":74},
+				{ "x":"Wednesday", "y":55},
+				{ "x":"Thursday", "y":60},
+				{ "x":"Friday", "y":55},
+        			{ "x":"Saturday", "y":33}
+			]
+	},
+	{
+		"label": "Sonim XP8 #3",
+		"values":
+			[
+				{ "x":"Sunday", "y":44},
+				{ "x":"Monday", "y":23},
+				{ "x":"Tuesday", "y":33},
+				{ "x":"Wednesday", "y":53},
+				{ "x":"Thursday", "y":24},
+				{ "x":"Friday", "y":15},
+        			{ "x":"Saturday", "y":40}
+			]
+	},
+	{
+		"label": "Sonim XP5 #4",
+		"values":
+			[
+				{ "x":"Sunday", "y":10},
+				{ "x":"Monday", "y":3},
+				{ "x":"Tuesday", "y":22},
+				{ "x":"Wednesday", "y":33},
+				{ "x":"Thursday", "y":24},
+				{ "x":"Friday", "y":15},
+        			{ "x":"Saturday", "y":22}
+			]
+	}
+]
