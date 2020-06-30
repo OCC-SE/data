@@ -4,38 +4,38 @@
   "items": [
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard12.JPG",
-      "Name": "Plant #1",
-      "OilLife": "49%",
-      "Mileage": "12,132",
-      "Lat": 40.740364,
-      "Lng": -73.947601,
+      "Name": "Phone #1",
+      "Battery": "49%",
+      "Minutes": "12,132",
+      "Lat": 33.200344,
+      "Lng": -87.589359,
       "Color": "rgb(114,147,203)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/standard05.JPG",
-      "Name": "Plant #2",
-      "OilLife": "97%",
-      "Mileage": "71,421",
-      "Lat": 40.715908,
-      "Lng": -73.986397,
+      "Name": "Phone #2",
+      "Battery": "97%",
+      "Minutes": "71,421",
+      "Lat": 33.208675,
+      "Lng": -87.541294,
       "Color": "rgb(225,151,76)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/bridge07.JPG",
-      "Name": "Plant #3",
-      "OilLife": "93%",
-      "Mileage": "26,147",
-      "Lat": 40.753889,
-      "Lng": -73.98262,
+      "Name": "Phone #3",
+      "Battery": "93%",
+      "Minutes": "26,147",
+      "Lat": 33.175635,
+      "Lng": -87.618198,
       "Color": "rgb(132,186,91)"
     },
     {
       "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/sseries01.JPG",
-      "Name": "Plant #4",
-      "OilLife": "91%",
-      "Mileage": "6,815",
-      "Lat": 40.728657,
-      "Lng": -74.033432,
+      "Name": "Phone #4",
+      "Battery": "91%",
+      "Minutes": "6,815",
+      "Lat": 33.178796,
+      "Lng": -87.535801,
       "Color": "rgb(211,94,96)"
     }        
   ]
