@@ -1,0 +1,42 @@
+[
+        {
+		"label": "Ace Maxbauer",
+		"values":
+			[
+				{ "x":"Fasteners", "y":90000},
+				{ "x":"Keys", "y": 65000},
+				{ "x":"Shelves", "y":20000},
+				{ "x":"Gloves", "y":4000}
+			]
+	},
+	{
+		"label": "Ace Miner's",
+		"values":
+			[
+				{ "x":"Fasteners", "y":70000},
+				{ "x":"Keys", "y": 45000},
+				{ "x":"Shelves",  "y":12000},
+				{ "x":"Gloves", "y":1000}
+			]
+	},	
+	{
+		"label": "Ace Pottesville",
+		"values":
+			[
+				{ "x":"Fasteners", "y":110000},
+				{ "x":"Keys", "y": 88000},
+				{ "x":"Shelves",  "y":77000},
+				{ "x":"Gloves", "y":11000}
+			]
+	},
+	{
+		"label": "Ace Westhaven",
+		"values":
+			[
+				{ "x":"Fasteners", "y":1000},
+				{ "x":"Keys", "y": 0},
+				{ "x":"Shelves",  "y":0},
+				{ "x":"Gloves", "y":0}
+			]
+	}
+]
