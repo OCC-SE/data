@@ -3,26 +3,26 @@
 		"label": "Quicklime",
 		"values":
 			[
-				{ "x":"January", "y":7},
-				{ "x":"February", "y": 2},
-				{ "x":"March", "y":2},
-				{ "x":"April", "y":2},
-				{ "x":"May", "y":3},
-				{ "x":"June", "y":3},
-        			{ "x":"July", "y":5}
+				{ "x":"January", "y":98},
+				{ "x":"February", "y":28},
+				{ "x":"March", "y":30},
+				{ "x":"April", "y":48},
+				{ "x":"May", "y":56},
+				{ "x":"June", "y":12},
+        			{ "x":"July", "y":75}
 			]
 	},
 	{
 		"label": "Hydrated Lime",
 		"values":
 			[
-				{ "x":"January", "y":4},
-				{ "x":"February", "y":3},
-				{ "x":"March", "y":4},
-				{ "x":"April", "y":3},
-				{ "x":"May", "y":4},
-				{ "x":"June", "y":5},
-        			{ "x":"July", "y":7}
+				{ "x":"January", "y":84},
+				{ "x":"February", "y":18},
+				{ "x":"March", "y":28},
+				{ "x":"April", "y":46},
+				{ "x":"May", "y":52},
+				{ "x":"June", "y":76},
+        			{ "x":"July", "y":12}
 			]
 	}
 ]
