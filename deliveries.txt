@@ -1,0 +1,49 @@
+{
+	"Density": [
+	{
+		"Scale In":"Quicklime",
+		"Scale Out":"0722915",
+		"Time Left CM":"Pittsburgh",
+		"Tracking #":"Stretch Wrapper",
+        "Arrival Time":"171 lb/ft3",
+        "Truck Weight": "",
+        "BOL": ""
+	},
+	{
+		"Scale In":"Hydrated Lime",
+		"Scale Out":"0722913",
+		"Time Left CM":"Pittsburgh",
+		"Tracking #":"Stretch Wrapper",
+        "Arrival Time":"199 lb/ft3",
+        "Truck Weight": "",
+        "BOL": ""
+    },
+    {
+		"Scale In":"Quicklime",
+		"Scale Out":"0722912",
+		"Time Left CM":"Pittsburgh",
+		"Tracking #":"Stretch Wrapper",
+        "Arrival Time":"171 lb/ft3",
+        "Truck Weight": "",
+        "BOL": ""
+	},
+	{
+		"Scale In":"Hydrated Lime",
+		"Scale Out":"0722911",
+		"Time Left CM":"Pittsburgh",
+		"Tracking #":"Stretch Wrapper",
+        "Arrival Time":"178 lb/ft3",
+        "Truck Weight": "",
+        "BOL": ""
+    },
+    {
+		"Scale In":"Quicklime",
+		"Scale Out":"0722910",
+		"Time Left CM":"Houston",
+		"Tracking #":"Stretch Wrapper",
+        "Arrival Time":"185 lb/ft3",
+        "Truck Weight": "",
+        "BOL": ""
+	}							
+	]
+}
