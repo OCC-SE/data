@@ -7,7 +7,7 @@
 		"Date":"2020-02-15T20:10:07.000Z",
 		"Items":"4",
 		"POTotal":"$743.00",
-		"Status":"Submitted to fulfillment",
+		"Status":"Submitted",
 		"Accepted Date":"2020-02-22T20:10:07.000Z",
 		"Credit Hold":"No"
 	},
@@ -29,7 +29,7 @@
 		"Date":"2020-02-15T20:10:07.000Z",
 		"Items":"4",
 		"POTotal":"$280.00",
-		"Status":"Submitted to fulfillment",
+		"Status":"Submitted",
 		"Accepted Date":"2020-02-22T20:10:07.000Z",
 		"Credit Hold":"No"
 	},
@@ -51,7 +51,7 @@
 		"Date":"2020-02-15T20:10:07.000Z",
 		"Items":"4",
 		"POTotal":"$811.00",
-		"Status":"Submitted to fulfillment",
+		"Status":"Submitted",
 		"Accepted Date":"2020-02-22T20:10:07.000Z",
 		"Credit Hold":"No"
 	},
@@ -73,7 +73,7 @@
 		"Date":"2020-02-15T20:10:07.000Z",
 		"Items":"4",
 		"POTotal":"$1220.00",
-		"Status":"Submitted to fulfillment",
+		"Status":"Submitted",
 		"Accepted Date":"2020-02-22T20:10:07.000Z",
 		"Credit Hold":"No"
 	},
