@@ -6,55 +6,6 @@
             "Prod. Facility": "Pittsburgh",
             "Packaging": "Stretch Wrapper",
             "Density": "171 lb/ft3"
-        },
-        {
-            "Description": "Hydrated Lime",
-            "Code": "0722913",
-            "Prod. Facility": "Pittsburgh",
-            "Packaging": "Stretch Wrapper",
-            "Density": "199 lb/ft3"
-        },
-        {
-            "Description": "Quicklime",
-            "Code": "0722912",
-            "Prod. Facility": "Pittsburgh",
-            "Packaging": "Stretch Wrapper",
-            "Density": "171 lb/ft3"
-        },
-        {
-            "Description": "Hydrated Lime",
-            "Code": "0722911",
-            "Prod. Facility": "Pittsburgh",
-            "Packaging": "Stretch Wrapper",
-            "Density": "178 lb/ft3"
-        },
-        {
-            "Description": "Quicklime",
-            "Code": "0722910",
-            "Prod. Facility": "Houston",
-            "Packaging": "Stretch Wrapper",
-            "Density": "185 lb/ft3"
-        },
-        {
-            "Description": "Hydrated Lime",
-            "Code": "0722909",
-            "Prod. Facility": "Houston",
-            "Packaging": "Stretch Wrapper",
-            "Density": "198 lb/ft3"
-        },
-        {
-            "Description": "Quicklime",
-            "Code": "0722908",
-            "Prod. Facility": "Houston",
-            "Packaging": "Stretch Wrapper",
-            "Density": "191 lb/ft3"
-        },
-        {
-            "Description": "Quicklime",
-            "Code": "0722907",
-            "Prod. Facility": "Houston",
-            "Packaging": "Stretch Wrapper",
-            "Density": "178 lb/ft3"
         }
     ]
 }
