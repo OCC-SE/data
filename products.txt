@@ -3,7 +3,7 @@
         {
             "Description": "Quicklime",
             "Code": "0722915",
-            "Facility": "Pittsburgh",
+            "Prod. Facility": "Pittsburgh",
             "Packaging": "Stretch Wrapper",
             "Density": "171 lb/ft3"
         }
