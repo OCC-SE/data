@@ -7,8 +7,8 @@
       "Name": "Standard #12",
       "OilLife": "49%",
       "Mileage": "12,132",
-      "Lat": 43.068219,
-      "Lng": -87.942696,
+      "Lat": 29.733937,
+      "Lng":  -95.347876,
       "Color": "rgb(114,147,203)"
     },
     {
@@ -16,8 +16,8 @@
       "Name": "Standard #5",
       "OilLife": "97%",
       "Mileage": "71,421",
-      "Lat": 43.068971, 
-      "Lng": -87.880898,
+      "Lat": 29.771908, 
+      "Lng": -95.3235,
       "Color": "rgb(225,151,76)"
     },
     {
@@ -25,18 +25,9 @@
       "Name": "Bridgemaster #7",
       "OilLife": "93%",
       "Mileage": "26,147",
-      "Lat": 43.0274579,
-      "Lng": -87.9492994,
+      "Lat": 29.750682,
+      "Lng": -95.410704,
       "Color": "rgb(132,186,91)"
-    },
-    {
-      "Image": "https://raw.githubusercontent.com/OCC-SE/images/truckpro/tables/sseries01.JPG",
-      "Name": "S-Series #1",
-      "OilLife": "91%",
-      "Mileage": "6,815",
-      "Lat": 43.0453781,
-      "Lng": -87.9581448,
-      "Color": "rgb(211,94,96)"
-    }        
+    }       
   ]
 }
