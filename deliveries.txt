@@ -1,6 +1,7 @@
 {
     "items": [
         {
+            "Alert": false,
             "Scale In": "2020-02-10T20:10:07.000Z",
             "Scale Out": "2020-02-15T20:10:07.000Z",
             "Time Left CM": "2d",
@@ -10,17 +11,17 @@
             "BOL": ""
         },
         {
-            
+            "Alert": true,
             "Scale In": "2020-02-15T20:10:07.000Z",
             "Scale Out": "2020-02-22T20:10:07.000Z",
             "Time Left CM": "2d",
             "Tracking #": "140027785979",
             "Arrival Time": "08:23 CST",
             "Truck Weight": "16 tons",
-            "BOL": "",
-            "Alert": true
+            "BOL": ""
         },
         {
+            "Alert": false,
             "Scale In": "2020-02-01T20:10:07.000Z",
             "Scale Out": "2020-02-08T20:10:07.000Z",
             "Time Left CM": "2d",
@@ -30,6 +31,7 @@
             "BOL": ""
         },
         {
+            "Alert": false,
             "Scale In": "2020-02-02T20:10:07.000Z",
             "Scale Out": "2020-02-09T20:10:07.000Z",
             "Time Left CM": "2d",
@@ -39,6 +41,7 @@
             "BOL": ""
         },
         {
+            "Alert": false,
             "Scale In": "2020-02-20T20:10:07.000Z",
             "Scale Out": "2020-02-23T20:10:07.000Z",
             "Time Left CM": "5d",
