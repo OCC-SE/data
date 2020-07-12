@@ -18,7 +18,7 @@
             "Arrival Time": "08:23 CST",
             "Truck Weight": "16 tons",
             "BOL": "",
-            "Alert": true,
+            "Alert": true
         },
         {
             "Scale In": "2020-02-01T20:10:07.000Z",
