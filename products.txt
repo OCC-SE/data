@@ -4,7 +4,7 @@
             "Description": "Quicklime",
             "Code": "0722915",
             "Facility": "Pittsburgh",
-            "Packaging": "Stretch Wrapper",
+            "Packaging": "Bulk",
             "Density": "171 lb/ft3"
         },
         {
@@ -18,35 +18,35 @@
             "Description": "Quicklime",
             "Code": "0722912",
             "Facility": "Pittsburgh",
-            "Packaging": "Stretch Wrapper",
+            "Packaging": "Bulk",
             "Density": "171 lb/ft3"
         },
         {
             "Description": "Hydrated Lime",
             "Code": "0722911",
             "Facility": "Pittsburgh",
-            "Packaging": "Stretch Wrapper",
+            "Packaging": "Bulk",
             "Density": "178 lb/ft3"
         },
         {
             "Description": "Quicklime",
             "Code": "0722910",
             "Facility": "Houston",
-            "Packaging": "Stretch Wrapper",
+            "Packaging": "Bulk",
             "Density": "185 lb/ft3"
         },
         {
             "Description": "Hydrated Lime",
             "Code": "0722909",
             "Facility": "Houston",
-            "Packaging": "Stretch Wrapper",
+            "Packaging": "Bulk",
             "Density": "198 lb/ft3"
         },
         {
-            "Description": "Quicklime",
-            "Code": "0722908",
-            "Facility": "Houston",
-            "Packaging": "Stretch Wrapper",
+            "Description": "HiCal QL 3/4” X 1/8” Water Grade",
+            "Code": "17800",
+            "Facility": "Pleasant Gap",
+            "Packaging": "Bulk",
             "Density": "191 lb/ft3"
         },
         {
