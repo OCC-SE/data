@@ -3,13 +3,13 @@
 			{
 				 "transactionID_t": "CPQ-419",
 				 "version_number_versionTransaction_t": "2",
-				 "transactionName_t": "Traditional Hydepark Bed",
+				 "transactionName_t": "HiCal QL Steel Grade 2 1/8” X ¼” Bulk",
 		             	 "status_t": {
                 		  	"displayValue": "Created",
                   		  	"value": "CREATED"
             			 },
 			    	 "totalContractValue_t": {
-					"value": 2700.0,
+					"value": $112.00/TON,
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
@@ -24,13 +24,13 @@
 			{
 				 "transactionID_t": "CPQ-503",
 				 "version_number_versionTransaction_t": "1",
-				 "transactionName_t": "Entertainment room furniture",
+				 "transactionName_t": "HiCal QL ¾ x 1/8 Water Grade",
 		             	 "status_t": {
                 		  	"displayValue": "Quoted",
                   		  	"value": "QUOTED"
             			 },
 			    	 "totalContractValue_t": {
-					"value": 4300.50,
+					"value": $158.46/TON,
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
@@ -39,8 +39,8 @@
             			 },					 
 				 "owner_t": "Lisa Jones",
 				 "_customer_t_company_name": "Hudson",
-				 "createdDate_t": "08/30/2019",
-				 "lastUpdatedDate_t": "11/21/2019 15:51"
+				 "createdDate_t": "04/06/2020",
+				 "lastUpdatedDate_t": "05/06/2020 15:51"
 			}			
 		]
 }
