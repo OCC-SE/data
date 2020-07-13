@@ -18,7 +18,7 @@
 		"Date":"2020-02-01T20:10:07.000Z",
 		"Items":"2",
 		"POTotal":"$312.00",
-		"Status":"Pending",
+		"Status":"CREDIT HOLD",
 		"Accepted Date":"2020-02-06T20:10:07.000Z",
 		"Credit Hold":"Yes"
     },
