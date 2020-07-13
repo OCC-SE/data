@@ -7,7 +7,7 @@
             "Time Left CM": "02/15/2020 05:10 PM",
             "Tracking #": "140027785623",
             "Arrival Time": "10:23 CST",
-            "Truck Weight": "16 tons",
+            "Truck Weight": "15 tons",
             "BOL": ""
         },
         {
@@ -27,7 +27,7 @@
             "Time Left CM": "02/1/2020 05:10 PM",
             "Tracking #": "140027785564",
             "Arrival Time": "10:23 CST",
-            "Truck Weight": "16 tons",
+            "Truck Weight": "200 tons",
             "BOL": ""
         },
         {
@@ -37,7 +37,7 @@
             "Time Left CM": "02/2/2020 05:10 PM",
             "Tracking #": "140027785100",
             "Arrival Time": "09:43 CST",
-            "Truck Weight": "16 tons",
+            "Truck Weight": "10 tons",
             "BOL": ""
         },
         {
@@ -47,7 +47,7 @@
             "Time Left CM": "02/20/2020 05:10 PM",
             "Tracking #": "140027785929",
             "Arrival Time": "16:43 CST",
-            "Truck Weight": "16 tons",
+            "Truck Weight": "55 tons",
             "BOL": ""
         }
     ]
