@@ -3,25 +3,25 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "salerno-sofa-blue.jpg",
+      "Image": "supremo5200.png",
       "Name": "Supremo5200",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "n/a",
       "UsageMonthAvg": 71,
       "UsageTotal": 801,
-      "Temperature": "72 degrees",
+      "Battery Life": "89%",
       "CushionPressure": "93%"
     },
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "shutterstock_122095657.jpg",
+      "Image": "supremoelliptical2000",
       "Name": "Supremo Elliptical 2000",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
       "UsageMonthAvg": 33,
       "UsageTotal": 271,
-      "Temperature": "69 degrees",
+      "Battery Life": "100%",
       "CushionPressure": "97%"
     }
   ]
