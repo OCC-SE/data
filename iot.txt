@@ -15,7 +15,7 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "supremoelliptical2000",
+      "Image": "supremoelliptical2000.png",
       "Name": "Supremo Elliptical 2000",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
