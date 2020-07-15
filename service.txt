@@ -5,10 +5,10 @@
       "SeverityCdMeaning": "Low",
       "SeverityRank": 30,
       "SrNumber": "SR122192",
-      "Title": "Chandelier not dimming",
+      "Title": "Watch is not charging",
       "ChannelTypeCdMeaning": "Chat",
       "LastUpdateDate": "2019-08-13T17:27:48.372+00:00",
-      "AccountPartyName": "Hudson",
+      "AccountPartyName": "New Start Gyms",
       "StatusCdMeaning": "Waiting"
     },
     {
@@ -16,10 +16,10 @@
       "SeverityCdMeaning": "Medium",
       "SeverityRank": 20,
       "SrNumber": "SR101153",
-      "Title": "Sink faucet leak",
+      "Title": "Loose elliptical pedal",
       "ChannelTypeCdMeaning": "Phone",
       "LastUpdateDate": "2019-08-07T16:37:31.059+00:00",
-      "AccountPartyName": "Hudson",
+      "AccountPartyName": "New Start Gyms",
       "StatusCdMeaning": "In Progress"
     },
     {
@@ -27,10 +27,10 @@
       "SeverityCdMeaning": "Low",
       "SeverityRank": 30,
       "SrNumber": "SR107168",
-      "Title": "Broken handle on toilet",
+      "Title": "LCD on elliptical is fuzzy",
       "ChannelTypeCdMeaning": "Video",
       "LastUpdateDate": "2019-06-11T08:47:15.061+00:00",
-      "AccountPartyName": "Hudson",
+      "AccountPartyName": "New Start Gyms",
       "StatusCdMeaning": "In Progress"
     }
   ]
