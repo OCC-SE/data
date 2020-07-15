@@ -1,0 +1,6 @@
+[
+  {"label": "Prospecting", "color":"rgb(144,103,167)", "value": 5},
+	{"label": "Closed Won", "color":"rgb(132,186,91)", "value": 7},
+	{"label": "Negotiation", "color":"rgb(211,94,96)", "value": 1},
+  {"label": "Closed Lost", "color":"rgb(211,94,96)", "value": 4}
+]
