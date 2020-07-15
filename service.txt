@@ -32,28 +32,6 @@
       "LastUpdateDate": "2019-06-11T08:47:15.061+00:00",
       "AccountPartyName": "Hudson",
       "StatusCdMeaning": "In Progress"
-    },
-    {
-      "CriticalFlag": true,
-      "SeverityCdMeaning": "High",
-      "SeverityRank": 70,
-      "SrNumber": "SR102155",
-      "Title": "Loose leg on dining room chair",
-      "ChannelTypeCdMeaning": "Chat",
-      "LastUpdateDate": "2019-05-15T13:49:54.470+00:00",
-      "AccountPartyName": "Hudson",
-      "StatusCdMeaning": "New"
-    },
-    {
-      "CriticalFlag": false,
-      "SeverityCdMeaning": "Low",
-      "SeverityRank": 30,
-      "SrNumber": "SR101156",
-      "Title": "Cracked console glass",
-      "ChannelTypeCdMeaning": "Video",
-      "LastUpdateDate": "2019-05-15T07:21:02.202+00:00",
-      "AccountPartyName": "Hudson",
-      "StatusCdMeaning": "New"
     }
   ]
 }
