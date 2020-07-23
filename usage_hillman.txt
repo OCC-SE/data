@@ -1,6 +1,6 @@
 [
         {
-		"label": "Ace Maxbauer",
+		"label": "Store 1",
 		"values":
 			[
 				{ "x":"Fasteners", "y":90000},
@@ -10,7 +10,7 @@
 			]
 	},
 	{
-		"label": "Ace Miner's",
+		"label": "Store 2",
 		"values":
 			[
 				{ "x":"Fasteners", "y":70000},
@@ -20,7 +20,7 @@
 			]
 	},	
 	{
-		"label": "Ace Pottesville",
+		"label": "Store 3",
 		"values":
 			[
 				{ "x":"Fasteners", "y":110000},
@@ -30,7 +30,7 @@
 			]
 	},
 	{
-		"label": "Ace Westhaven",
+		"label": "Store 4",
 		"values":
 			[
 				{ "x":"Fasteners", "y":1000},
