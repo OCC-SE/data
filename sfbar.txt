@@ -1,28 +1,28 @@
 [
         {
-		"label": "Modern Salerno Sofa",
+		"label": "Digital Solutions",
 		"values":
 			[
-				{ "x":"Sunday", "y":7},
-				{ "x":"Monday", "y": 2},
-				{ "x":"Tuesday", "y":2},
-				{ "x":"Wednesday", "y":2},
-				{ "x":"Thursday", "y":3},
-				{ "x":"Friday", "y":3},
-        			{ "x":"Saturday", "y":5}
+				{ "x":"January", "y":7},
+				{ "x":"February", "y": 2},
+				{ "x":"March", "y":2},
+				{ "x":"April", "y":2},
+				{ "x":"May", "y":3},
+				{ "x":"June", "y":3},
+        			{ "x":"July", "y":5}
 			]
 	},
 	{
-		"label": "Rustic Ghent Chair",
+		"label": "Implant Systems",
 		"values":
 			[
-				{ "x":"Sunday", "y":4},
-				{ "x":"Monday", "y":3},
-				{ "x":"Tuesday", "y":4},
-				{ "x":"Wednesday", "y":3},
-				{ "x":"Thursday", "y":4},
-				{ "x":"Friday", "y":5},
-        			{ "x":"Saturday", "y":7}
+				{ "x":"January", "y":4},
+				{ "x":"February", "y":3},
+				{ "x":"March", "y":4},
+				{ "x":"April", "y":3},
+				{ "x":"May", "y":4},
+				{ "x":"June", "y":5},
+        			{ "x":"July", "y":7}
 			]
 	}
 ]
