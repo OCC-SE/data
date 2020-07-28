@@ -16,26 +16,26 @@
 		"label": "Xerox B205",
 		"values":
 			[
-				{ "x":"January", "y":60000},
-				{ "x":"February", "y": 65000},
-				{ "x":"March", "y":58000},
-				{ "x":"April", "y":42000},
-				{ "x":"May", "y":54000},
-				{ "x":"June", "y":59000},
-        			{ "x":"July", "y":43000}
+				{ "x":"January", "y":30000},
+				{ "x":"February", "y": 25000},
+				{ "x":"March", "y":28000},
+				{ "x":"April", "y":22000},
+				{ "x":"May", "y":24000},
+				{ "x":"June", "y":29000},
+        			{ "x":"July", "y":23000}
 			]
 	},
 	{
 		"label": "VersaLink C500",
 		"values":
 			[
-				{ "x":"January", "y":60000},
-				{ "x":"February", "y": 65000},
-				{ "x":"March", "y":58000},
-				{ "x":"April", "y":42000},
-				{ "x":"May", "y":54000},
-				{ "x":"June", "y":59000},
-        			{ "x":"July", "y":43000}
+				{ "x":"January", "y":6200},
+				{ "x":"February", "y": 7500},
+				{ "x":"March", "y":3200},
+				{ "x":"April", "y":2200},
+				{ "x":"May", "y":5600},
+				{ "x":"June", "y":7200},
+        			{ "x":"July", "y":4000}
 			]
 	}
 ]
