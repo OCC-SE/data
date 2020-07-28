@@ -4,25 +4,37 @@
       "Alert": "false",
       "Status": "online",
       "Image": "salerno-sofa-blue.jpg",
-      "Name": "Modern Salerno Sofa",
+      "Name": "Xerox B205",
       "PurchaseDate": "10/12/2018",
-      "LastServiced": "n/a",
+      "LastServiced": "6/5/2020",
       "UsageMonthAvg": 71,
       "UsageTotal": 801,
       "Temperature": "72 degrees",
-      "CushionPressure": "93%"
+      "Toner": "91%"
     },
     {
       "Alert": "true",
       "Status": "online",
       "Image": "shutterstock_122095657.jpg",
-      "Name": "Rustic Ghent Chair",
+      "Name": "VersaLink C405",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
       "UsageMonthAvg": 33,
       "UsageTotal": 271,
       "Temperature": "69 degrees",
-      "CushionPressure": "97%"
+      "Toner": "97%"
+    },
+    {
+      "Alert": "true",
+      "Status": "online",
+      "Image": "shutterstock_122095657.jpg",
+      "Name": "VersaLink C500",
+      "PurchaseDate": "1/5/2020",
+      "LastServiced": "n/a",
+      "UsageMonthAvg": 33,
+      "UsageTotal": 271,
+      "Temperature": "69 degrees",
+      "Toner": "43%"
     }
   ]
 }
