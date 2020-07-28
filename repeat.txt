@@ -6,7 +6,7 @@
 		"displayName":"Black Standard Capacity Toner Cartridge",
 		"brand":"AltaLink,
 		"quantity":2,
-		"total":196.00,
+		"total":196,
 		"lastOrdered":"5/03/2020"
 	},
 	{
@@ -15,7 +15,7 @@
 		"displayName":"Black Toner Cartridge and Waste Bottle",
 		"brand":"Xerox",
 		"quantity":4,
-		"total":1752.00,
+		"total":1752,
 		"lastOrdered":"01/22/2020"
 	},	
 	{
@@ -24,7 +24,7 @@
 		"displayName":"50-Sheet Staple Cartridge",
 		"brand":"Xerox",		
 		"quantity":3,
-		"total":398.40,
+		"total":398,
 		"lastOrdered":"4/03/2020"
 	}
 	]
