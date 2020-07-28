@@ -3,37 +3,37 @@
     {
       "Alert": "false",
       "Status": "online",
+      "ID": "1",
       "Image": "salerno-sofa-blue.jpg",
       "Name": "Xerox B205",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "6/5/2020",
       "UsageMonthAvg": 71,
-      "UsageTotal": 801,
-      "Temperature": "72 degrees",
+      "RecUsage": 801,
       "Toner": "91%"
     },
     {
-      "Alert": "true",
-      "Status": "online",
+      "Alert": "false",
+      "Status": "offline",
+      "ID": "1",      
       "Image": "shutterstock_122095657.jpg",
       "Name": "VersaLink C405",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
       "UsageMonthAvg": 33,
-      "UsageTotal": 271,
-      "Temperature": "69 degrees",
+      "RecUsage": 271,
       "Toner": "97%"
     },
     {
       "Alert": "true",
       "Status": "online",
+      "ID": "1",      
       "Image": "shutterstock_122095657.jpg",
       "Name": "VersaLink C500",
       "PurchaseDate": "1/5/2020",
       "LastServiced": "n/a",
       "UsageMonthAvg": 33,
-      "UsageTotal": 271,
-      "Temperature": "69 degrees",
+      "RecUsage": 271,
       "Toner": "43%"
     }
   ]
