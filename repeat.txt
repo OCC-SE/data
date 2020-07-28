@@ -1,31 +1,31 @@
 {
 	"items": [
 	{
-		"id":"cfl100se",
-		"image":"bulb_cfl3.png",
-		"displayName":"Cfl Natural Daylight Bulb",
-		"brand":"Supremo Interiors",
-		"quantity":1,
-		"total":10,
-		"lastOrdered":"12/03/2019"
+		"id":"006R01771",
+		"image":"006r01771_1000x1000.jpg",
+		"displayName":"Black Standard Capacity Toner Cartridge",
+		"brand":"AltaLink,
+		"quantity":2,
+		"total":196.00,
+		"lastOrdered":"5/03/2020"
 	},
 	{
-		"id":"s540slb",
-		"image":"bulb_led1.png",		
-		"displayName":"Led Light Bulb",
-		"brand":"Supremo Interiors",
+		"id":"006R01146",
+		"image":"006r01146_1000x1000.jpg",		
+		"displayName":"Black Toner Cartridge and Waste Bottle",
+		"brand":"Xerox",
 		"quantity":4,
-		"total":2,
-		"lastOrdered":"01/22/2019"
+		"total":1752.00,
+		"lastOrdered":"01/22/2020"
 	},	
 	{
-		"id":"se754",
-		"image":"bulb_led1.png",		
-		"displayName":"Led Bulb Natural Day",
-		"brand":"Supremo Elite",		
-		"quantity":2,
-		"total":4,
-		"lastOrdered":"11/03/2019"
+		"id":"008R12919",
+		"image":"008r12919_1000x1000.jpg",		
+		"displayName":"50-Sheet Staple Cartridge",
+		"brand":"Xerox",		
+		"quantity":3,
+		"total":398.40,
+		"lastOrdered":"4/03/2020"
 	}
 	]
 }
