@@ -6,9 +6,17 @@
 		"Date":"2020-08-10",
 		"Status":"Processing",
 		"Total":"$7,283.12",
-		"Source Order":"97404",
-		"Bill-to Account Number":"10080"
+		"SourceOrder":"97404",
+		"BillAccountNumber":"10080"
 		},
+		{
+		"WebOrder":"97404",
+		"Revision":"1.0",
+		"Date":"2020-08-10",
+		"Status":"Processing",
+		"Total":"$7,283.12",
+		"SourceOrder":"97404",
+		"BillAccountNumber":"10080"		},
 		{
 		"WebOrder":"97404",
 		"Revision":"1.0",
@@ -24,8 +32,8 @@
 		"Date":"2020-08-10",
 		"Status":"Processing",
 		"Total":"$7,283.12",
-		"Source Order":"97404",
-		"Bill-to Account Number":"10080"
+		"SourceOrder":"97404",
+		"BillAccountNumber":"10080"
 		},
 		{
 		"WebOrder":"97404",
@@ -33,8 +41,8 @@
 		"Date":"2020-08-10",
 		"Status":"Processing",
 		"Total":"$7,283.12",
-		"Source Order":"97404",
-		"Bill-to Account Number":"10080"
+		"SourceOrder":"97404",
+		"BillAccountNumber":"10080"
 		},
 		{
 		"WebOrder":"97404",
@@ -42,8 +50,8 @@
 		"Date":"2020-08-10",
 		"Status":"Processing",
 		"Total":"$7,283.12",
-		"Source Order":"97404",
-		"Bill-to Account Number":"10080"
+		"SourceOrder":"97404",
+		"BillAccountNumber":"10080"
 		},
 		{
 		"WebOrder":"97404",
@@ -51,8 +59,8 @@
 		"Date":"2020-08-10",
 		"Status":"Processing",
 		"Total":"$7,283.12",
-		"Source Order":"97404",
-		"Bill-to Account Number":"10080"
+		"SourceOrder":"97404",
+		"BillAccountNumber":"10080"
 		},
 		{
 		"WebOrder":"97404",
@@ -60,8 +68,8 @@
 		"Date":"2020-08-10",
 		"Status":"Processing",
 		"Total":"$7,283.12",
-		"Source Order":"97404",
-		"Bill-to Account Number":"10080"
+		"SourceOrder":"97404",
+		"BillAccountNumber":"10080"
 		},
 		{
 		"WebOrder":"97404",
@@ -69,17 +77,8 @@
 		"Date":"2020-08-10",
 		"Status":"Processing",
 		"Total":"$7,283.12",
-		"Source Order":"97404",
-		"Bill-to Account Number":"10080"
-		},
-		{
-		"WebOrder":"97404",
-		"Revision":"1.0",
-		"Date":"2020-08-10",
-		"Status":"Processing",
-		"Total":"$7,283.12",
-		"Source Order":"97404",
-		"Bill-to Account Number":"10080"
+		"SourceOrder":"97404",
+		"BillAccountNumber":"10080"
 		}
 	]
 }
