@@ -18,67 +18,94 @@
 		"SourceOrder":"97404",
 		"BillAccountNumber":"10080"		},
 		{
-		"WebOrder":"97404",
+		"WebOrder":"97402",
 		"Revision":"1.0",
 		"Date":"2020-08-10",
 		"Status":"Processing",
-		"Total":"$7,283.12",
+		"Total":"$64,605.00",
+		"SourceOrder":"97402",
+		"BillAccountNumber":"10080"
+		},
+		{
+		"WebOrder":"97399",
+		"Revision":"1.0",
+		"Date":"2020-07-21",
+		"Status":"Draft",
+		"Total":"$16,425.00",
+		"SourceOrder":"97399",
+		"BillAccountNumber":"10080"
+		},
+		{
+		"WebOrder":"97397",
+		"Revision":"2.0",
+		"Date":"2020-07-16",
+		"Status":"Processing",
+		"Total":"$514.65",
+		"SourceOrder":"97397",
+		"BillAccountNumber":"10080"
+		},
+		{
+		"WebOrder":"97397",
+		"Revision":"1.0",
+		"Date":"2020-07-16",
+		"Status":"Reference",
+		"Total":"$514.65",
+		"SourceOrder":"97397",
+		"BillAccountNumber":"10080"
+		},
+		{
+		"WebOrder":"97397",
+		"Revision":"2.0",
+		"Date":"2020-07-16",
+		"Status":"Reference",
+		"Total":"$514.65",
+		"SourceOrder":"97397",
+		"BillAccountNumber":"10080"
+		},
+		{
+		"WebOrder":"97393",
+		"Revision":"1.0",
+		"Date":"2020-07-13",
+		"Status":"Processing",
+		"Total":"$9,196.23",
+		"SourceOrder":"97393",
+		"BillAccountNumber":"10080"
+		},
+		{
+		"WebOrder":"97389",
+		"Revision":"2.0",
+		"Date":"2020-07-02",
+		"Status":"Processing",
+		"Total":"$952.65",
 		"SourceOrder":"97404",
 		"BillAccountNumber":"10080"
 		},
 		{
-		"WebOrder":"97404",
-		"Revision":"1.0",
-		"Date":"2020-08-10",
-		"Status":"Processing",
-		"Total":"$7,283.12",
+		"WebOrder":"97389",
+		"Revision":"2.0",
+		"Date":"2020-07-02",
+		"Status":"Reference",
+		"Total":"$952.65",
 		"SourceOrder":"97404",
 		"BillAccountNumber":"10080"
 		},
 		{
-		"WebOrder":"97404",
+		"WebOrder":"97389",
 		"Revision":"1.0",
-		"Date":"2020-08-10",
-		"Status":"Processing",
-		"Total":"$7,283.12",
+		"Date":"2020-07-02",
+		"Status":"Reference",
+		"Total":"$952.65",
 		"SourceOrder":"97404",
 		"BillAccountNumber":"10080"
 		},
 		{
-		"WebOrder":"97404",
-		"Revision":"1.0",
-		"Date":"2020-08-10",
-		"Status":"Processing",
-		"Total":"$7,283.12",
+		"WebOrder":"97389",
+		"Revision":"3.0",
+		"Date":"2020-07-02",
+		"Status":"Draft",
+		"Total":"$952.65",
 		"SourceOrder":"97404",
 		"BillAccountNumber":"10080"
-		},
-		{
-		"WebOrder":"97404",
-		"Revision":"1.0",
-		"Date":"2020-08-10",
-		"Status":"Processing",
-		"Total":"$7,283.12",
-		"SourceOrder":"97404",
-		"BillAccountNumber":"10080"
-		},
-		{
-		"WebOrder":"97404",
-		"Revision":"1.0",
-		"Date":"2020-08-10",
-		"Status":"Processing",
-		"Total":"$7,283.12",
-		"SourceOrder":"97404",
-		"BillAccountNumber":"10080"
-		},
-		{
-		"WebOrder":"97404",
-		"Revision":"1.0",
-		"Date":"2020-08-10",
-		"Status":"Processing",
-		"Total":"$7,283.12",
-		"SourceOrder":"97404",
-		"BillAccountNumber":"10080"
-		}
+		}		
 	]
 }
