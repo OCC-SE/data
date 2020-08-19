@@ -1,48 +1,50 @@
 {
 	"items": [
 			{
-				 "Alert": "true",
-				 "transactionID_t": "CPQ-419",
+			"Alert": "true",
+				 "transactionID_t": "CPQ-2003",
 				 "version_number_versionTransaction_t": "2",
-				 "transactionName_t": "Traditional Hydepark Bed",
+				 "transactionName_t": "Xerox PrimeLink C9065/C9070 Printer",
 		             	 "status_t": {
                 		  	"displayValue": "Created",
                   		  	"value": "CREATED"
             			 },
 			    	 "totalContractValue_t": {
-					"value": 2700.0,
+					"value": "$5,860.00",
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
                 		 	"value": 0.0,
                 		 	"currency": "USD"
-            			 },					 
-				 "owner_t": "Lisa Jones",
-				 "_customer_t_company_name": "Hudson",
-				 "createdDate_t": "09/09/2019",
-				 "lastUpdatedDate_t": "09/21/2019 15:51"
+            			 },	
+				 "discount": "",
+				 "owner_t": "Natalie Thompson",
+				 "_customer_t_company_name": "Jeff Stanton",
+				 "createdDate_t": "06/19/2020",
+				 "lastUpdatedDate_t": "06/19/2020"
 			},
 			{
-				"Alert": "false",
-				 "transactionID_t": "CPQ-503",
-				 "version_number_versionTransaction_t": "1",
-				 "transactionName_t": "Entertainment room furniture",
+			"Alert": "true",
+				 "transactionID_t": "CPQ-2017",
+				 "version_number_versionTransaction_t": "2",
+				 "transactionName_t": "Versalink C505",
 		             	 "status_t": {
-                		  	"displayValue": "Quoted",
-                  		  	"value": "QUOTED"
+                		  	"displayValue": "Accepted",
+                  		  	"value": "PENDING"
             			 },
 			    	 "totalContractValue_t": {
-					"value": 4300.50,
+					"value": "$1,632.00",
 					"currency": "USD"
 			    	 },
                			 "totalAnnualValue_t": {
                 		 	"value": 0.0,
                 		 	"currency": "USD"
-            			 },					 
-				 "owner_t": "Lisa Jones",
-				 "_customer_t_company_name": "Hudson",
-				 "createdDate_t": "08/30/2019",
-				 "lastUpdatedDate_t": "11/21/2019 15:51"
+            			 },	
+				 "discount": "10%",
+				 "owner_t": "Natalie Thompson",
+				 "_customer_t_company_name": "Jeff Stanton",
+				 "createdDate_t": "04/10/2020",
+				 "lastUpdatedDate_t": "04/10/2020"
 			}			
 		]
 }
