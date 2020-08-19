@@ -1,6 +1,7 @@
 {
 	"items": [
 			{
+				 "Alert": "true",
 				 "transactionID_t": "CPQ-419",
 				 "version_number_versionTransaction_t": "2",
 				 "transactionName_t": "Traditional Hydepark Bed",
@@ -22,6 +23,7 @@
 				 "lastUpdatedDate_t": "09/21/2019 15:51"
 			},
 			{
+				"Alert": "false",
 				 "transactionID_t": "CPQ-503",
 				 "version_number_versionTransaction_t": "1",
 				 "transactionName_t": "Entertainment room furniture",
