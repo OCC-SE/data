@@ -1,7 +1,7 @@
 [
-  {"label": "Open", "color":"rgb(144,103,167)", "value": 6},
-	{"label": "Fulfilled", "color":"rgb(0,126,135)", "value": 15},
-	{"label": "Cancelled", "color":"rgb(211,94,96)", "value": 4},
-	{"label": "Withdrawn", "color":"rgb(96,74,110)", "value": 1},
-	{"label": "On Hold", "color":"rgb(170,66,37)", "value": 3}
+  {"label": "Open", "color":"#003f5c", "value": 6},
+	{"label": "Fulfilled", "color":"#bc5090", "value": 15},
+	{"label": "Cancelled", "color":"#58508d", "value": 4},
+	{"label": "Withdrawn", "color":"#ff6361", "value": 1},
+	{"label": "On Hold", "color":"#ffa600", "value": 3}
 ]
