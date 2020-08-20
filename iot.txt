@@ -7,7 +7,7 @@
       "Name": "Vertiv™ Liebert® GXT5 UPS",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "n/a",
-      "Battery Life": "100%",
+      "BatteryLife": "100%",
       "ActiveECO": "97%",
       "Online": "95%"
     },
