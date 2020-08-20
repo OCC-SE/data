@@ -7,22 +7,20 @@
       "Name": "Vertiv™ Liebert® GXT5 UPS",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "n/a",
-      "UsageMonthAvg": 71,
-      "UsageTotal": 801,
-      "Temperature": "72 degrees",
-      "CushionPressure": "93%"
+      "Battery Life": "100%",
+      "ActiveECO": "97%",
+      "Online": "95%"
     },
     {
-      "Alert": "true",
+      "Alert": "false",
       "Status": "online",
       "Image": "DSE.jpg",
       "Name": "Liebert® DSE Packaged Free-Cooling Solution",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
-      "UsageMonthAvg": 33,
-      "UsageTotal": 271,
-      "Temperature": "69 degrees",
-      "CushionPressure": "97%"
+      "BatteryLife": "n/a",
+      "ActiveECO": "n/a",
+      "Online": "n/a"
     }
   ]
 }
