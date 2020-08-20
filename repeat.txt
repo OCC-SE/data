@@ -20,7 +20,7 @@
 	},	
 	{
 		"id":"VP8641",
-		"image":"pdu.jpb",		
+		"image":"pdu.jpg",		
 		"displayName":"Vertiv™ Geist™ Switched Rack PDU",
 		"brand":"Supremo Elite",		
 		"quantity":1,
