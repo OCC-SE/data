@@ -1,33 +1,36 @@
 {
 "items": [
   {
+  "Alert":"false",
     "SubscriptionNumber":"MPS1101",
-    "PrimaryPartyName":"Platinum Warranty",
+    "PrimaryPartyName":"Five Year Limited Warranty (SL-04550)",
     "TotalContractValue":"$179.99",
     "StartDate":"12/27/2017",
-    "EndDate":"12/27/2020",
+    "EndDate":"12/27/2022",
     "Status":"ORA_ACTIVE",
-    "Duration":1,
+    "Duration":5,
     "Period":"YR"
   },
   {
+  "Alert":"true",
     "SubscriptionNumber":"MAS1101",
-    "PrimaryPartyName":"Platinum Support",
+    "PrimaryPartyName":"Three Year Limited Warranty for Liebert GXT5 UPS Products (SL-23217)",
     "TotalContractValue":"$369.00",
-    "StartDate":"11/28/2018",
-    "EndDate":"1/29/2020",
+    "StartDate":"11/28/2017",
+    "EndDate":"11/28/2020",
     "Status":"ORA_ENDING",
-    "Duration":1,
+    "Duration":3,
     "Period":"YR"
   },
   {
+  "Alert":"false",
     "SubscriptionNumber":"TES1101",
-    "PrimaryPartyName":"Gold Warranty",
+    "PrimaryPartyName":"Two Year Limited Warranty for APS (SL-04630)",
     "TotalContractValue":"$549.99",
     "StartDate":"5/25/2018",
-    "EndDate":"11/25/2018",
+    "EndDate":"5/25/2020",
     "Status":"ORA_CLOSED",
-    "Duration":1,
+    "Duration":2,
     "Period":"YR"
   }
   ]
