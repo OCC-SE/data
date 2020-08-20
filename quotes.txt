@@ -1,7 +1,7 @@
 {
 	"items": [
 			{
-			"Alert": "true",
+			"Alert": "false",
 				 "transactionID_t": "CPQ-2003",
 				 "version_number_versionTransaction_t": "2",
 				 "transactionName_t": "Liebert CRV In Row Cooling System, 19-40kW",
@@ -24,7 +24,7 @@
 				 "lastUpdatedDate_t": "06/19/2020"
 			},
 			{
-			"Alert": "false",
+			"Alert": "true",
 				 "transactionID_t": "CPQ-2017",
 				 "version_number_versionTransaction_t": "2",
 				 "transactionName_t": "Chloride XP90R DC UPS",
