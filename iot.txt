@@ -3,8 +3,8 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "salerno-sofa-blue.jpg",
-      "Name": "Modern Salerno Sofa",
+      "Image": "GXT5.jpg",
+      "Name": "Vertiv™ Liebert® GXT5 UPS",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "n/a",
       "UsageMonthAvg": 71,
@@ -15,8 +15,8 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "shutterstock_122095657.jpg",
-      "Name": "Rustic Ghent Chair",
+      "Image": "DSE.jpg",
+      "Name": "Liebert® DSE Packaged Free-Cooling Solution",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
       "UsageMonthAvg": 33,
