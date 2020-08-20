@@ -2,7 +2,7 @@
   "items": [
     {
       "CriticalFlag": true,
-      "SeverityCdMeaning": "Low",
+      "SeverityCdMeaning": "High",
       "SeverityRank": 30,
       "SrNumber": "SR122192",
       "Title": "High temperature",
