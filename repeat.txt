@@ -1,31 +1,31 @@
 {
 	"items": [
 	{
-		"id":"cfl100se",
-		"image":"bulb_cfl3.png",
-		"displayName":"Cfl Natural Daylight Bulb",
+		"id":"FSC3U001",
+		"image":"fsc.jpg",
+		"displayName":"Vertiv™ Geist™ FSC, Facility Side Cable",
 		"brand":"Supremo Interiors",
 		"quantity":1,
-		"total":10,
-		"lastOrdered":"12/03/2019"
+		"total":299,
+		"lastOrdered":"07/03/2020"
 	},
 	{
-		"id":"s540slb",
-		"image":"bulb_led1.png",		
-		"displayName":"Led Light Bulb",
+		"id":"RACKPDU1",
+		"image":"rack.jpg",		
+		"displayName":"Vertiv Geist Rack PDU Accessories",
 		"brand":"Supremo Interiors",
 		"quantity":4,
-		"total":2,
-		"lastOrdered":"01/22/2019"
+		"total":2000,
+		"lastOrdered":"05/22/2020"
 	},	
 	{
-		"id":"se754",
-		"image":"bulb_led1.png",		
-		"displayName":"Led Bulb Natural Day",
+		"id":"VP8641",
+		"image":"pdu.jpb",		
+		"displayName":"Vertiv™ Geist™ Switched Rack PDU",
 		"brand":"Supremo Elite",		
-		"quantity":2,
-		"total":4,
-		"lastOrdered":"11/03/2019"
+		"quantity":1,
+		"total":99,
+		"lastOrdered":"04/23/2020"
 	}
 	]
 }
