@@ -4,11 +4,11 @@
 		"values":
 			[
 				{ "x":"Lines", "y":7},
-				{ "x":"Sub-Lines", "y": 2},
-				{ "x":"Untouched", "y":2},
+				{ "x":"Sub-Lines", "y": 5},
+				{ "x":"Untouched", "y":4},
 				{ "x":"Pending", "y":2},
 				{ "x":"Late Pending", "y":3},
-				{ "x":"Completed Today", "y":3}
+				{ "x":"Completed Today", "y":8}
 			]
 	}
 ]
