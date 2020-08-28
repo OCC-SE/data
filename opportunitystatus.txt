@@ -1,28 +1,24 @@
 [
         {
-		"label": "Modern Salerno Sofa",
+		"label": "BG",
 		"values":
 			[
-				{ "x":"Sunday", "y":7},
-				{ "x":"Monday", "y": 2},
-				{ "x":"Tuesday", "y":2},
-				{ "x":"Wednesday", "y":2},
-				{ "x":"Thursday", "y":3},
-				{ "x":"Friday", "y":3},
-        			{ "x":"Saturday", "y":5}
+				{ "x":"Active", "y":7},
+				{ "x":"In Progress", "y": 2},
+				{ "x":"Inactive", "y":2},
+				{ "x":"Pending", "y":2},
+				{ "x":"Closed", "y":3}
 			]
 	},
 	{
-		"label": "Rustic Ghent Chair",
+		"label": "SBDU",
 		"values":
 			[
-				{ "x":"Sunday", "y":4},
-				{ "x":"Monday", "y":3},
-				{ "x":"Tuesday", "y":4},
-				{ "x":"Wednesday", "y":3},
-				{ "x":"Thursday", "y":4},
-				{ "x":"Friday", "y":5},
-        			{ "x":"Saturday", "y":7}
+				{ "x":"Active", "y":4},
+				{ "x":"In Progress", "y":3},
+				{ "x":"Inactive", "y":4},
+				{ "x":"Pending", "y":3},
+				{ "x":"Closed", "y":4}
 			]
 	}
 ]
