@@ -1,1 +1,5 @@
-
+[
+  {"label": "Awarded", "color":"#003f5c", "value": 8},
+	{"label": "Pending", "color":"#bc5090", "value": 5},
+  {"label": "Lost", "color":"#ffa600", "value": 4}
+]
