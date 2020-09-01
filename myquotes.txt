@@ -54,39 +54,6 @@
 		"Items":"11/1/2020",
 		"POTotal":"981",
 		"Status":"Cancelled"
-	},
-	{
-		"WebOrder":"CPQ-47091804",
-		"Invoice":"0722909",
-		"Customer":"9",
-		"Master":"No",
-		"PO":"14,223",
-		"Date":"2019-12-05T20:10:07.000Z",
-		"Items":"11/1/2020",
-		"POTotal":"981",
-		"Status":"Cancelled"
-	},
-	{
-		"WebOrder":"CPQ-47091804",
-		"Invoice":"0722909",
-		"Customer":"9",
-		"Master":"No",
-		"PO":"14,223",
-		"Date":"2019-12-05T20:10:07.000Z",
-		"Items":"11/1/2020",
-		"POTotal":"981",
-		"Status":"Cancelled"
-	},	
-	{
-		"WebOrder":"CPQ-47091804",
-		"Invoice":"0722909",
-		"Customer":"9",
-		"Master":"No",
-		"PO":"14,223",
-		"Date":"2019-12-05T20:10:07.000Z",
-		"Items":"11/1/2020",
-		"POTotal":"981",
-		"Status":"Cancelled"
 	}							
 	]
 }
