@@ -7,7 +7,7 @@
 		"Master":"New Start Gyms",
 		"PO":"123456",
 		"Date":"2020-06-26T13:37:00.000Z",
-		"Items":"e",
+		"Items":"4",
 		"POTotal":"$480",
 		"Status":"Submitted to fulfillment"
 	},
