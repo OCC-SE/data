@@ -1,27 +1,27 @@
 {
   "items": [
     {
-      "Alert": "false",
-      "Status": "online",
-      "Image": "salerno-sofa-blue.jpg",
-      "Name": "Modern Salerno Sofa",
+      "Alert": "true",
+      "Status": "offline",
+      "Image": "3310B.jpg",
+      "Name": "3310B Drum Chipper",
       "PurchaseDate": "10/12/2018",
-      "LastServiced": "n/a",
+      "LastServiced": "6/1/2019",
       "UsageMonthAvg": 71,
       "UsageTotal": 801,
-      "Temperature": "72 degrees",
+      "Temperature": "8%",
       "CushionPressure": "93%"
     },
     {
-      "Alert": "true",
+      "Alert": "false",
       "Status": "online",
-      "Image": "shutterstock_122095657.jpg",
-      "Name": "Rustic Ghent Chair",
+      "Image": "2700D.jpg",
+      "Name": "2700D Grinder",
       "PurchaseDate": "7/5/2019",
-      "LastServiced": "n/a",
+      "LastServiced": "6/1/2020",
       "UsageMonthAvg": 33,
       "UsageTotal": 271,
-      "Temperature": "69 degrees",
+      "Temperature": "89%",
       "CushionPressure": "97%"
     }
   ]
