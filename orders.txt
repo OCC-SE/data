@@ -8,7 +8,7 @@
 		"PO":"",
 		"Date":"2020-02-15T20:10:07.000Z",
 		"Items":"4",
-		"POTotal":"743",
+		"POTotal":"$74,300.00",
 		"Status":"Submitted to fulfillment"
 	},
 	{
@@ -19,7 +19,7 @@
 		"PO":"",
 		"Date":"2020-02-01T20:10:07.000Z",
 		"Items":"2",
-		"POTotal":"312",
+		"POTotal":"$312,000.00",
 		"Status":"Pending payment"
 	},
 	{
@@ -30,7 +30,7 @@
 		"PO":"",
 		"Date":"2020-01-22T20:10:07.000Z",
 		"Items":"1",
-		"POTotal":"132",
+		"POTotal":"$132,001.00",
 		"Status":"Pending approval"
 	},
 	{
@@ -41,7 +41,7 @@
 		"PO":"",
 		"Date":"2019-12-05T20:10:07.000Z",
 		"Items":"5",
-		"POTotal":"981",
+		"POTotal":"$981,748.00",
 		"Status":"Cancelled"
 	},
 	{
@@ -52,7 +52,7 @@
 		"PO":"",
 		"Date":"2019-11-22T20:10:07.000Z",
 		"Items":"2",
-		"POTotal":"89",
+		"POTotal":"$89,000.00",
 		"Status":"Fulfilled"
 	},
 	{
@@ -63,7 +63,7 @@
 		"PO":"",
 		"Date":"2019-11-11T20:10:07.000Z",
 		"Items":"11",
-		"POTotal":"1213",
+		"POTotal":"$1,213,384.34",
 		"Status":"Fulfilled"
 	},
 	{
@@ -74,7 +74,7 @@
 		"PO":"",
 		"Date":"2019-10-10T20:10:07.000Z",
 		"Items":"2",
-		"POTotal":"210",
+		"POTotal":"$210,000.00",
 		"Status":"Fulfilled"
 	},	
 	{
@@ -85,7 +85,7 @@
 		"PO":"",
 		"Date":"2019-10-01T20:10:07.000Z",
 		"Items":"1",
-		"POTotal":"499",
+		"POTotal":"$499,000.00",
 		"Status":"Fulfilled"
 	}							
 	]
