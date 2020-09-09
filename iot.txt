@@ -15,7 +15,7 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "2700D.jpg",
+      "Image": "2700D2.jpg",
       "Name": "2700D Grinder",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "6/1/2020",
