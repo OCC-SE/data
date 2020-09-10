@@ -1,6 +1,6 @@
 [
         {
-		"label": "Modern Salerno Sofa",
+		"label": "GXT5 UPS",
 		"values":
 			[
 				{ "x":"Sunday", "y":7},
@@ -13,7 +13,7 @@
 			]
 	},
 	{
-		"label": "Rustic Ghent Chair",
+		"label": "DSE Packaged Free-Cooling Solution",
 		"values":
 			[
 				{ "x":"Sunday", "y":4},
