@@ -21,7 +21,7 @@
 		"PO":"",
 		"Date":"2020-09-01T20:10:07.000Z",
 		"Items":"2",
-		"POTotal":"$89.43",
+		"POTotal":"$434.91",
 		"Status":"Pending payment"
 	},	
 	{
