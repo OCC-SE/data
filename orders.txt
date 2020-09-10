@@ -59,7 +59,7 @@
 		"WebOrder":"o190016",
 		"Invoice":"0722903",
 		"Customer":"540000",
-		"Type":"Hudson",
+		"Type":"Purchase",
 		"PO":"",
 		"Date":"2020-03-13T20:10:07.000Z",
 		"Items":"11",
