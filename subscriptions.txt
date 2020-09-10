@@ -5,9 +5,9 @@
   "Alert":"false",
     "SubscriptionNumber":"MPS1101",
     "PrimaryPartyName":"Five Year Limited Warranty (SL-04550)",
-    "TotalContractValue":"$179.99",
-    "StartDate":"12/27/2017",
-    "EndDate":"12/27/2022",
+    "TotalContractValue":"$579.99",
+    "StartDate":"07/20/2020",
+    "EndDate":"07/20/2025",
     "Status":"Active",
     "Duration":5,
     "Period":"YR"
