@@ -39,7 +39,7 @@
 	{
 		"Alert":"false",
 		"WebOrder":"o290009",
-		"Invoice":"0722912",
+		"Invoice":"",
 		"Customer":"540000",
 		"Type":"Purchase",
 		"PO":"",
@@ -51,7 +51,7 @@
 	{
 		"Alert":"false",
 		"WebOrder":"o230008",
-		"Invoice":"0722909",
+		"Invoice":"",
 		"Customer":"540000",
 		"Type":"Warranty Renewal",
 		"PO":"",
