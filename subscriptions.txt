@@ -17,8 +17,8 @@
     "SubscriptionNumber":"MAS1101",
     "PrimaryPartyName":"Three Year Limited Warranty for Liebert GXT5 UPS Products (SL-23217)",
     "TotalContractValue":"$369.00",
-    "StartDate":"11/28/2017",
-    "EndDate":"11/28/2020",
+    "StartDate":"09/28/2017",
+    "EndDate":"09/28/2020",
     "Status":"Pending",
     "Duration":3,
     "Period":"YR"
