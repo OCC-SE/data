@@ -9,7 +9,7 @@
 		"PO":"",
 		"Date":"2020-09-05T20:10:07.000Z",
 		"Items":"4",
-		"POTotal":"743",
+		"POTotal":"$743.94",
 		"Status":"Submitted to fulfillment"
 	},
 	{
@@ -21,7 +21,7 @@
 		"PO":"",
 		"Date":"2020-09-01T20:10:07.000Z",
 		"Items":"2",
-		"POTotal":"89",
+		"POTotal":"$89.43",
 		"Status":"Pending payment"
 	},	
 	{
@@ -33,7 +33,7 @@
 		"PO":"",
 		"Date":"2020-08-29T20:10:07.000Z",
 		"Items":"2",
-		"POTotal":"312",
+		"POTotal":"$312.13",
 		"Status":"Pending approval"
 	},
 	{
@@ -45,7 +45,7 @@
 		"PO":"",
 		"Date":"2020-08-24T20:10:07.000Z",
 		"Items":"1",
-		"POTotal":"132",
+		"POTotal":"$132.44",
 		"Status":"Shipped"
 	},
 	{
@@ -57,7 +57,7 @@
 		"PO":"",
 		"Date":"2020-08-20T20:10:07.000Z",
 		"Items":"1",
-		"POTotal":"48.33",
+		"POTotal":"$48.33",
 		"Status":"Fulfilled"
 	},
 	{
@@ -68,7 +68,7 @@
 		"PO":"",
 		"Date":"2020-07-13T20:10:07.000Z",
 		"Items":"11",
-		"POTotal":"-1213",
+		"POTotal":"-1213.75",
 		"Status":"Fulfilled"
 	},
 	{
@@ -80,7 +80,7 @@
 		"PO":"",
 		"Date":"2020-07-20T20:10:07.000Z",
 		"Items":"1",
-		"POTotal":"48.33",
+		"POTotal":"$48.33",
 		"Status":"Fulfilled"
 	},	
 	{
@@ -92,7 +92,7 @@
 		"PO":"",
 		"Date":"2020-06-20T20:10:07.000Z",
 		"Items":"2",
-		"POTotal":"210",
+		"POTotal":"$210.02",
 		"Status":"Fulfilled"
 	},	
 	{
@@ -104,7 +104,7 @@
 		"PO":"",
 		"Date":"2020-05-21T20:10:07.000Z",
 		"Items":"1",
-		"POTotal":"499",
+		"POTotal":"$499.63",
 		"Status":"Fulfilled"
 	}							
 	]
