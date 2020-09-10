@@ -12,6 +12,17 @@
 		"Status":"Submitted to fulfillment"
 	},
 	{
+		"WebOrder":"o590017",
+		"Invoice":"0722904",
+		"Customer":"540000",
+		"Type":"Purchase",
+		"PO":"",
+		"Date":"2020-03-13T20:10:07.000Z",
+		"Items":"2",
+		"POTotal":"89",
+		"Status":"Pending payment"
+	},	
+	{
 		"WebOrder":"o380010",
 		"Invoice":"0722913",
 		"Customer":"540000",
@@ -20,7 +31,7 @@
 		"Date":"2020-06-01T20:10:07.000Z",
 		"Items":"2",
 		"POTotal":"312",
-		"Status":"Pending payment"
+		"Status":"Pending approval"
 	},
 	{
 		"WebOrder":"o290009",
@@ -42,33 +53,22 @@
 		"Date":"2020-04-15T20:10:07.000Z",
 		"Items":"5",
 		"POTotal":"981",
-		"Status":"Cancelled"
-	},
-	{
-		"WebOrder":"o590017",
-		"Invoice":"0722904",
-		"Customer":"540000",
-		"Type":"Refund",
-		"PO":"",
-		"Date":"2020-03-13T20:10:07.000Z",
-		"Items":"2",
-		"POTotal":"-89",
 		"Status":"Fulfilled"
 	},
 	{
 		"WebOrder":"o190016",
-		"Invoice":"0722903",
+		"Invoice":"",
 		"Customer":"540000",
-		"Type":"Purchase",
+		"Type":"Refund",
 		"PO":"",
 		"Date":"2020-03-13T20:10:07.000Z",
 		"Items":"11",
-		"POTotal":"1213",
+		"POTotal":"-1213",
 		"Status":"Fulfilled"
 	},
 	{
 		"WebOrder":"o320001",
-		"Invoice":"0722902",
+		"Invoice":"",
 		"Customer":"540000",
 		"Type":"Purchase",
 		"PO":"",
