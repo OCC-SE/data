@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "CriticalFlag": true,
-      "SeverityCdMeaning": "High",
+      "Serial": "true",
+      "Site": "High",
       "SeverityRank": 30,
       "SrNumber": "SR122192",
       "Title": "High temperature",
@@ -12,8 +12,8 @@
       "StatusCdMeaning": "Waiting"
     },
     {
-      "CriticalFlag": false,
-      "SeverityCdMeaning": "Medium",
+      "Serial": "true",
+      "Site": "High",
       "SeverityRank": 20,
       "SrNumber": "SR101153",
       "Title": "Low battery life",
@@ -23,8 +23,8 @@
       "StatusCdMeaning": "Closed"
     },
     {
-      "CriticalFlag": false,
-      "SeverityCdMeaning": "Low",
+      "Serial": "true",
+      "Site": "High",
       "SeverityRank": 30,
       "SrNumber": "SR107168",
       "Title": "Random noise coming from box",
