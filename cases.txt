@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "CriticalFlag": true,
+      "SeverityCdMeaning": "High",
+      "SeverityRank": 30,
+      "SrNumber": "SR122192",
+      "Title": "High temperature",
+      "ChannelTypeCdMeaning": "Chat",
+      "LastUpdateDate": "2020-08-13T17:27:48.372+00:00",
+      "AccountPartyName": "Hudson",
+      "StatusCdMeaning": "Waiting"
+    },
+    {
+      "CriticalFlag": false,
+      "SeverityCdMeaning": "Medium",
+      "SeverityRank": 20,
+      "SrNumber": "SR101153",
+      "Title": "Low battery life",
+      "ChannelTypeCdMeaning": "Phone",
+      "LastUpdateDate": "2019-08-07T16:37:31.059+00:00",
+      "AccountPartyName": "Hudson",
+      "StatusCdMeaning": "Closed"
+    },
+    {
+      "CriticalFlag": false,
+      "SeverityCdMeaning": "Low",
+      "SeverityRank": 30,
+      "SrNumber": "SR107168",
+      "Title": "Random noise coming from box",
+      "ChannelTypeCdMeaning": "Video",
+      "LastUpdateDate": "2019-06-11T08:47:15.061+00:00",
+      "AccountPartyName": "Hudson",
+      "StatusCdMeaning": "Closed"
+    }
+  ]
+}
