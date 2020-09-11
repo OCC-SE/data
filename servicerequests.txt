@@ -1,5 +1,5 @@
 [
-  {"label": "Open", "color":"#003f5c", "value": 6},
+  {"label": "Open", "color":"#003f5c", "value": 3},
 	{"label": "Fulfilled", "color":"#bc5090", "value": 15},
 	{"label": "Cancelled", "color":"#58508d", "value": 4},
 	{"label": "Withdrawn", "color":"#ff6361", "value": 1},
