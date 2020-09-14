@@ -4,7 +4,7 @@
       "Serial": "SR222",
       "Site": "MDM_221739",
       "Title": "Buzzing sound",
-      "Type": "Chat",
+      "Type": "Emergency Onsite Request",
       "LastUpdateDate": "2020-08-13T17:27:48.372+00:00",
       "StatusCdMeaning": "Open"
     },
@@ -12,7 +12,7 @@
       "Serial": "SR412",
       "Site": "MDM_221739",
       "Title": "Not powering down",
-      "Type": "Phone",
+      "Type": "Phone Request",
       "LastUpdateDate": "2019-08-07T16:37:31.059+00:00",
       "StatusCdMeaning": "Waiting"
     },
@@ -20,7 +20,7 @@
       "Serial": "SR411",
       "Site": "MDM_221739",
       "Title": "Temperature high",
-      "Type": "Video",
+      "Type": "Phone Request",
       "LastUpdateDate": "2019-06-11T08:47:15.061+00:00",
       "StatusCdMeaning": "Waiting"
     },
@@ -28,7 +28,7 @@
       "Serial": "SR401",
       "Site": "MDM_221739",
       "Title": "Hard drive is buzzing",
-      "Type": "Video",
+      "Type": "Onsite Request",
       "LastUpdateDate": "2019-05-30T08:47:15.061+00:00",
       "StatusCdMeaning": "Closed"
     },
@@ -36,7 +36,7 @@
       "Serial": "SR331",
       "Site": "MDM_221739",
       "Title": "Hard drive is clicking",
-      "Type": "Video",
+      "Type": "Phone Request",
       "LastUpdateDate": "2019-05-21T08:47:15.061+00:00",
       "StatusCdMeaning": "Closed"
     },
@@ -44,7 +44,7 @@
       "Serial": "SR222",
       "Site": "MDM_221739",
       "Title": "Rack shaking",
-      "Type": "Video",
+      "Type": "Chat Request",
       "LastUpdateDate": "2019-04-17T08:47:15.061+00:00",
       "StatusCdMeaning": "Closed"
     },
@@ -52,7 +52,7 @@
       "Serial": "SR118",
       "Site": "MDM_221739",
       "Title": "Power cord is worn",
-      "Type": "Video",
+      "Type": "Emergency Onsite Request",
       "LastUpdateDate": "2019-04-01T08:47:15.061+00:00",
       "StatusCdMeaning": "Closed"
     },
@@ -60,7 +60,7 @@
       "Serial": "SR001",
       "Site": "MDM_221739",
       "Title": "Random noise coming from box",
-      "Type": "Video",
+      "Type": "Phone Request",
       "LastUpdateDate": "2019-03-15T08:47:15.061+00:00",
       "StatusCdMeaning": "Closed"
     }
