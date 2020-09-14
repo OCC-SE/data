@@ -3,10 +3,10 @@
   {
   "Alert": "true",
     "SubscriptionNumber":"CPQ-2003",
-    "PrimaryPartyName":"IOT1",
+    "PrimaryPartyName":"Asset Monitoring",
     "TotalContractValue":"$720.00",
     "StartDate":"05/19/2020",
-    "EndDate":"04/30/2021",
+    "EndDate":"06/18/2020",
     "Status":"Active",
     "Duration":12,
     "Period":"Month"
@@ -14,7 +14,7 @@
   {
   "Alert": "true",
     "SubscriptionNumber":"CPQ-2004",
-    "PrimaryPartyName":"IOT1",
+    "PrimaryPartyName":"Asset Monitoring",
     "TotalContractValue":"$720.00",
     "StartDate":"05/01/2021",
     "EndDate":"04/30/2022",
