@@ -1,27 +1,67 @@
 {
   "items": [
     {
-      "Serial": "true",
-      "Site": "High",
-      "Title": "High temperature",
+      "Serial": "SR222",
+      "Site": "MDM_221739",
+      "Title": "Buzzing sound",
       "Type": "Chat",
       "LastUpdateDate": "2020-08-13T17:27:48.372+00:00",
+      "StatusCdMeaning": "Open"
+    },
+    {
+      "Serial": "SR412",
+      "Site": "MDM_221739",
+      "Title": "Not powering down",
+      "Type": "Phone",
+      "LastUpdateDate": "2019-08-07T16:37:31.059+00:00",
       "StatusCdMeaning": "Waiting"
     },
     {
-      "Serial": "true",
-      "Site": "High",
-      "Title": "Low battery life",
-      "Type": "Phone",
-      "LastUpdateDate": "2019-08-07T16:37:31.059+00:00",
+      "Serial": "SR411",
+      "Site": "MDM_221739",
+      "Title": "Temperature high",
+      "Type": "Video",
+      "LastUpdateDate": "2019-06-11T08:47:15.061+00:00",
+      "StatusCdMeaning": "Waiting"
+    },
+    {
+      "Serial": "SR401",
+      "Site": "MDM_221739",
+      "Title": "Hard drive is buzzing",
+      "Type": "Video",
+      "LastUpdateDate": "2019-05-30T08:47:15.061+00:00",
       "StatusCdMeaning": "Closed"
     },
     {
-      "Serial": "true",
-      "Site": "High",
+      "Serial": "SR331",
+      "Site": "MDM_221739",
+      "Title": "Hard drive is clicking",
+      "Type": "Video",
+      "LastUpdateDate": "2019-05-21T08:47:15.061+00:00",
+      "StatusCdMeaning": "Closed"
+    },
+    {
+      "Serial": "SR222",
+      "Site": "MDM_221739",
+      "Title": "Rack shaking",
+      "Type": "Video",
+      "LastUpdateDate": "2019-04-17T08:47:15.061+00:00",
+      "StatusCdMeaning": "Closed"
+    },
+    {
+      "Serial": "SR118",
+      "Site": "MDM_221739",
+      "Title": "Power cord is worn",
+      "Type": "Video",
+      "LastUpdateDate": "2019-04-01T08:47:15.061+00:00",
+      "StatusCdMeaning": "Closed"
+    },
+    {
+      "Serial": "SR001",
+      "Site": "MDM_221739",
       "Title": "Random noise coming from box",
       "Type": "Video",
-      "LastUpdateDate": "2019-06-11T08:47:15.061+00:00",
+      "LastUpdateDate": "2019-03-15T08:47:15.061+00:00",
       "StatusCdMeaning": "Closed"
     }
   ]
