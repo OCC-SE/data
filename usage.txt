@@ -1,6 +1,6 @@
 [
         {
-		"label": "GXT5 UPS",
+		"label": "jExperience",
 		"values":
 			[
 				{ "x":"Sunday", "y":7},
@@ -13,7 +13,7 @@
 			]
 	},
 	{
-		"label": "DSE Packaged Free-Cooling Solution",
+		"label": "jContent",
 		"values":
 			[
 				{ "x":"Sunday", "y":4},
