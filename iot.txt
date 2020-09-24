@@ -3,24 +3,24 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "GXT5.jpg",
-      "Name": "Vertiv™ Liebert® GXT5 UPS",
+      "Image": "jexperience.PNG",
+      "Name": "jExperience",
       "PurchaseDate": "10/12/2018",
       "LastServiced": "n/a",
-      "BatteryLife": "100%",
-      "ActiveECO": "97%",
-      "Online": "95%"
+      "BatteryLife": "14",
+      "ActiveECO": "215,500",
+      "Online": "45%"
     },
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "DSE.jpg",
-      "Name": "Liebert® DSE Packaged Free-Cooling Solution",
+      "Image": "jcontent.PNG",
+      "Name": "jContent",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
-      "BatteryLife": "n/a",
-      "ActiveECO": "n/a",
-      "Online": "n/a"
+      "BatteryLife": "33",
+      "ActiveECO": "976,000",
+      "Online": "71%"
     }
   ]
 }
