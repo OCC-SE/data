@@ -4,7 +4,7 @@
 			"Alert": "false",
 				 "transactionID_t": "CPQ-2003",
 				 "version_number_versionTransaction_t": "2",
-				 "transactionName_t": "Liebert CRV In Row Cooling System, 19-40kW",
+				 "transactionName_t": "Liebert CRV In Row Cooling System",
 		             	 "status_t": {
                 		  	"displayValue": "Created",
                   		  	"value": "CREATED"
