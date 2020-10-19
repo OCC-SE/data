@@ -1,6 +1,6 @@
 [
         {
-		"label": "Modern Salerno Sofa",
+		"label": "Data Protection",
 		"values":
 			[
 				{ "x":"Sunday", "y":7},
@@ -13,7 +13,7 @@
 			]
 	},
 	{
-		"label": "Rustic Ghent Chair",
+		"label": "Access Management",
 		"values":
 			[
 				{ "x":"Sunday", "y":4},
