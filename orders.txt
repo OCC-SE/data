@@ -9,7 +9,7 @@
 		"Date":"2020-02-15T20:10:07.000Z",
 		"Items":"4",
 		"POTotal":"$7,800",
-		"Status":"Submitted to fulfillment"
+		"Status":"In Fulfillment"
 	},
 	{
 		"WebOrder":"o390010",
@@ -20,7 +20,7 @@
 		"Date":"2020-02-01T20:10:07.000Z",
 		"Items":"2",
 		"POTotal":"$28,900",
-		"Status":"Pending payment"
+		"Status":"Pending Payment"
 	},
 	{
 		"WebOrder":"o390009",
@@ -31,7 +31,7 @@
 		"Date":"2020-01-22T20:10:07.000Z",
 		"Items":"1",
 		"POTotal":"$17,500",
-		"Status":"Pending approval"
+		"Status":"Pending Approval"
 	},
 	{
 		"WebOrder":"o390008",
@@ -48,7 +48,7 @@
 		"WebOrder":"o390007",
 		"Invoice":"0722904",
 		"Customer":"5400",
-		"Master":"CareAware Capacity Management",
+		"Master":"CareAware Capacity Mgt",
 		"PO":"3433",
 		"Date":"2019-11-22T20:10:07.000Z",
 		"Items":"2",
