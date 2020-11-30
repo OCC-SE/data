@@ -13,7 +13,7 @@
 			]
 	},
 	{
-		"label": "Double Barrel - OH",
+		"label": "Nomad Plant - OH",
 		"values":
 			[
 				{ "x":"Q1 2019", "y":200},
