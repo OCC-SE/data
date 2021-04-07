@@ -15,7 +15,7 @@
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "/file/v6650723654855385588/products/Nextiva-ONE-Enterprise.jpg",
+      "Image": "/file/v6650723654855385588/products/Nextiva-ONE-Professional.jpg",
       "Name": "Nextiva One - Professional",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
