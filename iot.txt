@@ -3,25 +3,25 @@
     {
       "Alert": "false",
       "Status": "online",
-      "Image": "salerno-sofa-blue.jpg",
-      "Name": "Modern Salerno Sofa",
-      "PurchaseDate": "10/12/2018",
+      "Image": "/file/products/Nextiva-ONE-Enterprise.jpg",
+      "Name": "Nextiva One - Enterprise",
+      "PurchaseDate": "10/12/2020",
       "LastServiced": "n/a",
       "UsageMonthAvg": 71,
       "UsageTotal": 801,
-      "Temperature": "72 degrees",
+      "Temperature": "72 Users",
       "CushionPressure": "93%"
     },
     {
       "Alert": "true",
       "Status": "online",
-      "Image": "shutterstock_122095657.jpg",
-      "Name": "Rustic Ghent Chair",
+      "Image": "/file/v6650723654855385588/products/Nextiva-ONE-Enterprise.jpg",
+      "Name": "Nextiva One - Professional",
       "PurchaseDate": "7/5/2019",
       "LastServiced": "n/a",
       "UsageMonthAvg": 33,
       "UsageTotal": 271,
-      "Temperature": "69 degrees",
+      "Temperature": "6 Users",
       "CushionPressure": "97%"
     }
   ]
