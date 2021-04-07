@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "Alert": "false",
+      "Status": "online",
+      "Image": "/file/products/Nextiva-ONE-Enterprise.jpg",
+      "Name": "Nextiva One - Enterprise",
+      "PurchaseDate": "10/12/2020",
+      "LastServiced": "n/a",
+      "UsageMonthAvg": 71,
+      "UsageTotal": 801,
+      "Temperature": "72 Users",
+      "CushionPressure": "93%"
+    },
+    {
+      "Alert": "true",
+      "Status": "online",
+      "Image": "/file/v6650723654855385588/products/Nextiva-ONE-Professional.jpg",
+      "Name": "Nextiva One - Professional",
+      "PurchaseDate": "7/5/2019",
+      "LastServiced": "n/a",
+      "UsageMonthAvg": 33,
+      "UsageTotal": 271,
+      "Temperature": "6 Users",
+      "CushionPressure": "97%"
+    }
+  ]
+}
